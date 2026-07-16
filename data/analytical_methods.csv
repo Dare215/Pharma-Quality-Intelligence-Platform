@@ -1,0 +1,46 @@
+method_id,method_code,method_name,method_type,validation_status,last_validation_date
+1,AM-001,Analytical Method 01,Microbiology,Validated,2026-03-14
+2,AM-002,Analytical Method 02,Microbiology,Validated,2024-01-04
+3,AM-003,Analytical Method 03,UV-Vis,Validated,2023-05-04
+4,AM-004,Analytical Method 04,GC,Validated,2026-03-30
+5,AM-005,Analytical Method 05,GC,Revalidation Due,2025-10-05
+6,AM-006,Analytical Method 06,pH,Validated,2025-10-04
+7,AM-007,Analytical Method 07,HPLC,Validated,2024-09-09
+8,AM-008,Analytical Method 08,UV-Vis,Conditional,2023-03-26
+9,AM-009,Analytical Method 09,Spectroscopy,Conditional,2024-04-04
+10,AM-010,Analytical Method 10,HPLC,Validated,2023-07-05
+11,AM-011,Analytical Method 11,pH,Conditional,2023-08-20
+12,AM-012,Analytical Method 12,UV-Vis,Conditional,2023-02-26
+13,AM-013,Analytical Method 13,Spectroscopy,Validated,2023-06-12
+14,AM-014,Analytical Method 14,Microbiology,Validated,2024-05-16
+15,AM-015,Analytical Method 15,Titration,Revalidation Due,2026-04-13
+16,AM-016,Analytical Method 16,GC,Validated,2026-02-11
+17,AM-017,Analytical Method 17,Titration,Validated,2023-11-29
+18,AM-018,Analytical Method 18,Spectroscopy,Validated,2026-02-26
+19,AM-019,Analytical Method 19,Titration,Conditional,2024-05-16
+20,AM-020,Analytical Method 20,Microbiology,Revalidation Due,2025-04-06
+21,AM-021,Analytical Method 21,Spectroscopy,Conditional,2023-06-10
+22,AM-022,Analytical Method 22,pH,Validated,2024-09-06
+23,AM-023,Analytical Method 23,Microbiology,Validated,2023-01-11
+24,AM-024,Analytical Method 24,HPLC,Validated,2024-11-09
+25,AM-025,Analytical Method 25,UV-Vis,Revalidation Due,2024-12-03
+26,AM-026,Analytical Method 26,UV-Vis,Validated,2025-01-01
+27,AM-027,Analytical Method 27,Titration,Validated,2025-06-05
+28,AM-028,Analytical Method 28,pH,Conditional,2025-10-31
+29,AM-029,Analytical Method 29,GC,Validated,2023-12-20
+30,AM-030,Analytical Method 30,UV-Vis,Validated,2026-01-20
+31,AM-031,Analytical Method 31,UV-Vis,Validated,2023-07-25
+32,AM-032,Analytical Method 32,Titration,Validated,2023-10-09
+33,AM-033,Analytical Method 33,Spectroscopy,Validated,2026-03-19
+34,AM-034,Analytical Method 34,HPLC,Validated,2025-05-12
+35,AM-035,Analytical Method 35,HPLC,Validated,2025-08-15
+36,AM-036,Analytical Method 36,Spectroscopy,Validated,2025-07-08
+37,AM-037,Analytical Method 37,Microbiology,Conditional,2025-09-03
+38,AM-038,Analytical Method 38,UV-Vis,Validated,2023-09-19
+39,AM-039,Analytical Method 39,Titration,Validated,2023-05-24
+40,AM-040,Analytical Method 40,HPLC,Validated,2024-08-31
+41,AM-041,Analytical Method 41,Titration,Conditional,2026-01-05
+42,AM-042,Analytical Method 42,pH,Validated,2025-09-28
+43,AM-043,Analytical Method 43,GC,Validated,2025-05-20
+44,AM-044,Analytical Method 44,HPLC,Conditional,2023-02-17
+45,AM-045,Analytical Method 45,HPLC,Validated,2025-08-10

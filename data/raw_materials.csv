@@ -1,0 +1,301 @@
+material_id,material_code,material_name,material_category,criticality,storage_condition,compendial_standard
+1,RM-00001,Synthetic Material 001,Cleaning Agent,Non-Critical,15-25C,Internal
+2,RM-00002,Synthetic Material 002,Buffer,High-Critical,-80C,EP
+3,RM-00003,Synthetic Material 003,Cleaning Agent,High-Critical,15-25C,JP
+4,RM-00004,Synthetic Material 004,Polymer,Non-Critical,-80C,USP
+5,RM-00005,Synthetic Material 005,Cleaning Agent,Non-Critical,2-8C,USP
+6,RM-00006,Synthetic Material 006,Excipient,High-Critical,-20C,EP
+7,RM-00007,Synthetic Material 007,Cleaning Agent,Critical,-20C,EP
+8,RM-00008,Synthetic Material 008,Buffer,Non-Critical,15-25C,EP
+9,RM-00009,Synthetic Material 009,Media,Critical,15-25C,USP
+10,RM-00010,Synthetic Material 010,Media,High-Critical,-20C,EP
+11,RM-00011,Synthetic Material 011,Polymer,Non-Critical,-80C,JP
+12,RM-00012,Synthetic Material 012,Single-Use,High-Critical,15-25C,USP
+13,RM-00013,Synthetic Material 013,Reagent,Critical,-80C,Internal
+14,RM-00014,Synthetic Material 014,Reagent,Non-Critical,-20C,JP
+15,RM-00015,Synthetic Material 015,Excipient,High-Critical,15-25C,Internal
+16,RM-00016,Synthetic Material 016,Media,Non-Critical,-20C,Internal
+17,RM-00017,Synthetic Material 017,Reagent,Critical,2-8C,EP
+18,RM-00018,Synthetic Material 018,Cleaning Agent,Critical,-80C,EP
+19,RM-00019,Synthetic Material 019,Polymer,Non-Critical,2-8C,JP
+20,RM-00020,Synthetic Material 020,Media,High-Critical,2-8C,EP
+21,RM-00021,Synthetic Material 021,Reagent,Critical,15-25C,Internal
+22,RM-00022,Synthetic Material 022,Buffer,Non-Critical,-20C,USP
+23,RM-00023,Synthetic Material 023,Polymer,Non-Critical,-80C,EP
+24,RM-00024,Synthetic Material 024,Excipient,Non-Critical,-80C,USP
+25,RM-00025,Synthetic Material 025,Media,Critical,2-8C,Internal
+26,RM-00026,Synthetic Material 026,Buffer,Non-Critical,15-25C,EP
+27,RM-00027,Synthetic Material 027,Buffer,Critical,2-8C,JP
+28,RM-00028,Synthetic Material 028,Reagent,High-Critical,-80C,Internal
+29,RM-00029,Synthetic Material 029,Media,High-Critical,-80C,Internal
+30,RM-00030,Synthetic Material 030,Polymer,Non-Critical,-20C,EP
+31,RM-00031,Synthetic Material 031,Cleaning Agent,Non-Critical,15-25C,Internal
+32,RM-00032,Synthetic Material 032,Single-Use,Critical,-80C,JP
+33,RM-00033,Synthetic Material 033,Reagent,Critical,-20C,Internal
+34,RM-00034,Synthetic Material 034,Polymer,Critical,2-8C,EP
+35,RM-00035,Synthetic Material 035,Excipient,Critical,-80C,EP
+36,RM-00036,Synthetic Material 036,Reagent,Critical,-20C,Internal
+37,RM-00037,Synthetic Material 037,Polymer,Non-Critical,15-25C,Internal
+38,RM-00038,Synthetic Material 038,Excipient,Non-Critical,2-8C,USP
+39,RM-00039,Synthetic Material 039,Buffer,Critical,2-8C,EP
+40,RM-00040,Synthetic Material 040,Reagent,Non-Critical,15-25C,JP
+41,RM-00041,Synthetic Material 041,Media,Critical,-20C,Internal
+42,RM-00042,Synthetic Material 042,Single-Use,Critical,15-25C,JP
+43,RM-00043,Synthetic Material 043,Polymer,High-Critical,15-25C,EP
+44,RM-00044,Synthetic Material 044,Cleaning Agent,High-Critical,-80C,USP
+45,RM-00045,Synthetic Material 045,Excipient,Non-Critical,-20C,Internal
+46,RM-00046,Synthetic Material 046,Cleaning Agent,Non-Critical,-20C,USP
+47,RM-00047,Synthetic Material 047,Polymer,Critical,2-8C,USP
+48,RM-00048,Synthetic Material 048,Excipient,Critical,15-25C,JP
+49,RM-00049,Synthetic Material 049,Media,Non-Critical,-20C,USP
+50,RM-00050,Synthetic Material 050,Buffer,Critical,2-8C,Internal
+51,RM-00051,Synthetic Material 051,Excipient,Critical,-20C,USP
+52,RM-00052,Synthetic Material 052,Buffer,Critical,15-25C,Internal
+53,RM-00053,Synthetic Material 053,Buffer,Critical,2-8C,USP
+54,RM-00054,Synthetic Material 054,Polymer,High-Critical,-20C,USP
+55,RM-00055,Synthetic Material 055,Polymer,Critical,-20C,JP
+56,RM-00056,Synthetic Material 056,Reagent,High-Critical,2-8C,JP
+57,RM-00057,Synthetic Material 057,Buffer,Non-Critical,2-8C,JP
+58,RM-00058,Synthetic Material 058,Buffer,Non-Critical,-20C,USP
+59,RM-00059,Synthetic Material 059,Cleaning Agent,Non-Critical,2-8C,JP
+60,RM-00060,Synthetic Material 060,Single-Use,High-Critical,2-8C,JP
+61,RM-00061,Synthetic Material 061,Media,Non-Critical,-80C,USP
+62,RM-00062,Synthetic Material 062,Buffer,Critical,-80C,Internal
+63,RM-00063,Synthetic Material 063,Polymer,Critical,-20C,Internal
+64,RM-00064,Synthetic Material 064,Single-Use,High-Critical,-20C,Internal
+65,RM-00065,Synthetic Material 065,Buffer,Critical,2-8C,Internal
+66,RM-00066,Synthetic Material 066,Buffer,Non-Critical,15-25C,EP
+67,RM-00067,Synthetic Material 067,Buffer,Critical,2-8C,JP
+68,RM-00068,Synthetic Material 068,Media,Non-Critical,15-25C,EP
+69,RM-00069,Synthetic Material 069,Buffer,Non-Critical,15-25C,USP
+70,RM-00070,Synthetic Material 070,Cleaning Agent,Critical,-80C,JP
+71,RM-00071,Synthetic Material 071,Polymer,Non-Critical,-20C,EP
+72,RM-00072,Synthetic Material 072,Single-Use,High-Critical,2-8C,EP
+73,RM-00073,Synthetic Material 073,Media,Critical,15-25C,USP
+74,RM-00074,Synthetic Material 074,Single-Use,Non-Critical,-80C,EP
+75,RM-00075,Synthetic Material 075,Single-Use,High-Critical,15-25C,EP
+76,RM-00076,Synthetic Material 076,Excipient,Non-Critical,-20C,EP
+77,RM-00077,Synthetic Material 077,Buffer,Non-Critical,-20C,EP
+78,RM-00078,Synthetic Material 078,Single-Use,High-Critical,2-8C,EP
+79,RM-00079,Synthetic Material 079,Excipient,Non-Critical,2-8C,Internal
+80,RM-00080,Synthetic Material 080,Excipient,Critical,2-8C,Internal
+81,RM-00081,Synthetic Material 081,Cleaning Agent,Non-Critical,-80C,USP
+82,RM-00082,Synthetic Material 082,Buffer,Critical,2-8C,JP
+83,RM-00083,Synthetic Material 083,Reagent,Critical,2-8C,Internal
+84,RM-00084,Synthetic Material 084,Reagent,Non-Critical,-80C,JP
+85,RM-00085,Synthetic Material 085,Reagent,Non-Critical,2-8C,Internal
+86,RM-00086,Synthetic Material 086,Media,Critical,15-25C,JP
+87,RM-00087,Synthetic Material 087,Single-Use,Critical,15-25C,EP
+88,RM-00088,Synthetic Material 088,Reagent,Non-Critical,-80C,Internal
+89,RM-00089,Synthetic Material 089,Single-Use,Critical,-20C,USP
+90,RM-00090,Synthetic Material 090,Buffer,High-Critical,15-25C,JP
+91,RM-00091,Synthetic Material 091,Polymer,Non-Critical,-20C,JP
+92,RM-00092,Synthetic Material 092,Excipient,Critical,15-25C,USP
+93,RM-00093,Synthetic Material 093,Excipient,Non-Critical,-20C,Internal
+94,RM-00094,Synthetic Material 094,Buffer,Critical,-20C,EP
+95,RM-00095,Synthetic Material 095,Single-Use,Critical,2-8C,USP
+96,RM-00096,Synthetic Material 096,Media,Critical,-80C,EP
+97,RM-00097,Synthetic Material 097,Excipient,Critical,2-8C,USP
+98,RM-00098,Synthetic Material 098,Buffer,Critical,15-25C,EP
+99,RM-00099,Synthetic Material 099,Excipient,Critical,2-8C,JP
+100,RM-00100,Synthetic Material 100,Polymer,High-Critical,15-25C,EP
+101,RM-00101,Synthetic Material 101,Polymer,High-Critical,-80C,USP
+102,RM-00102,Synthetic Material 102,Media,Non-Critical,2-8C,USP
+103,RM-00103,Synthetic Material 103,Polymer,High-Critical,-80C,EP
+104,RM-00104,Synthetic Material 104,Media,Critical,-20C,JP
+105,RM-00105,Synthetic Material 105,Reagent,Non-Critical,2-8C,EP
+106,RM-00106,Synthetic Material 106,Media,Non-Critical,15-25C,JP
+107,RM-00107,Synthetic Material 107,Buffer,Critical,15-25C,JP
+108,RM-00108,Synthetic Material 108,Excipient,Critical,15-25C,Internal
+109,RM-00109,Synthetic Material 109,Buffer,Non-Critical,-20C,JP
+110,RM-00110,Synthetic Material 110,Reagent,Critical,-80C,Internal
+111,RM-00111,Synthetic Material 111,Cleaning Agent,Non-Critical,15-25C,USP
+112,RM-00112,Synthetic Material 112,Cleaning Agent,Critical,-20C,JP
+113,RM-00113,Synthetic Material 113,Excipient,Critical,2-8C,JP
+114,RM-00114,Synthetic Material 114,Single-Use,Critical,15-25C,JP
+115,RM-00115,Synthetic Material 115,Polymer,Non-Critical,-20C,USP
+116,RM-00116,Synthetic Material 116,Reagent,Non-Critical,-80C,USP
+117,RM-00117,Synthetic Material 117,Media,Critical,2-8C,Internal
+118,RM-00118,Synthetic Material 118,Media,High-Critical,2-8C,Internal
+119,RM-00119,Synthetic Material 119,Media,Critical,15-25C,EP
+120,RM-00120,Synthetic Material 120,Reagent,Critical,-80C,JP
+121,RM-00121,Synthetic Material 121,Polymer,Critical,15-25C,USP
+122,RM-00122,Synthetic Material 122,Media,Critical,2-8C,USP
+123,RM-00123,Synthetic Material 123,Cleaning Agent,High-Critical,15-25C,JP
+124,RM-00124,Synthetic Material 124,Reagent,Critical,2-8C,USP
+125,RM-00125,Synthetic Material 125,Polymer,High-Critical,-80C,USP
+126,RM-00126,Synthetic Material 126,Buffer,Non-Critical,2-8C,USP
+127,RM-00127,Synthetic Material 127,Excipient,Non-Critical,-20C,JP
+128,RM-00128,Synthetic Material 128,Excipient,Non-Critical,-20C,JP
+129,RM-00129,Synthetic Material 129,Excipient,Critical,-20C,EP
+130,RM-00130,Synthetic Material 130,Excipient,High-Critical,-80C,USP
+131,RM-00131,Synthetic Material 131,Single-Use,Critical,-20C,JP
+132,RM-00132,Synthetic Material 132,Cleaning Agent,Critical,2-8C,JP
+133,RM-00133,Synthetic Material 133,Media,Non-Critical,-80C,Internal
+134,RM-00134,Synthetic Material 134,Single-Use,Critical,2-8C,EP
+135,RM-00135,Synthetic Material 135,Polymer,Critical,-80C,Internal
+136,RM-00136,Synthetic Material 136,Polymer,Critical,2-8C,JP
+137,RM-00137,Synthetic Material 137,Buffer,Non-Critical,15-25C,JP
+138,RM-00138,Synthetic Material 138,Excipient,Critical,-20C,USP
+139,RM-00139,Synthetic Material 139,Media,Critical,2-8C,USP
+140,RM-00140,Synthetic Material 140,Single-Use,Critical,-80C,Internal
+141,RM-00141,Synthetic Material 141,Buffer,Critical,-80C,Internal
+142,RM-00142,Synthetic Material 142,Excipient,Critical,15-25C,Internal
+143,RM-00143,Synthetic Material 143,Buffer,High-Critical,2-8C,Internal
+144,RM-00144,Synthetic Material 144,Single-Use,Critical,15-25C,Internal
+145,RM-00145,Synthetic Material 145,Media,High-Critical,-20C,JP
+146,RM-00146,Synthetic Material 146,Media,Critical,15-25C,EP
+147,RM-00147,Synthetic Material 147,Single-Use,Critical,15-25C,Internal
+148,RM-00148,Synthetic Material 148,Buffer,Non-Critical,15-25C,JP
+149,RM-00149,Synthetic Material 149,Excipient,Non-Critical,15-25C,EP
+150,RM-00150,Synthetic Material 150,Reagent,High-Critical,2-8C,Internal
+151,RM-00151,Synthetic Material 151,Cleaning Agent,Critical,-20C,EP
+152,RM-00152,Synthetic Material 152,Reagent,Non-Critical,2-8C,JP
+153,RM-00153,Synthetic Material 153,Reagent,Critical,2-8C,JP
+154,RM-00154,Synthetic Material 154,Single-Use,High-Critical,-80C,JP
+155,RM-00155,Synthetic Material 155,Excipient,Critical,-80C,JP
+156,RM-00156,Synthetic Material 156,Cleaning Agent,High-Critical,15-25C,USP
+157,RM-00157,Synthetic Material 157,Reagent,High-Critical,-20C,USP
+158,RM-00158,Synthetic Material 158,Cleaning Agent,Critical,-80C,USP
+159,RM-00159,Synthetic Material 159,Buffer,Non-Critical,-80C,EP
+160,RM-00160,Synthetic Material 160,Media,Non-Critical,-80C,JP
+161,RM-00161,Synthetic Material 161,Excipient,Non-Critical,15-25C,JP
+162,RM-00162,Synthetic Material 162,Media,Critical,-80C,USP
+163,RM-00163,Synthetic Material 163,Cleaning Agent,High-Critical,-80C,JP
+164,RM-00164,Synthetic Material 164,Polymer,Non-Critical,-80C,EP
+165,RM-00165,Synthetic Material 165,Polymer,High-Critical,-80C,JP
+166,RM-00166,Synthetic Material 166,Buffer,Critical,-20C,EP
+167,RM-00167,Synthetic Material 167,Cleaning Agent,Critical,15-25C,JP
+168,RM-00168,Synthetic Material 168,Single-Use,Non-Critical,2-8C,JP
+169,RM-00169,Synthetic Material 169,Excipient,Non-Critical,-20C,Internal
+170,RM-00170,Synthetic Material 170,Media,Critical,-80C,EP
+171,RM-00171,Synthetic Material 171,Reagent,Critical,-20C,USP
+172,RM-00172,Synthetic Material 172,Excipient,Critical,-80C,EP
+173,RM-00173,Synthetic Material 173,Single-Use,Non-Critical,-20C,Internal
+174,RM-00174,Synthetic Material 174,Buffer,Non-Critical,-80C,EP
+175,RM-00175,Synthetic Material 175,Polymer,High-Critical,2-8C,EP
+176,RM-00176,Synthetic Material 176,Reagent,High-Critical,2-8C,USP
+177,RM-00177,Synthetic Material 177,Media,High-Critical,-80C,JP
+178,RM-00178,Synthetic Material 178,Excipient,High-Critical,2-8C,USP
+179,RM-00179,Synthetic Material 179,Buffer,Critical,2-8C,JP
+180,RM-00180,Synthetic Material 180,Reagent,High-Critical,-80C,EP
+181,RM-00181,Synthetic Material 181,Media,Non-Critical,-20C,EP
+182,RM-00182,Synthetic Material 182,Media,Critical,-20C,EP
+183,RM-00183,Synthetic Material 183,Excipient,Non-Critical,2-8C,USP
+184,RM-00184,Synthetic Material 184,Excipient,Critical,15-25C,Internal
+185,RM-00185,Synthetic Material 185,Media,High-Critical,-80C,EP
+186,RM-00186,Synthetic Material 186,Buffer,Critical,-20C,Internal
+187,RM-00187,Synthetic Material 187,Cleaning Agent,High-Critical,15-25C,EP
+188,RM-00188,Synthetic Material 188,Buffer,Critical,-80C,EP
+189,RM-00189,Synthetic Material 189,Single-Use,Non-Critical,-20C,JP
+190,RM-00190,Synthetic Material 190,Buffer,Non-Critical,-80C,EP
+191,RM-00191,Synthetic Material 191,Reagent,Non-Critical,-20C,JP
+192,RM-00192,Synthetic Material 192,Single-Use,Critical,15-25C,EP
+193,RM-00193,Synthetic Material 193,Excipient,High-Critical,2-8C,EP
+194,RM-00194,Synthetic Material 194,Buffer,Non-Critical,-80C,USP
+195,RM-00195,Synthetic Material 195,Media,Critical,2-8C,USP
+196,RM-00196,Synthetic Material 196,Buffer,High-Critical,15-25C,Internal
+197,RM-00197,Synthetic Material 197,Polymer,Critical,15-25C,EP
+198,RM-00198,Synthetic Material 198,Cleaning Agent,High-Critical,15-25C,JP
+199,RM-00199,Synthetic Material 199,Cleaning Agent,High-Critical,15-25C,JP
+200,RM-00200,Synthetic Material 200,Media,Critical,-80C,JP
+201,RM-00201,Synthetic Material 201,Excipient,Critical,-20C,EP
+202,RM-00202,Synthetic Material 202,Single-Use,Non-Critical,-80C,JP
+203,RM-00203,Synthetic Material 203,Buffer,Critical,-80C,USP
+204,RM-00204,Synthetic Material 204,Single-Use,Critical,-20C,EP
+205,RM-00205,Synthetic Material 205,Excipient,Non-Critical,15-25C,JP
+206,RM-00206,Synthetic Material 206,Excipient,Non-Critical,15-25C,JP
+207,RM-00207,Synthetic Material 207,Excipient,Non-Critical,2-8C,Internal
+208,RM-00208,Synthetic Material 208,Polymer,Non-Critical,-20C,Internal
+209,RM-00209,Synthetic Material 209,Single-Use,Non-Critical,15-25C,USP
+210,RM-00210,Synthetic Material 210,Polymer,High-Critical,-20C,USP
+211,RM-00211,Synthetic Material 211,Polymer,Critical,-20C,Internal
+212,RM-00212,Synthetic Material 212,Media,Critical,15-25C,Internal
+213,RM-00213,Synthetic Material 213,Excipient,Non-Critical,-80C,USP
+214,RM-00214,Synthetic Material 214,Reagent,Non-Critical,15-25C,EP
+215,RM-00215,Synthetic Material 215,Excipient,Critical,2-8C,Internal
+216,RM-00216,Synthetic Material 216,Polymer,Critical,-80C,JP
+217,RM-00217,Synthetic Material 217,Excipient,Non-Critical,-20C,JP
+218,RM-00218,Synthetic Material 218,Single-Use,Critical,-20C,EP
+219,RM-00219,Synthetic Material 219,Media,Critical,2-8C,USP
+220,RM-00220,Synthetic Material 220,Single-Use,High-Critical,-20C,USP
+221,RM-00221,Synthetic Material 221,Media,Non-Critical,15-25C,EP
+222,RM-00222,Synthetic Material 222,Excipient,Critical,2-8C,EP
+223,RM-00223,Synthetic Material 223,Buffer,Critical,-80C,JP
+224,RM-00224,Synthetic Material 224,Cleaning Agent,Non-Critical,15-25C,EP
+225,RM-00225,Synthetic Material 225,Cleaning Agent,Critical,2-8C,USP
+226,RM-00226,Synthetic Material 226,Single-Use,High-Critical,15-25C,JP
+227,RM-00227,Synthetic Material 227,Reagent,Non-Critical,-20C,EP
+228,RM-00228,Synthetic Material 228,Reagent,Critical,-80C,JP
+229,RM-00229,Synthetic Material 229,Buffer,Non-Critical,15-25C,JP
+230,RM-00230,Synthetic Material 230,Single-Use,Critical,2-8C,Internal
+231,RM-00231,Synthetic Material 231,Reagent,High-Critical,-80C,EP
+232,RM-00232,Synthetic Material 232,Buffer,Critical,15-25C,Internal
+233,RM-00233,Synthetic Material 233,Single-Use,Non-Critical,2-8C,EP
+234,RM-00234,Synthetic Material 234,Media,Non-Critical,-20C,JP
+235,RM-00235,Synthetic Material 235,Single-Use,Critical,15-25C,EP
+236,RM-00236,Synthetic Material 236,Excipient,High-Critical,-20C,EP
+237,RM-00237,Synthetic Material 237,Buffer,Critical,15-25C,EP
+238,RM-00238,Synthetic Material 238,Cleaning Agent,Critical,-20C,Internal
+239,RM-00239,Synthetic Material 239,Media,High-Critical,-20C,Internal
+240,RM-00240,Synthetic Material 240,Polymer,Non-Critical,-20C,JP
+241,RM-00241,Synthetic Material 241,Excipient,High-Critical,-80C,USP
+242,RM-00242,Synthetic Material 242,Excipient,Critical,-20C,USP
+243,RM-00243,Synthetic Material 243,Cleaning Agent,Non-Critical,-80C,EP
+244,RM-00244,Synthetic Material 244,Cleaning Agent,Critical,-20C,USP
+245,RM-00245,Synthetic Material 245,Single-Use,Non-Critical,15-25C,JP
+246,RM-00246,Synthetic Material 246,Buffer,Non-Critical,-20C,JP
+247,RM-00247,Synthetic Material 247,Buffer,Non-Critical,-80C,EP
+248,RM-00248,Synthetic Material 248,Cleaning Agent,Critical,-20C,JP
+249,RM-00249,Synthetic Material 249,Excipient,Non-Critical,2-8C,EP
+250,RM-00250,Synthetic Material 250,Excipient,Critical,2-8C,JP
+251,RM-00251,Synthetic Material 251,Buffer,Non-Critical,15-25C,EP
+252,RM-00252,Synthetic Material 252,Buffer,Critical,-20C,USP
+253,RM-00253,Synthetic Material 253,Reagent,Non-Critical,-20C,EP
+254,RM-00254,Synthetic Material 254,Excipient,Critical,2-8C,Internal
+255,RM-00255,Synthetic Material 255,Single-Use,High-Critical,15-25C,EP
+256,RM-00256,Synthetic Material 256,Media,Non-Critical,-20C,USP
+257,RM-00257,Synthetic Material 257,Media,Critical,15-25C,USP
+258,RM-00258,Synthetic Material 258,Buffer,Critical,2-8C,Internal
+259,RM-00259,Synthetic Material 259,Polymer,Critical,-80C,Internal
+260,RM-00260,Synthetic Material 260,Media,Non-Critical,15-25C,USP
+261,RM-00261,Synthetic Material 261,Polymer,Critical,2-8C,Internal
+262,RM-00262,Synthetic Material 262,Cleaning Agent,High-Critical,-80C,USP
+263,RM-00263,Synthetic Material 263,Cleaning Agent,Critical,2-8C,EP
+264,RM-00264,Synthetic Material 264,Media,Critical,2-8C,Internal
+265,RM-00265,Synthetic Material 265,Excipient,High-Critical,15-25C,JP
+266,RM-00266,Synthetic Material 266,Excipient,Critical,2-8C,Internal
+267,RM-00267,Synthetic Material 267,Single-Use,Non-Critical,2-8C,Internal
+268,RM-00268,Synthetic Material 268,Polymer,Non-Critical,15-25C,EP
+269,RM-00269,Synthetic Material 269,Single-Use,Critical,15-25C,JP
+270,RM-00270,Synthetic Material 270,Excipient,Critical,15-25C,JP
+271,RM-00271,Synthetic Material 271,Cleaning Agent,High-Critical,15-25C,EP
+272,RM-00272,Synthetic Material 272,Polymer,Critical,-20C,JP
+273,RM-00273,Synthetic Material 273,Buffer,Non-Critical,-20C,USP
+274,RM-00274,Synthetic Material 274,Single-Use,Critical,-20C,USP
+275,RM-00275,Synthetic Material 275,Media,Critical,15-25C,JP
+276,RM-00276,Synthetic Material 276,Polymer,Critical,15-25C,JP
+277,RM-00277,Synthetic Material 277,Media,Non-Critical,2-8C,JP
+278,RM-00278,Synthetic Material 278,Media,High-Critical,15-25C,USP
+279,RM-00279,Synthetic Material 279,Media,Critical,2-8C,Internal
+280,RM-00280,Synthetic Material 280,Buffer,Non-Critical,-80C,USP
+281,RM-00281,Synthetic Material 281,Single-Use,Critical,-80C,USP
+282,RM-00282,Synthetic Material 282,Media,Non-Critical,15-25C,Internal
+283,RM-00283,Synthetic Material 283,Single-Use,Non-Critical,15-25C,Internal
+284,RM-00284,Synthetic Material 284,Buffer,Critical,15-25C,Internal
+285,RM-00285,Synthetic Material 285,Media,Critical,2-8C,EP
+286,RM-00286,Synthetic Material 286,Cleaning Agent,Critical,15-25C,JP
+287,RM-00287,Synthetic Material 287,Single-Use,Non-Critical,-20C,JP
+288,RM-00288,Synthetic Material 288,Single-Use,Critical,-80C,JP
+289,RM-00289,Synthetic Material 289,Cleaning Agent,Critical,15-25C,Internal
+290,RM-00290,Synthetic Material 290,Single-Use,Critical,-20C,Internal
+291,RM-00291,Synthetic Material 291,Media,Non-Critical,2-8C,USP
+292,RM-00292,Synthetic Material 292,Cleaning Agent,Critical,2-8C,USP
+293,RM-00293,Synthetic Material 293,Excipient,Non-Critical,15-25C,Internal
+294,RM-00294,Synthetic Material 294,Reagent,Non-Critical,-20C,EP
+295,RM-00295,Synthetic Material 295,Excipient,Critical,2-8C,Internal
+296,RM-00296,Synthetic Material 296,Excipient,Critical,2-8C,JP
+297,RM-00297,Synthetic Material 297,Excipient,Non-Critical,-20C,USP
+298,RM-00298,Synthetic Material 298,Buffer,Non-Critical,-20C,JP
+299,RM-00299,Synthetic Material 299,Buffer,Critical,2-8C,JP
+300,RM-00300,Synthetic Material 300,Media,High-Critical,15-25C,Internal

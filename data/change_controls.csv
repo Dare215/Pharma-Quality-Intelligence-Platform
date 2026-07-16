@@ -1,0 +1,2501 @@
+change_control_id,material_id,supplier_id,change_number,change_type,risk_level,status,opened_date
+1,75,21,CC-000001,Method,Low,Implemented,2024-02-07
+2,93,56,CC-000002,Storage,Low,Implemented,2025-10-17
+3,237,46,CC-000003,Specification,Low,Approved,2025-08-05
+4,291,51,CC-000004,Packaging,Low,Implemented,2024-01-08
+5,262,84,CC-000005,Specification,Medium,Implemented,2026-03-21
+6,21,111,CC-000006,Supplier Site,Low,Approved,2024-12-02
+7,71,68,CC-000007,Packaging,Medium,Proposed,2024-10-18
+8,8,36,CC-000008,Method,Medium,Implemented,2025-10-12
+9,255,29,CC-000009,Specification,High,Implemented,2025-11-30
+10,38,23,CC-000010,Method,Medium,Implemented,2026-04-17
+11,13,114,CC-000011,Supplier Site,Medium,Implemented,2024-04-30
+12,140,22,CC-000012,Storage,Low,Implemented,2025-01-09
+13,133,3,CC-000013,Specification,High,Implemented,2025-12-08
+14,177,29,CC-000014,Process,Low,Approved,2026-03-25
+15,25,66,CC-000015,Specification,Medium,Implemented,2025-07-24
+16,68,69,CC-000016,Supplier Site,Low,Implemented,2024-04-11
+17,241,37,CC-000017,Method,High,Approved,2024-10-02
+18,72,18,CC-000018,Process,Medium,Implemented,2025-04-21
+19,240,84,CC-000019,Specification,Medium,Implemented,2025-03-03
+20,111,18,CC-000020,Method,Low,Implemented,2024-06-12
+21,199,59,CC-000021,Method,Low,Implemented,2024-04-17
+22,7,104,CC-000022,Packaging,Medium,Implemented,2025-05-19
+23,145,5,CC-000023,Specification,Medium,Implemented,2026-01-30
+24,102,39,CC-000024,Specification,Low,Implemented,2024-05-21
+25,259,35,CC-000025,Packaging,Medium,Approved,2024-07-23
+26,119,12,CC-000026,Specification,Low,Implemented,2025-04-20
+27,153,93,CC-000027,Specification,Low,Implemented,2025-05-31
+28,256,105,CC-000028,Process,Medium,Implemented,2024-07-16
+29,4,3,CC-000029,Process,Medium,Approved,2026-01-14
+30,177,92,CC-000030,Process,Medium,Rejected,2026-02-12
+31,43,71,CC-000031,Storage,Low,Implemented,2025-07-20
+32,188,106,CC-000032,Method,Medium,Implemented,2024-02-14
+33,75,117,CC-000033,Packaging,Medium,Implemented,2025-03-18
+34,9,105,CC-000034,Specification,Low,Approved,2024-03-20
+35,16,35,CC-000035,Storage,Low,Proposed,2025-07-29
+36,210,10,CC-000036,Process,Medium,Proposed,2025-11-25
+37,276,23,CC-000037,Specification,Low,Implemented,2024-08-01
+38,142,58,CC-000038,Storage,Medium,Approved,2024-11-21
+39,113,45,CC-000039,Supplier Site,Medium,Implemented,2024-11-15
+40,288,75,CC-000040,Supplier Site,Low,Implemented,2024-09-06
+41,94,40,CC-000041,Storage,Low,Implemented,2025-12-06
+42,207,74,CC-000042,Process,Low,Proposed,2024-02-08
+43,177,2,CC-000043,Supplier Site,Low,Implemented,2024-04-15
+44,154,62,CC-000044,Method,Low,Rejected,2024-06-25
+45,44,94,CC-000045,Specification,High,Implemented,2026-03-18
+46,250,43,CC-000046,Storage,High,Implemented,2024-02-26
+47,145,6,CC-000047,Storage,Low,Approved,2024-12-28
+48,202,104,CC-000048,Storage,High,Implemented,2025-08-06
+49,293,119,CC-000049,Storage,Low,Implemented,2025-04-02
+50,218,17,CC-000050,Packaging,Low,Implemented,2024-11-05
+51,167,101,CC-000051,Process,Medium,Approved,2025-07-15
+52,116,59,CC-000052,Specification,Medium,Implemented,2025-10-31
+53,12,39,CC-000053,Supplier Site,High,Proposed,2025-07-13
+54,298,114,CC-000054,Packaging,Medium,Approved,2025-01-03
+55,201,12,CC-000055,Specification,Low,Proposed,2024-04-28
+56,120,75,CC-000056,Method,Medium,Implemented,2024-01-06
+57,264,51,CC-000057,Packaging,Medium,Approved,2024-09-13
+58,208,119,CC-000058,Method,Medium,Proposed,2026-03-31
+59,128,56,CC-000059,Method,Low,Implemented,2025-04-03
+60,295,65,CC-000060,Storage,Medium,Implemented,2025-10-04
+61,253,78,CC-000061,Method,High,Proposed,2024-07-07
+62,198,40,CC-000062,Packaging,Low,Approved,2024-12-09
+63,161,26,CC-000063,Specification,Low,Approved,2024-09-11
+64,112,96,CC-000064,Storage,High,Implemented,2025-10-13
+65,174,120,CC-000065,Packaging,High,Approved,2024-04-28
+66,9,90,CC-000066,Process,Medium,Approved,2024-07-22
+67,283,113,CC-000067,Supplier Site,Medium,Proposed,2026-02-01
+68,41,80,CC-000068,Storage,Medium,Implemented,2024-03-23
+69,265,55,CC-000069,Process,Low,Implemented,2025-01-23
+70,219,88,CC-000070,Supplier Site,Medium,Implemented,2025-12-05
+71,237,85,CC-000071,Method,Medium,Implemented,2026-02-07
+72,123,79,CC-000072,Supplier Site,Low,Implemented,2024-03-03
+73,137,75,CC-000073,Storage,Medium,Implemented,2025-09-15
+74,271,25,CC-000074,Supplier Site,Medium,Implemented,2024-03-13
+75,162,43,CC-000075,Process,Medium,Implemented,2025-12-12
+76,251,45,CC-000076,Packaging,Low,Approved,2025-10-22
+77,1,91,CC-000077,Process,Low,Implemented,2025-06-17
+78,122,70,CC-000078,Specification,Low,Rejected,2025-03-11
+79,189,113,CC-000079,Storage,Low,Implemented,2025-05-09
+80,264,46,CC-000080,Method,High,Approved,2025-10-11
+81,36,44,CC-000081,Method,Low,Implemented,2025-10-06
+82,115,78,CC-000082,Packaging,Medium,Approved,2024-05-02
+83,50,39,CC-000083,Supplier Site,Medium,Approved,2024-04-24
+84,22,114,CC-000084,Storage,Medium,Implemented,2024-10-19
+85,4,35,CC-000085,Method,Low,Implemented,2025-12-08
+86,194,9,CC-000086,Method,Medium,Implemented,2025-09-02
+87,278,109,CC-000087,Process,Low,Rejected,2024-11-28
+88,25,25,CC-000088,Specification,Medium,Approved,2026-03-11
+89,200,91,CC-000089,Packaging,Low,Implemented,2024-03-20
+90,87,72,CC-000090,Packaging,Low,Approved,2024-04-04
+91,241,104,CC-000091,Supplier Site,Medium,Implemented,2024-03-30
+92,202,114,CC-000092,Specification,Medium,Implemented,2025-10-29
+93,146,77,CC-000093,Storage,Medium,Proposed,2024-09-10
+94,206,38,CC-000094,Storage,Low,Approved,2024-01-06
+95,189,100,CC-000095,Method,Medium,Implemented,2024-08-10
+96,171,33,CC-000096,Method,High,Rejected,2024-09-04
+97,118,106,CC-000097,Process,Low,Implemented,2024-04-02
+98,54,66,CC-000098,Packaging,Low,Implemented,2025-08-27
+99,273,26,CC-000099,Storage,Medium,Implemented,2026-02-20
+100,141,68,CC-000100,Specification,Low,Implemented,2026-03-04
+101,246,45,CC-000101,Process,Low,Implemented,2024-02-29
+102,139,43,CC-000102,Process,Low,Implemented,2024-05-24
+103,96,39,CC-000103,Method,Medium,Approved,2024-01-06
+104,201,48,CC-000104,Process,High,Implemented,2024-01-29
+105,62,73,CC-000105,Packaging,Low,Implemented,2025-10-13
+106,166,28,CC-000106,Storage,Low,Proposed,2024-04-23
+107,90,109,CC-000107,Method,Medium,Implemented,2025-09-18
+108,138,66,CC-000108,Storage,Medium,Implemented,2025-07-18
+109,15,106,CC-000109,Specification,Low,Implemented,2026-01-03
+110,10,70,CC-000110,Supplier Site,Low,Approved,2026-01-22
+111,189,40,CC-000111,Supplier Site,Low,Implemented,2024-04-26
+112,172,113,CC-000112,Process,Low,Implemented,2024-04-29
+113,73,21,CC-000113,Packaging,Medium,Implemented,2024-11-25
+114,80,30,CC-000114,Method,Medium,Implemented,2026-01-14
+115,70,68,CC-000115,Specification,Medium,Approved,2024-06-01
+116,118,59,CC-000116,Storage,Low,Rejected,2024-06-25
+117,82,16,CC-000117,Storage,Medium,Proposed,2024-11-30
+118,52,89,CC-000118,Method,Medium,Implemented,2025-12-01
+119,152,5,CC-000119,Storage,Medium,Implemented,2025-08-25
+120,175,31,CC-000120,Storage,Medium,Implemented,2025-11-14
+121,191,112,CC-000121,Specification,Low,Implemented,2026-03-19
+122,77,46,CC-000122,Storage,Medium,Approved,2024-09-25
+123,288,81,CC-000123,Supplier Site,Low,Approved,2024-08-01
+124,192,114,CC-000124,Packaging,Medium,Approved,2025-10-07
+125,32,52,CC-000125,Supplier Site,Low,Implemented,2024-12-20
+126,260,22,CC-000126,Process,Medium,Approved,2024-03-08
+127,54,81,CC-000127,Method,Medium,Implemented,2026-02-08
+128,146,118,CC-000128,Supplier Site,Low,Implemented,2025-10-11
+129,293,48,CC-000129,Storage,Low,Proposed,2026-04-08
+130,239,103,CC-000130,Method,Medium,Implemented,2025-01-07
+131,171,46,CC-000131,Method,Low,Implemented,2024-10-17
+132,287,19,CC-000132,Packaging,Medium,Implemented,2025-12-08
+133,20,99,CC-000133,Supplier Site,Low,Proposed,2024-07-23
+134,236,51,CC-000134,Storage,Medium,Implemented,2026-02-14
+135,237,99,CC-000135,Storage,Medium,Proposed,2024-09-23
+136,143,68,CC-000136,Supplier Site,High,Approved,2026-03-20
+137,220,60,CC-000137,Method,Low,Proposed,2024-11-12
+138,265,47,CC-000138,Method,Medium,Implemented,2026-04-02
+139,178,110,CC-000139,Packaging,Medium,Approved,2026-01-08
+140,143,76,CC-000140,Process,Medium,Approved,2025-01-13
+141,244,15,CC-000141,Packaging,Medium,Implemented,2026-01-06
+142,137,99,CC-000142,Storage,Low,Implemented,2025-08-20
+143,208,104,CC-000143,Packaging,Medium,Implemented,2026-02-27
+144,11,19,CC-000144,Specification,Low,Approved,2024-05-22
+145,247,12,CC-000145,Storage,Low,Implemented,2024-04-26
+146,207,67,CC-000146,Storage,Low,Implemented,2025-05-13
+147,202,109,CC-000147,Process,Medium,Implemented,2024-11-24
+148,45,103,CC-000148,Packaging,Low,Implemented,2024-09-04
+149,256,23,CC-000149,Supplier Site,Medium,Implemented,2026-04-22
+150,19,7,CC-000150,Process,Low,Implemented,2025-10-08
+151,10,8,CC-000151,Process,Medium,Implemented,2025-11-27
+152,59,105,CC-000152,Packaging,High,Implemented,2024-03-27
+153,10,107,CC-000153,Packaging,Medium,Implemented,2025-12-21
+154,91,119,CC-000154,Storage,Low,Implemented,2024-11-16
+155,215,4,CC-000155,Storage,Low,Implemented,2024-05-24
+156,42,81,CC-000156,Storage,Medium,Implemented,2025-10-23
+157,145,86,CC-000157,Specification,High,Implemented,2025-09-23
+158,214,118,CC-000158,Supplier Site,Low,Approved,2024-01-29
+159,143,85,CC-000159,Supplier Site,Medium,Implemented,2025-08-14
+160,157,46,CC-000160,Method,Low,Rejected,2026-03-31
+161,175,56,CC-000161,Supplier Site,Low,Implemented,2025-07-18
+162,265,20,CC-000162,Method,High,Implemented,2025-11-19
+163,180,70,CC-000163,Storage,High,Proposed,2025-12-29
+164,146,21,CC-000164,Supplier Site,Low,Approved,2024-12-09
+165,257,63,CC-000165,Specification,Medium,Proposed,2025-11-15
+166,299,65,CC-000166,Storage,Low,Implemented,2024-05-15
+167,284,59,CC-000167,Packaging,Low,Implemented,2024-12-26
+168,223,112,CC-000168,Storage,High,Implemented,2025-06-20
+169,36,24,CC-000169,Method,Low,Proposed,2026-04-24
+170,23,92,CC-000170,Supplier Site,Medium,Implemented,2025-03-25
+171,235,62,CC-000171,Storage,Low,Implemented,2024-12-15
+172,204,29,CC-000172,Specification,Medium,Proposed,2024-02-21
+173,158,54,CC-000173,Packaging,High,Implemented,2024-02-05
+174,55,70,CC-000174,Supplier Site,Medium,Implemented,2024-11-29
+175,243,6,CC-000175,Packaging,High,Implemented,2024-02-01
+176,110,29,CC-000176,Packaging,Low,Proposed,2026-01-31
+177,269,58,CC-000177,Method,Medium,Proposed,2025-10-14
+178,194,29,CC-000178,Specification,High,Proposed,2025-06-17
+179,13,109,CC-000179,Packaging,High,Implemented,2025-11-27
+180,47,77,CC-000180,Storage,Medium,Proposed,2025-07-03
+181,91,41,CC-000181,Specification,Medium,Approved,2026-02-01
+182,95,72,CC-000182,Specification,High,Proposed,2025-06-07
+183,136,40,CC-000183,Process,Low,Implemented,2024-02-16
+184,137,84,CC-000184,Storage,Low,Implemented,2025-06-12
+185,199,98,CC-000185,Process,Low,Proposed,2026-01-17
+186,66,53,CC-000186,Process,Low,Implemented,2025-06-03
+187,66,11,CC-000187,Process,Medium,Implemented,2024-11-15
+188,218,41,CC-000188,Process,Low,Implemented,2024-10-16
+189,95,89,CC-000189,Specification,Medium,Implemented,2024-01-02
+190,293,56,CC-000190,Packaging,High,Approved,2025-01-19
+191,52,90,CC-000191,Packaging,Low,Proposed,2025-10-25
+192,6,70,CC-000192,Storage,Medium,Approved,2024-09-02
+193,295,82,CC-000193,Storage,High,Approved,2024-04-06
+194,61,27,CC-000194,Packaging,Low,Approved,2025-10-28
+195,265,15,CC-000195,Process,Medium,Proposed,2025-02-05
+196,271,74,CC-000196,Method,Low,Proposed,2025-03-17
+197,205,65,CC-000197,Specification,Low,Implemented,2025-07-15
+198,159,24,CC-000198,Method,Low,Implemented,2024-06-12
+199,44,79,CC-000199,Specification,Low,Implemented,2026-04-05
+200,112,65,CC-000200,Specification,Low,Implemented,2025-10-07
+201,145,48,CC-000201,Packaging,Low,Approved,2024-03-20
+202,288,75,CC-000202,Specification,Medium,Approved,2025-03-18
+203,41,10,CC-000203,Specification,High,Approved,2024-10-13
+204,45,67,CC-000204,Specification,Low,Approved,2024-02-25
+205,146,19,CC-000205,Method,Low,Rejected,2025-12-05
+206,137,45,CC-000206,Method,High,Implemented,2026-04-12
+207,49,17,CC-000207,Method,Low,Approved,2026-03-24
+208,277,33,CC-000208,Supplier Site,Low,Approved,2025-10-27
+209,228,45,CC-000209,Storage,High,Approved,2024-11-05
+210,3,101,CC-000210,Specification,Low,Implemented,2025-07-27
+211,96,93,CC-000211,Storage,Medium,Implemented,2024-08-18
+212,240,96,CC-000212,Method,Low,Proposed,2024-06-22
+213,173,105,CC-000213,Method,Medium,Implemented,2024-12-20
+214,237,85,CC-000214,Storage,Low,Proposed,2024-12-19
+215,118,115,CC-000215,Supplier Site,Medium,Implemented,2025-07-03
+216,31,51,CC-000216,Supplier Site,High,Implemented,2024-02-26
+217,65,113,CC-000217,Method,Low,Implemented,2024-12-09
+218,206,56,CC-000218,Packaging,Low,Implemented,2026-02-11
+219,90,63,CC-000219,Process,High,Implemented,2024-05-28
+220,195,79,CC-000220,Supplier Site,Low,Implemented,2024-09-25
+221,174,49,CC-000221,Specification,Medium,Implemented,2025-05-04
+222,122,4,CC-000222,Process,High,Implemented,2024-03-28
+223,81,5,CC-000223,Process,Low,Implemented,2024-06-25
+224,257,68,CC-000224,Process,Medium,Implemented,2024-03-22
+225,132,111,CC-000225,Supplier Site,Low,Approved,2025-03-30
+226,212,103,CC-000226,Specification,Low,Approved,2025-03-30
+227,288,7,CC-000227,Method,Low,Implemented,2024-10-04
+228,112,59,CC-000228,Method,Low,Implemented,2026-02-03
+229,244,80,CC-000229,Storage,High,Proposed,2026-04-12
+230,133,119,CC-000230,Method,Low,Implemented,2024-08-12
+231,233,85,CC-000231,Specification,Low,Implemented,2025-01-17
+232,53,76,CC-000232,Packaging,Medium,Rejected,2025-06-21
+233,131,47,CC-000233,Packaging,Low,Implemented,2026-03-21
+234,113,69,CC-000234,Packaging,Low,Implemented,2024-09-05
+235,86,73,CC-000235,Supplier Site,Low,Implemented,2024-08-19
+236,65,59,CC-000236,Storage,Low,Implemented,2024-06-29
+237,26,119,CC-000237,Specification,Low,Rejected,2024-04-17
+238,27,11,CC-000238,Method,Medium,Implemented,2024-11-15
+239,153,60,CC-000239,Specification,High,Implemented,2024-10-09
+240,165,64,CC-000240,Method,Low,Implemented,2025-06-30
+241,162,66,CC-000241,Storage,High,Implemented,2024-10-26
+242,180,101,CC-000242,Supplier Site,Medium,Approved,2025-11-22
+243,279,67,CC-000243,Packaging,Low,Approved,2024-02-20
+244,276,78,CC-000244,Packaging,Low,Proposed,2025-11-23
+245,244,87,CC-000245,Specification,High,Implemented,2025-01-04
+246,73,65,CC-000246,Process,Low,Implemented,2025-12-14
+247,275,86,CC-000247,Method,Low,Approved,2025-10-13
+248,114,16,CC-000248,Process,High,Implemented,2025-12-10
+249,191,88,CC-000249,Storage,High,Implemented,2024-03-24
+250,205,51,CC-000250,Supplier Site,Medium,Implemented,2024-05-29
+251,90,69,CC-000251,Process,Medium,Implemented,2024-10-27
+252,287,32,CC-000252,Packaging,Low,Approved,2024-11-22
+253,272,2,CC-000253,Method,Medium,Proposed,2024-08-17
+254,151,103,CC-000254,Specification,Low,Implemented,2024-10-12
+255,51,78,CC-000255,Packaging,Low,Approved,2024-09-14
+256,162,100,CC-000256,Packaging,High,Implemented,2024-10-22
+257,85,70,CC-000257,Packaging,Low,Implemented,2026-03-05
+258,17,34,CC-000258,Method,Medium,Approved,2025-10-31
+259,192,19,CC-000259,Storage,High,Implemented,2024-07-29
+260,238,61,CC-000260,Specification,Low,Proposed,2024-05-17
+261,97,84,CC-000261,Packaging,High,Implemented,2025-12-29
+262,35,66,CC-000262,Supplier Site,High,Approved,2024-10-13
+263,143,120,CC-000263,Packaging,Low,Implemented,2025-09-09
+264,66,109,CC-000264,Process,Medium,Approved,2024-12-06
+265,277,7,CC-000265,Method,Medium,Implemented,2024-11-18
+266,236,43,CC-000266,Process,Low,Approved,2024-02-13
+267,150,6,CC-000267,Process,Medium,Proposed,2026-02-02
+268,40,41,CC-000268,Packaging,High,Implemented,2025-11-12
+269,10,69,CC-000269,Process,Medium,Implemented,2025-05-25
+270,148,26,CC-000270,Specification,Low,Implemented,2025-06-07
+271,262,119,CC-000271,Specification,High,Implemented,2025-07-06
+272,19,58,CC-000272,Method,Low,Implemented,2025-07-10
+273,185,55,CC-000273,Method,Low,Implemented,2025-10-06
+274,198,109,CC-000274,Storage,Low,Implemented,2025-05-06
+275,274,2,CC-000275,Storage,Medium,Approved,2026-04-13
+276,81,10,CC-000276,Specification,Medium,Approved,2025-01-23
+277,1,118,CC-000277,Process,Medium,Implemented,2025-05-02
+278,201,21,CC-000278,Packaging,Medium,Implemented,2025-07-27
+279,118,84,CC-000279,Supplier Site,Medium,Proposed,2024-03-18
+280,247,48,CC-000280,Storage,Low,Rejected,2025-01-22
+281,165,117,CC-000281,Supplier Site,Low,Implemented,2024-08-12
+282,209,53,CC-000282,Method,Low,Approved,2024-08-10
+283,98,55,CC-000283,Packaging,Medium,Proposed,2026-02-27
+284,40,65,CC-000284,Packaging,Low,Implemented,2024-09-16
+285,168,19,CC-000285,Supplier Site,Low,Approved,2025-12-04
+286,271,39,CC-000286,Supplier Site,Medium,Implemented,2024-11-18
+287,283,115,CC-000287,Storage,Low,Approved,2025-12-23
+288,20,30,CC-000288,Packaging,Medium,Proposed,2024-12-21
+289,30,112,CC-000289,Supplier Site,Low,Approved,2025-11-24
+290,264,22,CC-000290,Storage,High,Rejected,2024-12-15
+291,146,88,CC-000291,Specification,Low,Implemented,2024-07-13
+292,221,62,CC-000292,Supplier Site,Low,Proposed,2024-03-15
+293,59,117,CC-000293,Specification,Low,Rejected,2024-06-21
+294,270,59,CC-000294,Process,Medium,Proposed,2025-03-27
+295,296,13,CC-000295,Method,Low,Approved,2025-01-14
+296,248,38,CC-000296,Specification,High,Rejected,2025-12-22
+297,228,89,CC-000297,Specification,Low,Implemented,2025-03-24
+298,257,11,CC-000298,Supplier Site,Medium,Implemented,2026-01-23
+299,224,63,CC-000299,Specification,Low,Rejected,2025-02-28
+300,93,113,CC-000300,Method,Medium,Implemented,2025-06-27
+301,242,57,CC-000301,Specification,Low,Implemented,2024-05-15
+302,243,60,CC-000302,Packaging,Low,Rejected,2025-04-20
+303,266,71,CC-000303,Storage,Medium,Implemented,2025-08-21
+304,111,25,CC-000304,Supplier Site,Medium,Implemented,2026-01-04
+305,208,43,CC-000305,Packaging,Medium,Approved,2024-02-26
+306,280,31,CC-000306,Method,Medium,Proposed,2024-01-21
+307,69,30,CC-000307,Supplier Site,Medium,Approved,2025-06-11
+308,170,31,CC-000308,Specification,Medium,Proposed,2024-03-01
+309,127,31,CC-000309,Specification,Medium,Implemented,2024-03-26
+310,2,84,CC-000310,Specification,Low,Approved,2025-12-05
+311,79,52,CC-000311,Storage,High,Implemented,2026-03-18
+312,168,28,CC-000312,Specification,Low,Approved,2025-11-03
+313,257,35,CC-000313,Process,High,Implemented,2024-05-22
+314,193,38,CC-000314,Packaging,Medium,Implemented,2024-11-23
+315,140,42,CC-000315,Storage,Low,Approved,2025-10-16
+316,273,90,CC-000316,Storage,High,Implemented,2025-07-23
+317,124,29,CC-000317,Method,Medium,Implemented,2025-07-06
+318,90,65,CC-000318,Packaging,Low,Implemented,2026-01-24
+319,105,83,CC-000319,Process,Medium,Implemented,2024-12-20
+320,66,95,CC-000320,Method,Medium,Approved,2024-09-23
+321,248,13,CC-000321,Method,Low,Implemented,2024-10-03
+322,254,42,CC-000322,Supplier Site,Medium,Implemented,2026-01-04
+323,50,15,CC-000323,Process,Low,Approved,2025-02-02
+324,77,81,CC-000324,Process,Low,Implemented,2024-06-14
+325,225,14,CC-000325,Packaging,Medium,Implemented,2025-07-04
+326,240,106,CC-000326,Process,Low,Implemented,2025-09-17
+327,293,31,CC-000327,Specification,High,Implemented,2024-10-07
+328,46,19,CC-000328,Storage,Low,Implemented,2025-01-30
+329,32,33,CC-000329,Storage,Low,Implemented,2025-04-14
+330,81,29,CC-000330,Process,Medium,Implemented,2025-11-12
+331,1,111,CC-000331,Method,Low,Implemented,2025-11-16
+332,72,78,CC-000332,Packaging,Medium,Implemented,2024-08-14
+333,88,20,CC-000333,Method,Low,Implemented,2024-04-17
+334,76,36,CC-000334,Specification,Low,Proposed,2025-06-10
+335,168,50,CC-000335,Supplier Site,Low,Rejected,2025-05-03
+336,135,80,CC-000336,Specification,Low,Approved,2025-10-23
+337,159,3,CC-000337,Storage,Medium,Proposed,2025-09-20
+338,55,96,CC-000338,Packaging,Medium,Approved,2024-11-04
+339,30,118,CC-000339,Process,High,Implemented,2026-02-04
+340,164,5,CC-000340,Process,Low,Implemented,2025-12-30
+341,277,42,CC-000341,Specification,Low,Implemented,2024-03-25
+342,201,19,CC-000342,Supplier Site,Medium,Implemented,2024-08-12
+343,264,116,CC-000343,Method,Low,Implemented,2025-07-08
+344,45,8,CC-000344,Method,Medium,Implemented,2026-02-04
+345,64,56,CC-000345,Specification,Low,Proposed,2024-03-28
+346,207,15,CC-000346,Supplier Site,Medium,Implemented,2025-07-05
+347,251,73,CC-000347,Process,Low,Implemented,2025-10-28
+348,240,24,CC-000348,Specification,Medium,Implemented,2025-01-27
+349,232,58,CC-000349,Supplier Site,Low,Implemented,2025-10-14
+350,43,109,CC-000350,Method,Low,Approved,2024-06-21
+351,135,12,CC-000351,Process,Medium,Implemented,2025-09-20
+352,285,41,CC-000352,Packaging,Low,Proposed,2025-05-14
+353,235,105,CC-000353,Method,High,Implemented,2024-02-20
+354,19,25,CC-000354,Packaging,Low,Implemented,2024-08-30
+355,115,36,CC-000355,Storage,Medium,Implemented,2024-11-01
+356,51,21,CC-000356,Process,High,Approved,2024-06-22
+357,267,6,CC-000357,Method,Low,Implemented,2025-08-11
+358,234,79,CC-000358,Storage,High,Implemented,2024-05-03
+359,20,107,CC-000359,Packaging,Medium,Implemented,2025-10-03
+360,46,75,CC-000360,Method,Medium,Implemented,2025-05-22
+361,263,2,CC-000361,Process,Low,Approved,2025-11-13
+362,27,67,CC-000362,Storage,Low,Implemented,2025-03-28
+363,47,18,CC-000363,Storage,Medium,Implemented,2024-03-26
+364,43,60,CC-000364,Process,Medium,Proposed,2025-10-16
+365,69,70,CC-000365,Method,Medium,Approved,2025-08-11
+366,235,98,CC-000366,Process,Medium,Implemented,2024-03-04
+367,130,77,CC-000367,Supplier Site,Low,Implemented,2024-03-27
+368,112,76,CC-000368,Storage,Low,Implemented,2024-11-23
+369,57,56,CC-000369,Packaging,Low,Implemented,2025-11-19
+370,53,107,CC-000370,Specification,Low,Proposed,2024-02-15
+371,222,84,CC-000371,Packaging,Medium,Implemented,2024-05-14
+372,208,71,CC-000372,Packaging,Low,Rejected,2026-01-30
+373,10,13,CC-000373,Specification,Low,Rejected,2024-09-24
+374,205,101,CC-000374,Storage,Low,Implemented,2026-02-03
+375,30,9,CC-000375,Packaging,Medium,Proposed,2024-10-23
+376,77,45,CC-000376,Packaging,High,Implemented,2024-04-17
+377,90,44,CC-000377,Process,Medium,Implemented,2025-10-10
+378,172,117,CC-000378,Packaging,Medium,Implemented,2024-07-15
+379,24,5,CC-000379,Method,Medium,Implemented,2025-06-13
+380,244,80,CC-000380,Storage,Low,Implemented,2025-01-08
+381,38,19,CC-000381,Method,Low,Proposed,2025-10-21
+382,162,18,CC-000382,Storage,Low,Approved,2024-05-31
+383,201,80,CC-000383,Packaging,Low,Approved,2025-01-30
+384,167,24,CC-000384,Supplier Site,Medium,Implemented,2024-03-05
+385,34,55,CC-000385,Storage,Medium,Proposed,2024-07-07
+386,142,77,CC-000386,Process,Low,Implemented,2025-04-28
+387,33,21,CC-000387,Method,Low,Approved,2025-04-06
+388,157,43,CC-000388,Packaging,Medium,Implemented,2025-03-11
+389,269,11,CC-000389,Packaging,Low,Approved,2026-02-12
+390,179,5,CC-000390,Packaging,Low,Implemented,2024-08-17
+391,164,42,CC-000391,Specification,Low,Approved,2026-04-24
+392,67,87,CC-000392,Supplier Site,Medium,Implemented,2024-07-21
+393,252,9,CC-000393,Packaging,Medium,Implemented,2025-07-16
+394,73,69,CC-000394,Method,Medium,Rejected,2024-01-31
+395,50,37,CC-000395,Storage,Low,Approved,2024-05-17
+396,272,53,CC-000396,Method,Low,Implemented,2025-09-03
+397,37,39,CC-000397,Storage,Low,Implemented,2025-02-19
+398,277,42,CC-000398,Specification,Medium,Implemented,2026-03-18
+399,195,35,CC-000399,Supplier Site,Medium,Implemented,2024-06-29
+400,5,89,CC-000400,Supplier Site,Low,Approved,2026-03-13
+401,209,117,CC-000401,Supplier Site,Medium,Proposed,2024-04-03
+402,290,25,CC-000402,Packaging,Low,Implemented,2024-03-31
+403,285,43,CC-000403,Specification,High,Implemented,2024-03-13
+404,267,63,CC-000404,Storage,Medium,Approved,2026-02-23
+405,21,74,CC-000405,Supplier Site,Medium,Implemented,2025-02-01
+406,162,44,CC-000406,Process,Medium,Approved,2024-01-10
+407,61,20,CC-000407,Process,Low,Approved,2025-09-02
+408,173,2,CC-000408,Process,Medium,Implemented,2025-01-04
+409,57,102,CC-000409,Supplier Site,Medium,Proposed,2026-03-17
+410,98,19,CC-000410,Packaging,Medium,Implemented,2025-02-20
+411,211,63,CC-000411,Supplier Site,Low,Approved,2025-07-05
+412,43,114,CC-000412,Storage,Medium,Rejected,2025-01-05
+413,27,73,CC-000413,Packaging,Medium,Implemented,2024-07-05
+414,52,75,CC-000414,Method,Medium,Implemented,2026-02-26
+415,18,105,CC-000415,Process,Medium,Implemented,2024-04-25
+416,225,98,CC-000416,Supplier Site,Low,Implemented,2024-11-19
+417,291,50,CC-000417,Storage,Medium,Approved,2025-04-21
+418,255,55,CC-000418,Packaging,Medium,Implemented,2026-01-02
+419,48,110,CC-000419,Supplier Site,Low,Implemented,2024-10-08
+420,142,20,CC-000420,Packaging,Low,Proposed,2024-07-28
+421,54,3,CC-000421,Supplier Site,Low,Approved,2024-12-01
+422,190,51,CC-000422,Process,Low,Implemented,2024-02-25
+423,128,39,CC-000423,Process,Medium,Approved,2024-12-15
+424,59,110,CC-000424,Supplier Site,Low,Approved,2024-01-30
+425,6,25,CC-000425,Supplier Site,High,Implemented,2024-10-07
+426,141,74,CC-000426,Method,High,Implemented,2026-04-09
+427,104,44,CC-000427,Supplier Site,Low,Proposed,2025-03-12
+428,47,3,CC-000428,Process,High,Proposed,2025-12-09
+429,212,89,CC-000429,Supplier Site,Medium,Approved,2026-02-03
+430,55,95,CC-000430,Specification,Medium,Implemented,2024-08-24
+431,253,111,CC-000431,Packaging,Low,Implemented,2025-03-19
+432,253,32,CC-000432,Supplier Site,Low,Implemented,2024-06-13
+433,117,70,CC-000433,Process,Medium,Implemented,2024-07-16
+434,219,45,CC-000434,Specification,Low,Proposed,2025-08-29
+435,105,19,CC-000435,Method,Medium,Rejected,2025-09-12
+436,101,38,CC-000436,Supplier Site,Low,Implemented,2025-01-09
+437,201,109,CC-000437,Process,Low,Implemented,2026-01-03
+438,251,10,CC-000438,Packaging,Low,Implemented,2025-01-07
+439,191,17,CC-000439,Method,High,Implemented,2025-10-18
+440,28,68,CC-000440,Packaging,High,Implemented,2024-01-30
+441,194,90,CC-000441,Specification,High,Implemented,2026-04-11
+442,179,43,CC-000442,Method,Medium,Approved,2025-03-28
+443,224,93,CC-000443,Packaging,High,Approved,2025-08-09
+444,277,36,CC-000444,Supplier Site,Medium,Approved,2025-06-20
+445,61,12,CC-000445,Specification,Medium,Implemented,2026-03-26
+446,209,62,CC-000446,Method,Low,Implemented,2024-04-14
+447,121,111,CC-000447,Supplier Site,Medium,Proposed,2024-02-18
+448,45,28,CC-000448,Process,Medium,Implemented,2024-01-31
+449,243,78,CC-000449,Process,Medium,Implemented,2026-04-06
+450,193,32,CC-000450,Packaging,Low,Implemented,2025-07-23
+451,243,35,CC-000451,Process,Medium,Implemented,2024-07-06
+452,72,103,CC-000452,Specification,Medium,Proposed,2025-01-11
+453,81,97,CC-000453,Process,Low,Rejected,2026-01-20
+454,196,26,CC-000454,Supplier Site,Low,Implemented,2025-01-27
+455,155,28,CC-000455,Process,Low,Implemented,2025-05-31
+456,18,105,CC-000456,Supplier Site,Medium,Approved,2024-06-11
+457,270,8,CC-000457,Supplier Site,Low,Implemented,2024-01-28
+458,105,52,CC-000458,Packaging,Medium,Proposed,2025-03-10
+459,203,14,CC-000459,Specification,Low,Rejected,2025-01-05
+460,216,116,CC-000460,Process,Medium,Implemented,2026-04-02
+461,32,44,CC-000461,Supplier Site,Medium,Implemented,2025-06-27
+462,204,63,CC-000462,Storage,Low,Approved,2025-04-24
+463,272,8,CC-000463,Specification,Medium,Implemented,2025-03-20
+464,22,104,CC-000464,Supplier Site,Low,Implemented,2024-06-08
+465,199,92,CC-000465,Method,Low,Implemented,2025-05-11
+466,60,60,CC-000466,Supplier Site,Low,Implemented,2025-02-05
+467,155,91,CC-000467,Storage,Low,Implemented,2025-03-25
+468,219,15,CC-000468,Process,High,Implemented,2026-02-02
+469,7,29,CC-000469,Storage,High,Proposed,2024-05-09
+470,173,86,CC-000470,Process,High,Proposed,2025-01-31
+471,206,39,CC-000471,Storage,Medium,Approved,2026-04-02
+472,126,118,CC-000472,Packaging,Low,Implemented,2024-08-15
+473,73,79,CC-000473,Specification,Low,Proposed,2025-10-16
+474,120,68,CC-000474,Specification,Low,Proposed,2024-05-27
+475,223,93,CC-000475,Method,Medium,Implemented,2024-01-17
+476,173,114,CC-000476,Method,Medium,Proposed,2025-05-23
+477,300,88,CC-000477,Process,Low,Implemented,2025-03-18
+478,66,105,CC-000478,Process,High,Rejected,2025-05-09
+479,178,36,CC-000479,Packaging,Low,Implemented,2025-03-07
+480,46,8,CC-000480,Method,Medium,Implemented,2024-01-24
+481,221,8,CC-000481,Process,Medium,Implemented,2024-05-08
+482,298,103,CC-000482,Supplier Site,Low,Implemented,2024-07-03
+483,105,24,CC-000483,Supplier Site,High,Proposed,2025-07-16
+484,140,64,CC-000484,Method,Medium,Proposed,2024-01-19
+485,56,31,CC-000485,Supplier Site,Low,Implemented,2024-01-19
+486,207,53,CC-000486,Packaging,High,Implemented,2025-03-30
+487,173,18,CC-000487,Supplier Site,Low,Proposed,2024-07-27
+488,164,89,CC-000488,Packaging,Low,Proposed,2026-02-17
+489,9,105,CC-000489,Specification,Medium,Implemented,2024-05-18
+490,37,67,CC-000490,Process,Medium,Implemented,2024-11-07
+491,32,110,CC-000491,Specification,Medium,Implemented,2025-07-04
+492,12,30,CC-000492,Packaging,Low,Implemented,2026-01-06
+493,93,45,CC-000493,Process,High,Proposed,2025-02-03
+494,243,82,CC-000494,Storage,Low,Implemented,2024-04-13
+495,70,40,CC-000495,Method,Low,Approved,2025-08-23
+496,13,51,CC-000496,Packaging,Medium,Implemented,2025-09-19
+497,77,62,CC-000497,Specification,Low,Implemented,2025-09-09
+498,141,64,CC-000498,Method,Low,Approved,2024-12-27
+499,275,77,CC-000499,Process,Low,Implemented,2026-03-18
+500,16,57,CC-000500,Method,Medium,Implemented,2024-09-20
+501,277,77,CC-000501,Packaging,Low,Implemented,2026-03-03
+502,35,30,CC-000502,Supplier Site,Low,Implemented,2025-10-06
+503,128,82,CC-000503,Supplier Site,Medium,Approved,2024-09-02
+504,17,109,CC-000504,Specification,Low,Implemented,2025-09-23
+505,257,99,CC-000505,Specification,Low,Approved,2026-04-17
+506,65,75,CC-000506,Process,High,Implemented,2024-07-29
+507,201,28,CC-000507,Packaging,Medium,Implemented,2024-05-28
+508,195,36,CC-000508,Method,Medium,Implemented,2024-08-26
+509,222,86,CC-000509,Specification,High,Approved,2025-03-28
+510,9,91,CC-000510,Packaging,Low,Implemented,2024-06-23
+511,130,63,CC-000511,Specification,Medium,Implemented,2024-01-31
+512,48,114,CC-000512,Method,Medium,Approved,2026-04-18
+513,175,39,CC-000513,Supplier Site,Medium,Implemented,2025-12-07
+514,174,33,CC-000514,Specification,Medium,Proposed,2024-04-13
+515,37,2,CC-000515,Supplier Site,Medium,Implemented,2026-04-09
+516,122,35,CC-000516,Process,High,Implemented,2025-06-24
+517,201,19,CC-000517,Method,Medium,Approved,2025-02-17
+518,83,117,CC-000518,Process,Low,Implemented,2024-05-22
+519,110,84,CC-000519,Process,Low,Approved,2024-05-06
+520,74,59,CC-000520,Storage,Low,Approved,2025-10-04
+521,241,66,CC-000521,Specification,High,Implemented,2024-02-28
+522,113,50,CC-000522,Specification,High,Approved,2025-06-08
+523,220,81,CC-000523,Supplier Site,High,Implemented,2025-11-19
+524,114,59,CC-000524,Supplier Site,Low,Implemented,2024-11-24
+525,246,61,CC-000525,Storage,Low,Implemented,2026-04-07
+526,277,14,CC-000526,Process,Medium,Rejected,2024-09-06
+527,155,63,CC-000527,Supplier Site,Medium,Implemented,2025-05-16
+528,279,73,CC-000528,Supplier Site,Low,Proposed,2025-10-01
+529,260,7,CC-000529,Packaging,Low,Implemented,2024-11-05
+530,142,38,CC-000530,Process,Low,Implemented,2024-12-08
+531,160,66,CC-000531,Packaging,Medium,Proposed,2024-06-16
+532,116,81,CC-000532,Supplier Site,Low,Implemented,2025-03-31
+533,161,96,CC-000533,Process,Low,Proposed,2025-07-27
+534,124,106,CC-000534,Method,Medium,Implemented,2024-04-02
+535,2,82,CC-000535,Method,High,Implemented,2025-04-16
+536,28,70,CC-000536,Storage,Medium,Approved,2025-04-23
+537,38,85,CC-000537,Process,High,Implemented,2025-08-23
+538,106,29,CC-000538,Storage,Low,Approved,2024-05-19
+539,236,28,CC-000539,Specification,Medium,Approved,2026-02-01
+540,157,48,CC-000540,Packaging,Low,Implemented,2025-09-24
+541,287,100,CC-000541,Packaging,Medium,Implemented,2024-11-27
+542,220,114,CC-000542,Method,Medium,Implemented,2024-11-18
+543,82,109,CC-000543,Specification,Low,Implemented,2026-04-24
+544,159,69,CC-000544,Supplier Site,High,Implemented,2026-01-14
+545,176,100,CC-000545,Supplier Site,Low,Implemented,2024-11-30
+546,206,29,CC-000546,Storage,Medium,Implemented,2024-01-20
+547,297,109,CC-000547,Storage,Medium,Approved,2024-06-14
+548,141,46,CC-000548,Packaging,Low,Implemented,2026-01-03
+549,246,2,CC-000549,Storage,High,Implemented,2025-11-30
+550,150,7,CC-000550,Supplier Site,Medium,Implemented,2025-03-06
+551,64,82,CC-000551,Storage,Low,Implemented,2024-08-06
+552,73,109,CC-000552,Storage,Low,Implemented,2025-02-28
+553,7,101,CC-000553,Process,Medium,Implemented,2026-03-20
+554,178,75,CC-000554,Process,Low,Approved,2026-04-03
+555,36,113,CC-000555,Specification,Low,Proposed,2025-06-17
+556,96,99,CC-000556,Specification,High,Implemented,2025-05-11
+557,166,42,CC-000557,Storage,Low,Proposed,2026-04-05
+558,270,43,CC-000558,Supplier Site,Low,Implemented,2024-07-29
+559,230,110,CC-000559,Specification,Medium,Approved,2024-01-14
+560,72,37,CC-000560,Storage,Medium,Implemented,2025-11-22
+561,214,18,CC-000561,Process,Low,Implemented,2024-08-10
+562,226,32,CC-000562,Supplier Site,Low,Proposed,2025-05-19
+563,93,92,CC-000563,Packaging,Medium,Approved,2024-12-01
+564,194,90,CC-000564,Specification,High,Approved,2024-02-25
+565,147,8,CC-000565,Packaging,Low,Implemented,2026-03-01
+566,34,22,CC-000566,Specification,Low,Implemented,2025-06-11
+567,66,46,CC-000567,Specification,Low,Proposed,2024-11-07
+568,278,93,CC-000568,Specification,Medium,Implemented,2024-12-29
+569,125,11,CC-000569,Process,Medium,Implemented,2024-07-07
+570,112,22,CC-000570,Specification,Low,Rejected,2025-07-17
+571,100,87,CC-000571,Supplier Site,Low,Implemented,2024-04-05
+572,169,21,CC-000572,Method,High,Implemented,2024-02-18
+573,14,78,CC-000573,Specification,Low,Implemented,2026-01-04
+574,120,104,CC-000574,Specification,Low,Proposed,2026-01-26
+575,253,66,CC-000575,Supplier Site,High,Implemented,2024-10-03
+576,218,101,CC-000576,Specification,Low,Proposed,2025-09-08
+577,133,95,CC-000577,Process,Low,Implemented,2026-04-03
+578,75,38,CC-000578,Method,Low,Implemented,2024-06-25
+579,65,110,CC-000579,Packaging,Medium,Implemented,2024-03-04
+580,95,32,CC-000580,Storage,Medium,Approved,2026-01-05
+581,101,52,CC-000581,Packaging,Low,Proposed,2025-03-16
+582,118,119,CC-000582,Specification,Medium,Implemented,2024-10-26
+583,98,99,CC-000583,Packaging,High,Implemented,2024-05-09
+584,87,51,CC-000584,Supplier Site,Low,Implemented,2025-10-21
+585,56,80,CC-000585,Storage,Medium,Implemented,2025-06-26
+586,70,27,CC-000586,Supplier Site,Medium,Implemented,2024-12-18
+587,47,54,CC-000587,Packaging,Medium,Implemented,2024-03-21
+588,163,115,CC-000588,Process,Low,Rejected,2025-01-19
+589,59,31,CC-000589,Packaging,Low,Implemented,2024-01-15
+590,300,107,CC-000590,Storage,Low,Proposed,2025-12-02
+591,177,22,CC-000591,Process,Low,Implemented,2024-03-04
+592,39,118,CC-000592,Supplier Site,Medium,Implemented,2026-03-05
+593,25,28,CC-000593,Supplier Site,Medium,Rejected,2024-12-27
+594,66,102,CC-000594,Storage,Medium,Approved,2024-04-14
+595,111,115,CC-000595,Specification,Low,Proposed,2025-02-03
+596,51,58,CC-000596,Supplier Site,High,Approved,2024-08-05
+597,153,103,CC-000597,Supplier Site,Low,Implemented,2024-08-28
+598,286,36,CC-000598,Specification,Low,Implemented,2026-03-16
+599,224,85,CC-000599,Storage,Medium,Proposed,2025-05-18
+600,94,16,CC-000600,Method,Medium,Proposed,2024-02-29
+601,207,100,CC-000601,Method,Low,Implemented,2026-03-16
+602,161,97,CC-000602,Packaging,Medium,Approved,2024-01-16
+603,149,35,CC-000603,Method,Medium,Implemented,2024-06-26
+604,269,11,CC-000604,Packaging,Low,Rejected,2025-06-07
+605,62,89,CC-000605,Process,Low,Implemented,2025-11-15
+606,130,61,CC-000606,Packaging,Medium,Implemented,2024-04-04
+607,263,17,CC-000607,Storage,Low,Implemented,2024-11-16
+608,74,31,CC-000608,Method,Low,Proposed,2025-06-26
+609,224,90,CC-000609,Process,High,Implemented,2024-05-20
+610,124,92,CC-000610,Specification,Medium,Rejected,2024-06-27
+611,48,119,CC-000611,Storage,Medium,Approved,2026-01-08
+612,137,81,CC-000612,Method,Low,Approved,2025-03-04
+613,281,8,CC-000613,Storage,Low,Implemented,2024-06-12
+614,64,114,CC-000614,Storage,High,Proposed,2024-09-06
+615,82,40,CC-000615,Method,Low,Approved,2025-01-12
+616,16,64,CC-000616,Supplier Site,Low,Proposed,2025-02-06
+617,278,99,CC-000617,Storage,High,Proposed,2025-05-08
+618,1,86,CC-000618,Packaging,Medium,Approved,2025-03-09
+619,180,36,CC-000619,Packaging,Low,Implemented,2024-12-25
+620,7,2,CC-000620,Method,High,Implemented,2025-05-22
+621,227,113,CC-000621,Method,High,Implemented,2024-09-05
+622,191,27,CC-000622,Supplier Site,Low,Implemented,2024-09-26
+623,65,115,CC-000623,Process,Low,Implemented,2025-07-14
+624,47,108,CC-000624,Process,Low,Implemented,2026-04-20
+625,52,52,CC-000625,Storage,Low,Approved,2025-08-10
+626,35,37,CC-000626,Specification,Medium,Approved,2026-01-07
+627,17,17,CC-000627,Supplier Site,Medium,Implemented,2025-04-18
+628,192,11,CC-000628,Supplier Site,Low,Implemented,2024-01-18
+629,26,69,CC-000629,Specification,Low,Implemented,2026-03-11
+630,180,57,CC-000630,Supplier Site,Medium,Implemented,2025-08-26
+631,231,81,CC-000631,Method,Medium,Implemented,2024-02-11
+632,5,113,CC-000632,Supplier Site,Medium,Implemented,2024-09-11
+633,202,20,CC-000633,Packaging,Medium,Implemented,2025-09-01
+634,63,32,CC-000634,Specification,Low,Approved,2025-09-04
+635,204,110,CC-000635,Packaging,Low,Implemented,2024-06-25
+636,275,88,CC-000636,Process,Low,Proposed,2025-09-23
+637,100,106,CC-000637,Packaging,High,Implemented,2024-03-12
+638,209,20,CC-000638,Specification,Low,Approved,2024-08-26
+639,11,53,CC-000639,Process,Low,Implemented,2026-01-19
+640,139,40,CC-000640,Packaging,Medium,Implemented,2024-02-01
+641,285,46,CC-000641,Storage,High,Implemented,2025-08-31
+642,95,26,CC-000642,Packaging,Low,Implemented,2025-01-16
+643,46,59,CC-000643,Process,Medium,Approved,2025-10-21
+644,105,58,CC-000644,Method,Low,Implemented,2025-01-13
+645,16,21,CC-000645,Method,Medium,Implemented,2025-08-10
+646,293,38,CC-000646,Specification,Medium,Implemented,2024-03-09
+647,54,57,CC-000647,Supplier Site,Low,Implemented,2024-09-25
+648,110,12,CC-000648,Storage,High,Implemented,2024-06-03
+649,93,37,CC-000649,Storage,Low,Implemented,2025-03-21
+650,247,8,CC-000650,Process,Low,Rejected,2024-01-26
+651,217,65,CC-000651,Method,Low,Proposed,2025-05-31
+652,44,42,CC-000652,Process,Medium,Implemented,2024-07-18
+653,182,33,CC-000653,Method,Medium,Implemented,2025-10-24
+654,292,24,CC-000654,Packaging,Low,Rejected,2024-05-16
+655,129,84,CC-000655,Method,Low,Proposed,2025-04-24
+656,101,54,CC-000656,Process,Medium,Approved,2024-11-25
+657,150,19,CC-000657,Method,High,Approved,2025-04-10
+658,11,81,CC-000658,Packaging,Low,Proposed,2025-11-26
+659,298,120,CC-000659,Specification,Medium,Approved,2025-04-07
+660,219,18,CC-000660,Process,Low,Implemented,2024-02-14
+661,64,18,CC-000661,Storage,Low,Implemented,2024-07-26
+662,283,117,CC-000662,Process,Low,Implemented,2024-09-15
+663,54,21,CC-000663,Specification,High,Implemented,2024-02-04
+664,180,29,CC-000664,Method,Low,Implemented,2025-08-09
+665,152,1,CC-000665,Storage,Medium,Proposed,2024-11-21
+666,111,74,CC-000666,Method,Low,Proposed,2025-05-10
+667,180,61,CC-000667,Process,Medium,Implemented,2024-12-11
+668,268,61,CC-000668,Method,Low,Implemented,2024-01-13
+669,138,27,CC-000669,Supplier Site,Low,Implemented,2025-05-17
+670,260,59,CC-000670,Process,High,Implemented,2024-06-29
+671,49,89,CC-000671,Packaging,Low,Implemented,2025-03-23
+672,21,109,CC-000672,Storage,Medium,Implemented,2025-11-10
+673,294,17,CC-000673,Process,High,Implemented,2024-07-02
+674,3,39,CC-000674,Specification,Medium,Implemented,2026-04-07
+675,193,22,CC-000675,Method,Low,Implemented,2025-09-01
+676,62,119,CC-000676,Supplier Site,Low,Implemented,2025-02-24
+677,130,120,CC-000677,Packaging,Medium,Approved,2024-07-04
+678,182,114,CC-000678,Specification,Medium,Proposed,2025-06-25
+679,171,101,CC-000679,Packaging,Medium,Implemented,2025-04-23
+680,109,82,CC-000680,Specification,Low,Implemented,2024-09-14
+681,203,34,CC-000681,Supplier Site,Low,Implemented,2024-11-16
+682,293,111,CC-000682,Supplier Site,Medium,Implemented,2024-07-07
+683,171,47,CC-000683,Process,Low,Implemented,2025-08-25
+684,171,86,CC-000684,Specification,Medium,Approved,2024-04-07
+685,113,107,CC-000685,Specification,Medium,Implemented,2026-01-12
+686,55,17,CC-000686,Method,Low,Implemented,2024-09-17
+687,83,40,CC-000687,Method,Low,Implemented,2024-05-21
+688,148,63,CC-000688,Specification,Medium,Implemented,2024-11-22
+689,63,112,CC-000689,Method,Medium,Approved,2025-08-08
+690,11,46,CC-000690,Process,Medium,Implemented,2025-03-18
+691,211,27,CC-000691,Packaging,Medium,Implemented,2025-11-30
+692,73,15,CC-000692,Specification,Medium,Implemented,2025-11-21
+693,247,86,CC-000693,Method,Low,Implemented,2026-02-25
+694,68,70,CC-000694,Packaging,Low,Implemented,2024-07-04
+695,31,19,CC-000695,Packaging,Low,Implemented,2025-07-18
+696,47,35,CC-000696,Packaging,Medium,Approved,2024-10-20
+697,91,73,CC-000697,Process,Medium,Approved,2025-11-15
+698,112,93,CC-000698,Packaging,High,Implemented,2026-04-21
+699,248,39,CC-000699,Packaging,Medium,Implemented,2025-12-10
+700,296,41,CC-000700,Storage,High,Implemented,2024-07-18
+701,155,1,CC-000701,Process,Low,Approved,2024-11-05
+702,114,113,CC-000702,Specification,High,Approved,2025-05-14
+703,123,66,CC-000703,Supplier Site,Low,Implemented,2024-05-03
+704,222,36,CC-000704,Storage,Medium,Approved,2025-05-10
+705,213,19,CC-000705,Supplier Site,Low,Implemented,2024-04-05
+706,111,69,CC-000706,Packaging,Medium,Implemented,2025-06-22
+707,6,79,CC-000707,Specification,High,Approved,2024-11-01
+708,55,46,CC-000708,Process,Low,Implemented,2025-03-31
+709,129,97,CC-000709,Storage,Medium,Approved,2025-01-28
+710,271,34,CC-000710,Process,Low,Approved,2025-04-21
+711,58,14,CC-000711,Storage,High,Implemented,2024-12-22
+712,41,67,CC-000712,Method,High,Implemented,2024-07-04
+713,50,98,CC-000713,Method,Medium,Implemented,2025-01-17
+714,104,97,CC-000714,Packaging,Medium,Implemented,2025-10-01
+715,196,53,CC-000715,Process,Medium,Approved,2024-11-30
+716,159,22,CC-000716,Process,Low,Approved,2025-09-28
+717,204,9,CC-000717,Method,Medium,Implemented,2024-08-28
+718,64,16,CC-000718,Method,Medium,Approved,2024-05-12
+719,179,5,CC-000719,Process,Medium,Rejected,2025-04-05
+720,32,103,CC-000720,Supplier Site,Low,Proposed,2024-11-26
+721,52,9,CC-000721,Specification,High,Proposed,2024-11-14
+722,240,63,CC-000722,Supplier Site,High,Implemented,2026-04-03
+723,260,63,CC-000723,Storage,Low,Implemented,2024-06-25
+724,167,118,CC-000724,Method,Low,Approved,2025-12-24
+725,290,80,CC-000725,Method,Medium,Approved,2026-02-28
+726,227,46,CC-000726,Specification,Medium,Implemented,2024-05-25
+727,74,117,CC-000727,Supplier Site,Low,Implemented,2025-11-13
+728,16,41,CC-000728,Process,Medium,Proposed,2024-04-02
+729,106,84,CC-000729,Specification,Medium,Approved,2025-02-27
+730,12,12,CC-000730,Packaging,Medium,Approved,2024-02-28
+731,19,37,CC-000731,Process,Low,Implemented,2025-05-20
+732,253,39,CC-000732,Supplier Site,Medium,Implemented,2025-09-07
+733,19,77,CC-000733,Packaging,Low,Implemented,2025-07-31
+734,135,54,CC-000734,Packaging,Medium,Proposed,2024-09-15
+735,236,45,CC-000735,Packaging,Medium,Approved,2026-02-06
+736,35,15,CC-000736,Storage,Medium,Implemented,2025-11-21
+737,186,40,CC-000737,Method,Medium,Implemented,2025-03-22
+738,187,80,CC-000738,Specification,Medium,Implemented,2024-01-31
+739,25,14,CC-000739,Method,High,Implemented,2025-10-15
+740,215,88,CC-000740,Storage,High,Approved,2024-12-02
+741,30,11,CC-000741,Specification,Low,Proposed,2024-01-28
+742,166,60,CC-000742,Storage,Medium,Implemented,2024-06-10
+743,72,66,CC-000743,Storage,Medium,Proposed,2024-09-04
+744,178,9,CC-000744,Specification,Medium,Implemented,2024-09-05
+745,125,39,CC-000745,Storage,Medium,Implemented,2025-09-06
+746,159,93,CC-000746,Specification,Low,Implemented,2024-12-22
+747,253,51,CC-000747,Packaging,Medium,Proposed,2024-03-26
+748,239,104,CC-000748,Packaging,Medium,Implemented,2025-11-01
+749,252,12,CC-000749,Storage,High,Approved,2025-05-28
+750,146,96,CC-000750,Storage,Low,Implemented,2024-02-07
+751,100,112,CC-000751,Method,Medium,Implemented,2025-04-20
+752,26,64,CC-000752,Method,High,Implemented,2024-10-22
+753,189,101,CC-000753,Specification,Low,Rejected,2026-04-12
+754,253,12,CC-000754,Process,Medium,Implemented,2025-06-18
+755,252,67,CC-000755,Specification,Low,Proposed,2024-02-20
+756,149,64,CC-000756,Process,Low,Implemented,2024-07-31
+757,244,11,CC-000757,Supplier Site,Low,Implemented,2025-03-11
+758,95,6,CC-000758,Specification,Low,Implemented,2024-09-14
+759,10,20,CC-000759,Process,Low,Implemented,2024-11-30
+760,184,28,CC-000760,Specification,Low,Implemented,2024-03-09
+761,42,117,CC-000761,Method,Low,Implemented,2025-11-23
+762,150,51,CC-000762,Specification,Low,Implemented,2025-09-14
+763,58,88,CC-000763,Storage,Medium,Implemented,2024-08-26
+764,279,15,CC-000764,Method,Low,Approved,2025-05-23
+765,212,74,CC-000765,Storage,Medium,Implemented,2026-03-15
+766,117,87,CC-000766,Specification,Low,Implemented,2026-04-09
+767,296,32,CC-000767,Storage,Low,Proposed,2025-02-02
+768,266,87,CC-000768,Method,Medium,Implemented,2024-12-17
+769,229,26,CC-000769,Specification,Low,Implemented,2025-12-13
+770,218,39,CC-000770,Packaging,Medium,Approved,2025-10-15
+771,72,19,CC-000771,Specification,Low,Approved,2025-06-02
+772,257,29,CC-000772,Supplier Site,Low,Implemented,2024-11-30
+773,40,79,CC-000773,Process,Low,Proposed,2025-09-11
+774,41,32,CC-000774,Process,Low,Implemented,2024-07-11
+775,296,67,CC-000775,Storage,Medium,Approved,2024-05-25
+776,158,100,CC-000776,Specification,Low,Approved,2025-05-18
+777,287,68,CC-000777,Method,Medium,Implemented,2026-03-06
+778,235,11,CC-000778,Method,Low,Approved,2024-01-29
+779,136,15,CC-000779,Packaging,High,Implemented,2024-03-15
+780,176,45,CC-000780,Specification,High,Implemented,2025-05-16
+781,36,57,CC-000781,Method,Medium,Implemented,2026-03-29
+782,298,25,CC-000782,Packaging,Medium,Proposed,2026-03-30
+783,67,56,CC-000783,Process,Medium,Approved,2025-06-27
+784,17,42,CC-000784,Method,Low,Approved,2025-01-12
+785,116,80,CC-000785,Supplier Site,Low,Implemented,2024-06-22
+786,209,112,CC-000786,Specification,Low,Approved,2025-01-28
+787,44,75,CC-000787,Storage,Medium,Implemented,2024-05-24
+788,276,58,CC-000788,Packaging,Low,Implemented,2024-02-25
+789,149,16,CC-000789,Supplier Site,Medium,Approved,2025-03-19
+790,150,30,CC-000790,Specification,Medium,Implemented,2025-06-08
+791,102,44,CC-000791,Method,Low,Rejected,2024-03-02
+792,135,73,CC-000792,Packaging,Low,Implemented,2026-02-02
+793,167,17,CC-000793,Specification,Medium,Proposed,2026-02-09
+794,217,8,CC-000794,Specification,High,Approved,2024-07-12
+795,220,95,CC-000795,Method,Medium,Implemented,2024-03-11
+796,273,97,CC-000796,Method,Low,Implemented,2024-04-03
+797,16,13,CC-000797,Specification,Low,Approved,2025-06-27
+798,167,114,CC-000798,Specification,High,Rejected,2024-11-26
+799,4,15,CC-000799,Supplier Site,Low,Implemented,2025-07-03
+800,61,83,CC-000800,Process,Medium,Approved,2025-10-23
+801,181,14,CC-000801,Storage,Low,Implemented,2026-01-15
+802,145,97,CC-000802,Packaging,Medium,Approved,2025-06-27
+803,226,82,CC-000803,Process,Medium,Implemented,2024-07-20
+804,124,41,CC-000804,Supplier Site,Medium,Implemented,2026-04-24
+805,78,93,CC-000805,Storage,Low,Implemented,2024-03-07
+806,116,83,CC-000806,Specification,Low,Implemented,2024-09-01
+807,209,25,CC-000807,Method,Low,Implemented,2025-06-27
+808,125,7,CC-000808,Storage,High,Proposed,2024-04-16
+809,254,111,CC-000809,Supplier Site,Medium,Approved,2026-01-21
+810,273,94,CC-000810,Specification,High,Implemented,2024-12-10
+811,153,64,CC-000811,Packaging,Low,Rejected,2026-04-23
+812,268,63,CC-000812,Specification,Low,Implemented,2025-02-23
+813,185,76,CC-000813,Process,Medium,Proposed,2025-11-02
+814,200,52,CC-000814,Packaging,Medium,Implemented,2025-11-07
+815,156,103,CC-000815,Storage,High,Proposed,2025-08-06
+816,249,14,CC-000816,Specification,Medium,Approved,2024-12-27
+817,135,120,CC-000817,Specification,Medium,Implemented,2025-03-30
+818,62,98,CC-000818,Specification,Low,Implemented,2024-04-21
+819,153,24,CC-000819,Process,Low,Implemented,2025-05-17
+820,28,31,CC-000820,Storage,Low,Approved,2025-09-11
+821,146,72,CC-000821,Process,Low,Proposed,2025-03-13
+822,48,1,CC-000822,Method,Medium,Implemented,2025-09-03
+823,271,74,CC-000823,Supplier Site,Medium,Implemented,2024-01-05
+824,213,98,CC-000824,Specification,Medium,Implemented,2024-03-28
+825,178,98,CC-000825,Supplier Site,High,Approved,2025-01-08
+826,109,105,CC-000826,Storage,Medium,Implemented,2025-11-05
+827,243,12,CC-000827,Supplier Site,Medium,Implemented,2024-12-06
+828,176,3,CC-000828,Specification,Low,Implemented,2024-07-17
+829,65,36,CC-000829,Specification,Low,Implemented,2025-04-07
+830,132,27,CC-000830,Storage,Low,Approved,2024-12-02
+831,232,92,CC-000831,Specification,Medium,Approved,2024-06-05
+832,126,118,CC-000832,Packaging,Low,Implemented,2025-06-30
+833,140,72,CC-000833,Supplier Site,Low,Implemented,2024-09-09
+834,292,110,CC-000834,Process,Low,Proposed,2025-02-18
+835,167,95,CC-000835,Supplier Site,Low,Implemented,2024-07-27
+836,23,36,CC-000836,Packaging,Low,Implemented,2025-12-29
+837,242,118,CC-000837,Process,Low,Approved,2024-03-25
+838,36,18,CC-000838,Supplier Site,Low,Implemented,2024-09-06
+839,67,19,CC-000839,Process,Low,Implemented,2024-02-09
+840,208,86,CC-000840,Process,Medium,Implemented,2025-08-23
+841,213,30,CC-000841,Process,Low,Proposed,2025-02-09
+842,52,95,CC-000842,Packaging,High,Implemented,2025-05-29
+843,208,87,CC-000843,Packaging,Low,Approved,2024-10-18
+844,50,59,CC-000844,Packaging,High,Implemented,2025-02-02
+845,173,112,CC-000845,Packaging,Medium,Proposed,2025-09-06
+846,74,36,CC-000846,Supplier Site,Low,Implemented,2024-06-04
+847,120,80,CC-000847,Method,Medium,Implemented,2026-04-29
+848,157,91,CC-000848,Specification,Low,Implemented,2025-10-29
+849,273,29,CC-000849,Packaging,Low,Approved,2026-04-08
+850,198,49,CC-000850,Packaging,Medium,Proposed,2026-04-08
+851,201,57,CC-000851,Specification,Medium,Implemented,2024-03-30
+852,237,103,CC-000852,Method,Low,Implemented,2025-01-04
+853,101,85,CC-000853,Packaging,High,Implemented,2025-09-06
+854,145,40,CC-000854,Method,Low,Implemented,2024-01-31
+855,190,51,CC-000855,Specification,Medium,Implemented,2024-05-01
+856,35,53,CC-000856,Method,Low,Approved,2024-06-18
+857,250,112,CC-000857,Method,High,Approved,2025-05-24
+858,48,110,CC-000858,Method,Low,Implemented,2025-09-14
+859,250,120,CC-000859,Specification,Low,Implemented,2025-10-05
+860,136,93,CC-000860,Process,Low,Approved,2026-03-15
+861,233,35,CC-000861,Packaging,Low,Implemented,2024-12-30
+862,205,22,CC-000862,Process,Low,Implemented,2024-10-29
+863,283,99,CC-000863,Method,Medium,Implemented,2024-06-01
+864,5,103,CC-000864,Packaging,Low,Approved,2024-01-20
+865,124,33,CC-000865,Packaging,Low,Implemented,2025-12-29
+866,220,30,CC-000866,Specification,Medium,Approved,2025-10-12
+867,245,32,CC-000867,Method,Medium,Implemented,2024-07-01
+868,85,79,CC-000868,Process,Medium,Implemented,2024-12-06
+869,218,78,CC-000869,Process,High,Implemented,2024-02-23
+870,88,47,CC-000870,Method,Low,Implemented,2024-02-18
+871,203,48,CC-000871,Supplier Site,Medium,Approved,2025-12-28
+872,130,67,CC-000872,Storage,Medium,Implemented,2024-05-12
+873,73,72,CC-000873,Process,Low,Implemented,2025-11-24
+874,205,31,CC-000874,Packaging,Medium,Implemented,2024-03-13
+875,236,60,CC-000875,Storage,Medium,Proposed,2024-11-27
+876,123,119,CC-000876,Process,Medium,Implemented,2024-01-02
+877,91,60,CC-000877,Process,Low,Proposed,2026-04-12
+878,255,50,CC-000878,Supplier Site,Medium,Approved,2026-03-05
+879,42,41,CC-000879,Method,Medium,Implemented,2025-10-25
+880,58,64,CC-000880,Packaging,Low,Implemented,2024-02-06
+881,211,7,CC-000881,Supplier Site,Medium,Implemented,2026-02-24
+882,28,97,CC-000882,Method,High,Approved,2025-12-27
+883,187,111,CC-000883,Specification,Medium,Implemented,2024-04-24
+884,239,80,CC-000884,Specification,Medium,Implemented,2026-03-19
+885,299,32,CC-000885,Storage,Medium,Implemented,2025-06-05
+886,184,59,CC-000886,Method,High,Approved,2024-05-26
+887,164,84,CC-000887,Supplier Site,Medium,Approved,2026-01-20
+888,210,116,CC-000888,Method,Medium,Implemented,2025-07-05
+889,135,46,CC-000889,Packaging,Low,Proposed,2024-02-01
+890,56,6,CC-000890,Method,Medium,Implemented,2024-04-12
+891,298,33,CC-000891,Specification,High,Proposed,2025-01-29
+892,185,63,CC-000892,Storage,Low,Implemented,2024-01-12
+893,84,69,CC-000893,Packaging,Medium,Implemented,2025-11-13
+894,227,88,CC-000894,Specification,Low,Implemented,2024-03-11
+895,113,25,CC-000895,Method,Low,Proposed,2024-02-27
+896,256,119,CC-000896,Packaging,Low,Implemented,2026-03-11
+897,179,83,CC-000897,Packaging,Medium,Implemented,2025-09-29
+898,139,100,CC-000898,Specification,Low,Implemented,2025-09-23
+899,258,7,CC-000899,Supplier Site,Medium,Approved,2025-02-19
+900,278,14,CC-000900,Method,Medium,Proposed,2026-02-08
+901,26,88,CC-000901,Packaging,Low,Implemented,2024-12-14
+902,164,47,CC-000902,Supplier Site,Low,Implemented,2024-11-30
+903,129,112,CC-000903,Method,Low,Approved,2024-06-08
+904,193,36,CC-000904,Process,Low,Implemented,2024-04-23
+905,52,111,CC-000905,Supplier Site,High,Implemented,2024-05-18
+906,93,44,CC-000906,Storage,Medium,Implemented,2024-01-19
+907,140,111,CC-000907,Packaging,Medium,Implemented,2024-09-28
+908,61,49,CC-000908,Process,Medium,Implemented,2024-10-15
+909,6,65,CC-000909,Process,Medium,Implemented,2026-02-26
+910,233,63,CC-000910,Method,High,Proposed,2024-05-29
+911,61,8,CC-000911,Method,Medium,Implemented,2024-08-24
+912,220,10,CC-000912,Supplier Site,High,Implemented,2026-04-15
+913,246,51,CC-000913,Supplier Site,Medium,Implemented,2024-07-08
+914,205,98,CC-000914,Process,Low,Implemented,2026-03-15
+915,185,101,CC-000915,Packaging,High,Implemented,2025-08-23
+916,65,89,CC-000916,Packaging,High,Approved,2024-11-12
+917,276,33,CC-000917,Storage,Low,Proposed,2024-10-05
+918,249,46,CC-000918,Specification,Low,Implemented,2024-04-19
+919,105,85,CC-000919,Specification,Medium,Implemented,2026-01-19
+920,37,114,CC-000920,Process,Medium,Rejected,2025-08-09
+921,139,34,CC-000921,Process,Low,Proposed,2025-05-04
+922,169,108,CC-000922,Storage,Medium,Implemented,2025-04-15
+923,92,69,CC-000923,Supplier Site,Medium,Proposed,2024-02-11
+924,16,56,CC-000924,Process,Low,Proposed,2024-11-28
+925,283,25,CC-000925,Storage,High,Implemented,2026-03-24
+926,208,37,CC-000926,Method,Low,Approved,2025-06-24
+927,117,65,CC-000927,Process,Medium,Implemented,2025-07-21
+928,207,69,CC-000928,Process,Low,Implemented,2024-01-23
+929,138,8,CC-000929,Method,High,Approved,2024-05-08
+930,119,21,CC-000930,Supplier Site,Low,Proposed,2025-06-25
+931,43,105,CC-000931,Process,Low,Implemented,2026-01-30
+932,48,21,CC-000932,Specification,Medium,Implemented,2026-04-26
+933,277,68,CC-000933,Storage,High,Rejected,2024-03-10
+934,219,43,CC-000934,Specification,Medium,Proposed,2026-04-26
+935,69,78,CC-000935,Process,Low,Proposed,2024-11-14
+936,61,54,CC-000936,Method,Low,Proposed,2024-12-04
+937,40,94,CC-000937,Specification,Medium,Proposed,2026-02-10
+938,279,103,CC-000938,Specification,Low,Approved,2026-03-13
+939,144,33,CC-000939,Packaging,Medium,Implemented,2024-02-07
+940,203,17,CC-000940,Supplier Site,High,Implemented,2024-04-27
+941,115,69,CC-000941,Supplier Site,Medium,Proposed,2026-02-12
+942,61,10,CC-000942,Process,High,Implemented,2025-05-31
+943,87,118,CC-000943,Supplier Site,Medium,Rejected,2024-02-09
+944,77,51,CC-000944,Supplier Site,Low,Implemented,2024-02-09
+945,183,21,CC-000945,Supplier Site,Low,Implemented,2025-05-30
+946,93,102,CC-000946,Method,Low,Implemented,2025-05-13
+947,245,9,CC-000947,Supplier Site,Medium,Approved,2024-03-22
+948,29,108,CC-000948,Packaging,Medium,Implemented,2025-08-05
+949,20,120,CC-000949,Specification,Medium,Implemented,2024-03-24
+950,130,72,CC-000950,Storage,Low,Implemented,2025-07-02
+951,264,89,CC-000951,Specification,Low,Implemented,2025-11-15
+952,224,16,CC-000952,Supplier Site,High,Rejected,2025-05-20
+953,221,78,CC-000953,Process,High,Implemented,2025-08-21
+954,35,120,CC-000954,Specification,Medium,Implemented,2026-02-17
+955,178,3,CC-000955,Method,Medium,Implemented,2025-01-13
+956,65,49,CC-000956,Process,Medium,Implemented,2025-08-20
+957,139,112,CC-000957,Storage,Low,Proposed,2024-12-16
+958,274,84,CC-000958,Packaging,Medium,Implemented,2025-10-21
+959,65,21,CC-000959,Specification,High,Implemented,2025-06-21
+960,176,93,CC-000960,Process,Medium,Implemented,2024-05-05
+961,199,15,CC-000961,Packaging,High,Implemented,2025-01-04
+962,92,117,CC-000962,Packaging,Medium,Implemented,2026-02-10
+963,108,75,CC-000963,Supplier Site,Low,Approved,2025-04-06
+964,74,65,CC-000964,Storage,Medium,Implemented,2024-07-09
+965,129,60,CC-000965,Packaging,Low,Approved,2024-07-20
+966,204,33,CC-000966,Specification,Low,Implemented,2025-10-23
+967,151,50,CC-000967,Specification,High,Implemented,2024-01-23
+968,14,73,CC-000968,Method,Low,Approved,2024-02-01
+969,156,4,CC-000969,Specification,Medium,Implemented,2025-08-30
+970,242,91,CC-000970,Method,Low,Implemented,2024-04-21
+971,77,90,CC-000971,Specification,Low,Implemented,2024-12-11
+972,134,69,CC-000972,Method,Medium,Implemented,2025-04-15
+973,156,29,CC-000973,Storage,Medium,Implemented,2024-06-03
+974,186,97,CC-000974,Process,Low,Rejected,2024-04-23
+975,112,115,CC-000975,Packaging,Medium,Approved,2024-09-20
+976,40,109,CC-000976,Packaging,Low,Approved,2025-11-12
+977,171,24,CC-000977,Process,Medium,Implemented,2025-07-12
+978,157,12,CC-000978,Specification,Low,Implemented,2026-01-21
+979,289,101,CC-000979,Specification,Low,Approved,2024-12-06
+980,134,113,CC-000980,Method,Low,Proposed,2025-07-21
+981,155,52,CC-000981,Method,Medium,Implemented,2024-11-15
+982,124,95,CC-000982,Packaging,Low,Approved,2024-10-11
+983,139,72,CC-000983,Supplier Site,Low,Implemented,2024-07-03
+984,293,107,CC-000984,Packaging,High,Implemented,2024-06-20
+985,256,68,CC-000985,Specification,Low,Rejected,2025-04-08
+986,16,102,CC-000986,Storage,Low,Implemented,2024-01-15
+987,152,58,CC-000987,Storage,High,Implemented,2026-04-24
+988,17,63,CC-000988,Packaging,Low,Proposed,2026-01-10
+989,174,97,CC-000989,Storage,Medium,Implemented,2026-03-01
+990,72,6,CC-000990,Process,Low,Approved,2024-12-24
+991,83,45,CC-000991,Process,Low,Proposed,2025-08-16
+992,35,44,CC-000992,Storage,High,Implemented,2026-03-12
+993,127,61,CC-000993,Supplier Site,Medium,Implemented,2025-07-26
+994,33,74,CC-000994,Specification,Low,Proposed,2024-12-23
+995,114,58,CC-000995,Storage,Low,Implemented,2024-04-28
+996,161,81,CC-000996,Process,Low,Implemented,2025-07-13
+997,153,70,CC-000997,Method,Medium,Implemented,2025-07-09
+998,42,20,CC-000998,Storage,High,Implemented,2024-09-01
+999,271,102,CC-000999,Method,Low,Approved,2026-03-28
+1000,297,22,CC-001000,Packaging,Low,Approved,2025-01-03
+1001,287,62,CC-001001,Method,Low,Implemented,2026-02-23
+1002,19,109,CC-001002,Storage,Low,Implemented,2024-03-12
+1003,4,36,CC-001003,Process,Low,Implemented,2024-04-09
+1004,150,95,CC-001004,Method,Medium,Proposed,2025-09-13
+1005,278,27,CC-001005,Supplier Site,Low,Approved,2025-04-25
+1006,72,96,CC-001006,Specification,High,Rejected,2026-04-18
+1007,211,3,CC-001007,Specification,Medium,Approved,2024-02-27
+1008,83,20,CC-001008,Packaging,Low,Implemented,2025-03-24
+1009,233,41,CC-001009,Supplier Site,Medium,Implemented,2026-04-12
+1010,271,35,CC-001010,Supplier Site,Low,Implemented,2024-04-05
+1011,114,76,CC-001011,Packaging,High,Implemented,2026-03-09
+1012,131,113,CC-001012,Supplier Site,Low,Approved,2025-02-18
+1013,245,99,CC-001013,Storage,Medium,Implemented,2026-03-29
+1014,263,41,CC-001014,Process,Low,Approved,2025-03-02
+1015,4,97,CC-001015,Specification,Low,Implemented,2026-02-25
+1016,225,11,CC-001016,Supplier Site,Low,Rejected,2024-06-23
+1017,243,47,CC-001017,Specification,High,Approved,2024-06-24
+1018,177,98,CC-001018,Packaging,Medium,Implemented,2025-08-19
+1019,228,9,CC-001019,Method,Medium,Implemented,2024-02-14
+1020,27,101,CC-001020,Specification,High,Implemented,2025-03-31
+1021,194,114,CC-001021,Specification,Medium,Implemented,2024-05-01
+1022,129,75,CC-001022,Supplier Site,Low,Rejected,2024-01-16
+1023,276,84,CC-001023,Method,High,Implemented,2026-04-05
+1024,210,50,CC-001024,Process,Medium,Implemented,2025-10-05
+1025,103,81,CC-001025,Process,Medium,Implemented,2026-02-22
+1026,189,86,CC-001026,Method,Low,Implemented,2026-02-20
+1027,92,73,CC-001027,Process,Low,Proposed,2024-06-08
+1028,139,57,CC-001028,Packaging,High,Implemented,2025-10-20
+1029,190,8,CC-001029,Method,Medium,Implemented,2024-06-16
+1030,130,67,CC-001030,Packaging,Medium,Implemented,2025-12-07
+1031,107,28,CC-001031,Process,Low,Implemented,2024-03-22
+1032,267,79,CC-001032,Storage,High,Implemented,2024-02-26
+1033,208,19,CC-001033,Supplier Site,Low,Implemented,2024-02-22
+1034,42,110,CC-001034,Packaging,Medium,Approved,2025-09-28
+1035,11,29,CC-001035,Supplier Site,Medium,Implemented,2025-08-20
+1036,25,80,CC-001036,Specification,Medium,Implemented,2025-05-11
+1037,164,35,CC-001037,Supplier Site,Low,Proposed,2024-09-29
+1038,46,34,CC-001038,Method,High,Implemented,2025-11-20
+1039,265,16,CC-001039,Supplier Site,Low,Implemented,2024-08-30
+1040,78,109,CC-001040,Supplier Site,Medium,Implemented,2025-05-20
+1041,285,44,CC-001041,Supplier Site,Low,Implemented,2025-11-05
+1042,70,28,CC-001042,Specification,Low,Approved,2024-01-20
+1043,133,42,CC-001043,Packaging,Medium,Implemented,2024-05-26
+1044,168,85,CC-001044,Process,Low,Approved,2026-01-18
+1045,240,80,CC-001045,Method,High,Implemented,2025-09-04
+1046,68,31,CC-001046,Supplier Site,Low,Implemented,2025-12-31
+1047,186,84,CC-001047,Method,Medium,Approved,2026-04-25
+1048,62,25,CC-001048,Supplier Site,Medium,Implemented,2026-04-14
+1049,222,104,CC-001049,Specification,Medium,Proposed,2026-01-06
+1050,180,66,CC-001050,Method,Medium,Proposed,2024-07-05
+1051,206,90,CC-001051,Supplier Site,Medium,Implemented,2026-04-27
+1052,147,74,CC-001052,Specification,Low,Implemented,2025-01-02
+1053,207,103,CC-001053,Storage,Low,Implemented,2025-12-03
+1054,267,29,CC-001054,Process,Low,Implemented,2024-12-07
+1055,3,3,CC-001055,Method,Low,Approved,2024-01-17
+1056,59,102,CC-001056,Storage,Low,Implemented,2026-01-19
+1057,152,65,CC-001057,Process,Medium,Implemented,2024-08-23
+1058,221,117,CC-001058,Supplier Site,Medium,Implemented,2025-09-03
+1059,209,71,CC-001059,Method,Medium,Implemented,2025-08-21
+1060,54,67,CC-001060,Process,High,Proposed,2025-04-14
+1061,202,85,CC-001061,Process,Low,Implemented,2025-11-16
+1062,51,75,CC-001062,Specification,Medium,Rejected,2024-11-07
+1063,122,73,CC-001063,Specification,Medium,Implemented,2024-11-25
+1064,82,79,CC-001064,Packaging,High,Proposed,2024-04-08
+1065,90,70,CC-001065,Method,Low,Approved,2026-03-21
+1066,26,21,CC-001066,Storage,Medium,Implemented,2024-06-07
+1067,60,15,CC-001067,Packaging,Medium,Proposed,2025-08-04
+1068,258,31,CC-001068,Supplier Site,Low,Implemented,2026-04-11
+1069,137,52,CC-001069,Specification,Medium,Implemented,2025-03-31
+1070,272,51,CC-001070,Storage,Low,Implemented,2025-09-08
+1071,122,99,CC-001071,Method,High,Approved,2024-09-08
+1072,184,28,CC-001072,Storage,Medium,Proposed,2025-07-07
+1073,69,74,CC-001073,Supplier Site,Low,Implemented,2024-09-23
+1074,271,106,CC-001074,Specification,Low,Implemented,2025-08-17
+1075,263,30,CC-001075,Packaging,Medium,Implemented,2026-03-01
+1076,30,90,CC-001076,Method,High,Implemented,2026-01-16
+1077,11,19,CC-001077,Supplier Site,Low,Approved,2025-06-11
+1078,84,103,CC-001078,Packaging,Low,Rejected,2024-06-16
+1079,59,64,CC-001079,Packaging,High,Rejected,2024-05-07
+1080,140,11,CC-001080,Supplier Site,Medium,Implemented,2025-12-06
+1081,71,83,CC-001081,Storage,Medium,Approved,2025-01-15
+1082,21,78,CC-001082,Packaging,Medium,Implemented,2025-11-07
+1083,98,73,CC-001083,Process,Medium,Implemented,2024-05-05
+1084,249,56,CC-001084,Packaging,Low,Proposed,2024-06-21
+1085,54,50,CC-001085,Storage,Medium,Proposed,2024-10-07
+1086,45,42,CC-001086,Supplier Site,High,Approved,2025-09-20
+1087,220,91,CC-001087,Specification,Low,Proposed,2024-08-29
+1088,165,1,CC-001088,Supplier Site,Low,Approved,2025-06-05
+1089,246,70,CC-001089,Process,Medium,Implemented,2025-09-01
+1090,261,26,CC-001090,Supplier Site,Medium,Rejected,2026-01-24
+1091,247,11,CC-001091,Method,Low,Implemented,2024-08-06
+1092,20,43,CC-001092,Method,Low,Rejected,2024-09-29
+1093,293,15,CC-001093,Packaging,High,Proposed,2024-04-27
+1094,23,45,CC-001094,Method,Low,Implemented,2024-05-09
+1095,86,35,CC-001095,Supplier Site,Medium,Implemented,2025-03-13
+1096,98,51,CC-001096,Packaging,Low,Implemented,2025-04-12
+1097,21,101,CC-001097,Storage,Low,Implemented,2025-10-19
+1098,217,76,CC-001098,Packaging,Medium,Implemented,2025-09-28
+1099,99,93,CC-001099,Storage,High,Approved,2025-03-08
+1100,19,62,CC-001100,Storage,Medium,Implemented,2025-12-18
+1101,214,91,CC-001101,Storage,Medium,Implemented,2024-03-27
+1102,252,89,CC-001102,Process,Low,Implemented,2025-12-07
+1103,147,14,CC-001103,Packaging,Low,Implemented,2026-01-17
+1104,96,88,CC-001104,Supplier Site,High,Proposed,2026-03-17
+1105,65,72,CC-001105,Process,Medium,Implemented,2024-03-12
+1106,252,116,CC-001106,Process,Medium,Implemented,2026-02-05
+1107,240,23,CC-001107,Method,Medium,Implemented,2025-03-08
+1108,231,50,CC-001108,Method,Low,Implemented,2025-06-28
+1109,145,113,CC-001109,Supplier Site,Medium,Implemented,2024-10-01
+1110,231,6,CC-001110,Storage,Low,Implemented,2025-12-17
+1111,273,54,CC-001111,Supplier Site,Low,Implemented,2024-07-10
+1112,88,67,CC-001112,Supplier Site,High,Implemented,2025-11-08
+1113,289,73,CC-001113,Packaging,Low,Proposed,2024-12-17
+1114,77,69,CC-001114,Packaging,Medium,Proposed,2024-10-23
+1115,120,60,CC-001115,Packaging,Medium,Proposed,2025-06-01
+1116,210,17,CC-001116,Method,High,Rejected,2025-01-16
+1117,108,22,CC-001117,Packaging,Medium,Proposed,2024-01-12
+1118,32,92,CC-001118,Packaging,Medium,Implemented,2024-09-14
+1119,114,82,CC-001119,Specification,Low,Implemented,2025-01-11
+1120,25,103,CC-001120,Method,High,Approved,2026-03-13
+1121,11,79,CC-001121,Specification,Medium,Proposed,2025-08-24
+1122,204,46,CC-001122,Process,Low,Implemented,2025-01-27
+1123,47,49,CC-001123,Supplier Site,High,Implemented,2025-03-30
+1124,260,59,CC-001124,Storage,Low,Rejected,2024-02-20
+1125,6,89,CC-001125,Supplier Site,Medium,Approved,2024-01-10
+1126,242,32,CC-001126,Specification,Medium,Approved,2024-09-30
+1127,60,14,CC-001127,Process,High,Implemented,2024-03-24
+1128,30,77,CC-001128,Specification,Low,Implemented,2025-04-05
+1129,236,94,CC-001129,Storage,Low,Implemented,2024-07-22
+1130,171,6,CC-001130,Process,Medium,Implemented,2025-12-10
+1131,38,113,CC-001131,Process,Low,Implemented,2024-06-25
+1132,248,8,CC-001132,Process,Medium,Implemented,2025-03-27
+1133,155,100,CC-001133,Process,Low,Implemented,2025-05-10
+1134,163,25,CC-001134,Method,Low,Implemented,2025-07-05
+1135,50,87,CC-001135,Packaging,Medium,Implemented,2024-04-06
+1136,197,38,CC-001136,Storage,Low,Implemented,2024-05-23
+1137,112,30,CC-001137,Packaging,Medium,Implemented,2025-08-30
+1138,158,27,CC-001138,Supplier Site,Medium,Approved,2024-05-27
+1139,293,59,CC-001139,Storage,Low,Implemented,2026-03-11
+1140,279,58,CC-001140,Storage,Medium,Implemented,2024-08-26
+1141,224,42,CC-001141,Storage,Low,Implemented,2024-11-06
+1142,89,27,CC-001142,Supplier Site,Medium,Implemented,2025-06-17
+1143,287,110,CC-001143,Packaging,High,Implemented,2025-07-12
+1144,131,101,CC-001144,Specification,High,Implemented,2024-06-27
+1145,29,42,CC-001145,Packaging,Low,Implemented,2024-12-30
+1146,130,33,CC-001146,Supplier Site,Medium,Approved,2024-09-01
+1147,198,34,CC-001147,Supplier Site,Medium,Implemented,2024-11-03
+1148,174,41,CC-001148,Method,Medium,Implemented,2024-04-02
+1149,177,71,CC-001149,Packaging,Medium,Implemented,2024-12-08
+1150,80,58,CC-001150,Supplier Site,Medium,Implemented,2025-10-16
+1151,101,108,CC-001151,Process,Medium,Implemented,2026-03-16
+1152,130,82,CC-001152,Supplier Site,Medium,Approved,2026-03-24
+1153,96,12,CC-001153,Process,Medium,Implemented,2024-10-26
+1154,123,48,CC-001154,Packaging,Medium,Implemented,2024-08-16
+1155,26,25,CC-001155,Method,Medium,Approved,2025-01-11
+1156,258,55,CC-001156,Process,High,Implemented,2025-09-06
+1157,155,33,CC-001157,Supplier Site,Medium,Implemented,2024-12-18
+1158,124,15,CC-001158,Packaging,Medium,Implemented,2024-05-29
+1159,82,105,CC-001159,Specification,Low,Implemented,2025-11-18
+1160,292,53,CC-001160,Method,Low,Implemented,2024-04-06
+1161,71,116,CC-001161,Packaging,Medium,Proposed,2025-08-08
+1162,130,39,CC-001162,Process,High,Implemented,2025-07-11
+1163,77,82,CC-001163,Specification,Medium,Approved,2025-12-08
+1164,165,46,CC-001164,Supplier Site,High,Approved,2024-02-21
+1165,105,101,CC-001165,Specification,Medium,Implemented,2025-02-14
+1166,7,7,CC-001166,Packaging,High,Implemented,2024-08-24
+1167,237,107,CC-001167,Specification,Low,Approved,2024-11-29
+1168,269,85,CC-001168,Packaging,Medium,Implemented,2024-06-03
+1169,290,100,CC-001169,Packaging,Low,Proposed,2024-09-07
+1170,26,8,CC-001170,Process,Low,Implemented,2024-01-15
+1171,293,116,CC-001171,Supplier Site,Low,Implemented,2024-08-06
+1172,176,42,CC-001172,Method,Low,Implemented,2024-01-20
+1173,91,104,CC-001173,Supplier Site,Low,Proposed,2025-09-23
+1174,84,30,CC-001174,Specification,High,Implemented,2025-02-18
+1175,261,47,CC-001175,Process,Medium,Implemented,2024-05-20
+1176,268,15,CC-001176,Specification,Medium,Implemented,2024-11-22
+1177,19,117,CC-001177,Method,Low,Proposed,2024-10-23
+1178,216,9,CC-001178,Process,Low,Approved,2024-05-30
+1179,111,19,CC-001179,Storage,Low,Implemented,2026-01-23
+1180,58,99,CC-001180,Storage,Low,Proposed,2024-02-14
+1181,228,103,CC-001181,Process,Low,Approved,2025-01-04
+1182,184,26,CC-001182,Process,Low,Proposed,2024-04-11
+1183,245,117,CC-001183,Storage,Low,Implemented,2024-08-14
+1184,273,70,CC-001184,Packaging,High,Approved,2026-03-07
+1185,147,58,CC-001185,Specification,Low,Implemented,2025-09-02
+1186,34,75,CC-001186,Process,Low,Rejected,2024-09-06
+1187,118,115,CC-001187,Packaging,Low,Implemented,2024-07-12
+1188,268,53,CC-001188,Process,Medium,Approved,2026-03-26
+1189,70,42,CC-001189,Storage,Low,Approved,2024-12-12
+1190,78,1,CC-001190,Specification,Medium,Implemented,2024-02-12
+1191,206,52,CC-001191,Supplier Site,Medium,Implemented,2025-11-22
+1192,294,120,CC-001192,Storage,Low,Implemented,2024-12-25
+1193,130,25,CC-001193,Process,Low,Implemented,2024-03-10
+1194,261,15,CC-001194,Storage,Medium,Approved,2024-01-31
+1195,249,120,CC-001195,Supplier Site,Medium,Implemented,2025-10-27
+1196,242,103,CC-001196,Supplier Site,Low,Implemented,2024-04-22
+1197,121,113,CC-001197,Process,Medium,Proposed,2025-04-11
+1198,184,118,CC-001198,Method,Medium,Proposed,2026-03-20
+1199,221,61,CC-001199,Supplier Site,Medium,Implemented,2026-04-10
+1200,252,78,CC-001200,Specification,Low,Proposed,2025-11-03
+1201,150,104,CC-001201,Process,Low,Implemented,2025-09-30
+1202,139,78,CC-001202,Supplier Site,Medium,Implemented,2024-03-09
+1203,18,30,CC-001203,Storage,Medium,Approved,2024-02-02
+1204,141,27,CC-001204,Packaging,Low,Implemented,2025-10-23
+1205,49,41,CC-001205,Method,Medium,Rejected,2024-03-27
+1206,38,31,CC-001206,Method,High,Implemented,2025-06-11
+1207,49,94,CC-001207,Specification,Medium,Implemented,2025-12-31
+1208,181,14,CC-001208,Storage,Medium,Implemented,2026-04-04
+1209,222,68,CC-001209,Specification,Medium,Approved,2025-04-16
+1210,24,57,CC-001210,Packaging,Low,Implemented,2025-01-16
+1211,278,35,CC-001211,Packaging,Medium,Implemented,2024-03-22
+1212,120,77,CC-001212,Storage,High,Approved,2024-07-29
+1213,74,52,CC-001213,Supplier Site,Medium,Approved,2024-04-27
+1214,287,2,CC-001214,Process,Medium,Implemented,2025-09-20
+1215,74,97,CC-001215,Process,High,Implemented,2024-04-21
+1216,70,20,CC-001216,Method,Medium,Implemented,2024-05-07
+1217,161,111,CC-001217,Supplier Site,Medium,Implemented,2024-05-13
+1218,264,24,CC-001218,Method,High,Implemented,2024-06-20
+1219,12,46,CC-001219,Supplier Site,Low,Implemented,2024-08-29
+1220,138,5,CC-001220,Specification,Medium,Approved,2025-01-15
+1221,217,97,CC-001221,Specification,Low,Implemented,2025-09-08
+1222,82,18,CC-001222,Process,Medium,Implemented,2024-12-20
+1223,211,47,CC-001223,Process,Low,Rejected,2025-10-05
+1224,99,2,CC-001224,Packaging,Medium,Approved,2025-01-28
+1225,194,20,CC-001225,Storage,High,Implemented,2025-01-26
+1226,250,8,CC-001226,Packaging,High,Approved,2025-04-06
+1227,83,113,CC-001227,Method,Low,Implemented,2024-11-24
+1228,228,46,CC-001228,Storage,Medium,Implemented,2026-01-28
+1229,127,114,CC-001229,Supplier Site,Low,Approved,2024-06-04
+1230,264,111,CC-001230,Specification,Low,Approved,2024-06-17
+1231,99,107,CC-001231,Method,Low,Implemented,2026-03-02
+1232,200,104,CC-001232,Packaging,High,Approved,2025-06-20
+1233,40,51,CC-001233,Supplier Site,Medium,Proposed,2025-11-20
+1234,119,42,CC-001234,Process,Low,Implemented,2024-08-16
+1235,244,41,CC-001235,Supplier Site,Medium,Proposed,2025-10-06
+1236,23,100,CC-001236,Specification,Low,Implemented,2025-09-25
+1237,162,101,CC-001237,Method,Medium,Implemented,2026-03-01
+1238,156,56,CC-001238,Process,Medium,Approved,2025-03-13
+1239,272,81,CC-001239,Storage,Medium,Approved,2025-06-03
+1240,299,68,CC-001240,Specification,Medium,Rejected,2025-03-28
+1241,142,18,CC-001241,Specification,Medium,Implemented,2025-10-13
+1242,294,66,CC-001242,Supplier Site,Medium,Implemented,2024-10-22
+1243,64,18,CC-001243,Specification,Medium,Implemented,2024-07-10
+1244,139,15,CC-001244,Packaging,Low,Implemented,2025-07-11
+1245,162,48,CC-001245,Method,Medium,Rejected,2025-08-29
+1246,188,84,CC-001246,Supplier Site,Medium,Approved,2025-01-19
+1247,245,17,CC-001247,Process,Low,Implemented,2024-07-02
+1248,48,44,CC-001248,Method,High,Implemented,2024-10-07
+1249,215,96,CC-001249,Packaging,Low,Approved,2025-10-11
+1250,8,120,CC-001250,Specification,Medium,Implemented,2024-04-27
+1251,60,117,CC-001251,Packaging,Low,Approved,2025-07-05
+1252,260,5,CC-001252,Specification,Medium,Implemented,2025-09-04
+1253,123,58,CC-001253,Packaging,Low,Implemented,2025-09-24
+1254,96,93,CC-001254,Method,Medium,Approved,2025-03-31
+1255,133,98,CC-001255,Supplier Site,Low,Proposed,2026-01-10
+1256,147,26,CC-001256,Storage,Medium,Implemented,2025-12-25
+1257,157,18,CC-001257,Process,Low,Implemented,2026-03-27
+1258,60,35,CC-001258,Packaging,Medium,Implemented,2025-02-20
+1259,13,20,CC-001259,Packaging,Medium,Proposed,2025-06-08
+1260,79,96,CC-001260,Process,Medium,Proposed,2024-09-19
+1261,4,86,CC-001261,Process,Low,Approved,2026-04-04
+1262,36,74,CC-001262,Packaging,Medium,Proposed,2025-07-08
+1263,138,12,CC-001263,Specification,Medium,Implemented,2024-10-26
+1264,118,30,CC-001264,Specification,Low,Approved,2024-03-24
+1265,248,32,CC-001265,Storage,Low,Implemented,2025-11-28
+1266,170,53,CC-001266,Process,Medium,Implemented,2025-12-07
+1267,111,14,CC-001267,Method,High,Implemented,2025-12-25
+1268,103,29,CC-001268,Method,High,Implemented,2025-06-07
+1269,205,25,CC-001269,Storage,Low,Rejected,2024-07-28
+1270,192,37,CC-001270,Supplier Site,High,Proposed,2024-09-11
+1271,196,84,CC-001271,Specification,High,Implemented,2026-02-05
+1272,207,102,CC-001272,Method,Low,Proposed,2025-07-15
+1273,160,52,CC-001273,Packaging,Medium,Approved,2024-07-30
+1274,145,91,CC-001274,Process,Medium,Implemented,2025-08-21
+1275,202,73,CC-001275,Method,Low,Proposed,2024-05-02
+1276,236,40,CC-001276,Supplier Site,Low,Proposed,2024-08-20
+1277,214,17,CC-001277,Specification,Medium,Approved,2025-11-13
+1278,88,94,CC-001278,Storage,Medium,Approved,2024-05-17
+1279,13,33,CC-001279,Packaging,Medium,Implemented,2025-01-24
+1280,97,118,CC-001280,Storage,Low,Implemented,2025-07-27
+1281,12,99,CC-001281,Supplier Site,Medium,Approved,2025-09-08
+1282,143,34,CC-001282,Specification,Low,Implemented,2025-02-11
+1283,12,48,CC-001283,Process,Medium,Implemented,2026-02-13
+1284,161,81,CC-001284,Process,Medium,Approved,2024-01-14
+1285,118,65,CC-001285,Supplier Site,Medium,Implemented,2025-11-18
+1286,298,43,CC-001286,Packaging,Low,Implemented,2024-08-25
+1287,7,61,CC-001287,Storage,Medium,Implemented,2024-06-14
+1288,160,9,CC-001288,Specification,Medium,Approved,2024-04-06
+1289,243,12,CC-001289,Process,Low,Implemented,2024-05-26
+1290,67,15,CC-001290,Storage,Medium,Implemented,2026-01-08
+1291,268,91,CC-001291,Supplier Site,High,Proposed,2025-06-19
+1292,149,32,CC-001292,Process,Low,Implemented,2025-08-21
+1293,65,5,CC-001293,Packaging,High,Implemented,2024-09-17
+1294,60,120,CC-001294,Supplier Site,Low,Approved,2026-03-07
+1295,202,53,CC-001295,Packaging,Medium,Approved,2024-12-10
+1296,93,4,CC-001296,Method,Medium,Implemented,2025-03-21
+1297,108,113,CC-001297,Specification,Low,Implemented,2024-06-06
+1298,226,71,CC-001298,Supplier Site,Low,Implemented,2025-11-23
+1299,81,114,CC-001299,Specification,Medium,Implemented,2025-12-13
+1300,143,84,CC-001300,Packaging,Low,Implemented,2024-11-13
+1301,96,4,CC-001301,Storage,Low,Approved,2025-02-25
+1302,101,95,CC-001302,Process,Medium,Implemented,2024-09-22
+1303,128,69,CC-001303,Storage,Medium,Approved,2025-08-09
+1304,204,96,CC-001304,Packaging,Low,Rejected,2024-01-27
+1305,95,12,CC-001305,Method,Medium,Implemented,2025-07-06
+1306,232,23,CC-001306,Packaging,High,Approved,2025-09-22
+1307,183,60,CC-001307,Specification,Low,Approved,2025-03-17
+1308,92,113,CC-001308,Storage,Low,Implemented,2026-01-20
+1309,118,66,CC-001309,Process,Low,Proposed,2025-06-10
+1310,87,112,CC-001310,Method,Medium,Implemented,2024-10-06
+1311,287,33,CC-001311,Supplier Site,Low,Rejected,2026-03-31
+1312,230,94,CC-001312,Supplier Site,Low,Proposed,2025-06-14
+1313,25,5,CC-001313,Method,Medium,Proposed,2024-01-24
+1314,209,44,CC-001314,Method,Medium,Implemented,2025-07-19
+1315,181,89,CC-001315,Method,Low,Implemented,2026-03-08
+1316,161,77,CC-001316,Supplier Site,High,Approved,2025-08-20
+1317,172,29,CC-001317,Specification,Low,Approved,2024-01-04
+1318,178,38,CC-001318,Specification,Low,Rejected,2024-03-16
+1319,177,78,CC-001319,Specification,Medium,Implemented,2024-07-27
+1320,86,111,CC-001320,Packaging,Medium,Implemented,2026-01-09
+1321,89,78,CC-001321,Process,High,Approved,2024-12-30
+1322,242,82,CC-001322,Packaging,Medium,Implemented,2024-02-07
+1323,146,22,CC-001323,Supplier Site,Low,Implemented,2024-11-06
+1324,256,70,CC-001324,Supplier Site,Medium,Implemented,2025-12-09
+1325,84,46,CC-001325,Method,Low,Rejected,2024-10-26
+1326,16,73,CC-001326,Storage,Medium,Implemented,2026-02-08
+1327,147,54,CC-001327,Storage,Medium,Approved,2024-09-11
+1328,145,31,CC-001328,Supplier Site,Low,Implemented,2024-12-29
+1329,202,119,CC-001329,Specification,Low,Implemented,2024-06-11
+1330,29,45,CC-001330,Storage,Medium,Implemented,2026-03-28
+1331,112,67,CC-001331,Storage,High,Proposed,2025-06-07
+1332,237,15,CC-001332,Specification,High,Implemented,2024-08-06
+1333,93,108,CC-001333,Specification,Medium,Implemented,2024-05-02
+1334,167,120,CC-001334,Supplier Site,Low,Implemented,2025-05-06
+1335,90,30,CC-001335,Packaging,Low,Implemented,2026-01-26
+1336,162,15,CC-001336,Storage,Medium,Approved,2025-05-07
+1337,157,101,CC-001337,Specification,Low,Proposed,2025-04-04
+1338,28,76,CC-001338,Specification,Low,Approved,2024-06-14
+1339,51,98,CC-001339,Storage,Low,Approved,2025-02-26
+1340,30,30,CC-001340,Packaging,Medium,Implemented,2025-09-02
+1341,209,97,CC-001341,Supplier Site,Low,Approved,2025-10-09
+1342,90,64,CC-001342,Method,Low,Implemented,2025-09-17
+1343,194,30,CC-001343,Process,Low,Approved,2024-03-02
+1344,107,66,CC-001344,Process,Medium,Approved,2025-07-16
+1345,53,8,CC-001345,Storage,Low,Approved,2026-03-22
+1346,225,109,CC-001346,Storage,Low,Approved,2025-12-30
+1347,31,76,CC-001347,Method,Low,Rejected,2024-10-24
+1348,138,67,CC-001348,Supplier Site,Low,Implemented,2024-10-03
+1349,276,42,CC-001349,Supplier Site,Low,Implemented,2024-10-05
+1350,74,56,CC-001350,Supplier Site,Low,Implemented,2025-03-05
+1351,157,47,CC-001351,Method,High,Implemented,2026-03-05
+1352,280,86,CC-001352,Packaging,Medium,Implemented,2025-05-23
+1353,160,85,CC-001353,Packaging,Low,Implemented,2025-01-28
+1354,198,97,CC-001354,Storage,Medium,Implemented,2024-12-28
+1355,150,48,CC-001355,Supplier Site,Low,Proposed,2025-02-13
+1356,291,112,CC-001356,Storage,Medium,Proposed,2026-03-24
+1357,86,99,CC-001357,Supplier Site,Medium,Implemented,2025-05-17
+1358,62,74,CC-001358,Specification,Medium,Rejected,2024-04-19
+1359,242,58,CC-001359,Method,Medium,Implemented,2026-03-15
+1360,50,107,CC-001360,Storage,Low,Proposed,2025-01-13
+1361,64,18,CC-001361,Method,Medium,Proposed,2025-04-12
+1362,52,43,CC-001362,Process,High,Implemented,2024-03-28
+1363,124,90,CC-001363,Supplier Site,Low,Proposed,2025-02-10
+1364,11,75,CC-001364,Supplier Site,Medium,Implemented,2025-07-18
+1365,130,90,CC-001365,Specification,Low,Implemented,2025-09-19
+1366,196,100,CC-001366,Specification,Low,Implemented,2026-04-29
+1367,260,44,CC-001367,Supplier Site,Low,Implemented,2025-08-31
+1368,264,6,CC-001368,Method,Medium,Implemented,2024-04-02
+1369,88,4,CC-001369,Method,Medium,Implemented,2026-03-19
+1370,86,85,CC-001370,Process,Medium,Implemented,2024-09-18
+1371,182,103,CC-001371,Specification,High,Rejected,2025-04-12
+1372,65,29,CC-001372,Packaging,Low,Implemented,2025-01-03
+1373,277,75,CC-001373,Supplier Site,Medium,Implemented,2024-06-26
+1374,224,87,CC-001374,Supplier Site,Medium,Implemented,2025-09-09
+1375,92,77,CC-001375,Specification,Low,Implemented,2024-11-19
+1376,89,65,CC-001376,Method,Medium,Approved,2025-07-28
+1377,284,1,CC-001377,Specification,Medium,Approved,2025-07-24
+1378,72,99,CC-001378,Process,Medium,Approved,2025-06-29
+1379,1,96,CC-001379,Specification,Low,Implemented,2025-08-20
+1380,176,45,CC-001380,Storage,Low,Implemented,2026-04-18
+1381,221,80,CC-001381,Packaging,Medium,Proposed,2024-03-19
+1382,258,58,CC-001382,Process,Medium,Implemented,2025-04-28
+1383,210,13,CC-001383,Supplier Site,Medium,Implemented,2024-07-24
+1384,218,42,CC-001384,Supplier Site,Medium,Implemented,2025-06-03
+1385,141,9,CC-001385,Storage,Medium,Implemented,2024-08-10
+1386,244,45,CC-001386,Method,Low,Approved,2025-01-30
+1387,71,38,CC-001387,Supplier Site,Low,Implemented,2024-08-28
+1388,140,39,CC-001388,Method,Medium,Implemented,2026-03-15
+1389,296,5,CC-001389,Specification,High,Proposed,2026-03-28
+1390,256,32,CC-001390,Packaging,Medium,Implemented,2026-03-17
+1391,50,95,CC-001391,Supplier Site,Low,Implemented,2026-03-21
+1392,196,114,CC-001392,Process,Medium,Implemented,2024-10-09
+1393,66,100,CC-001393,Process,Low,Implemented,2024-09-08
+1394,216,111,CC-001394,Supplier Site,Medium,Implemented,2025-12-14
+1395,220,36,CC-001395,Specification,Low,Implemented,2025-06-27
+1396,297,99,CC-001396,Method,Medium,Implemented,2025-11-25
+1397,52,2,CC-001397,Process,Medium,Implemented,2024-02-22
+1398,283,47,CC-001398,Supplier Site,Medium,Rejected,2025-01-10
+1399,43,38,CC-001399,Packaging,Medium,Approved,2025-07-05
+1400,255,51,CC-001400,Method,Medium,Implemented,2025-01-12
+1401,147,74,CC-001401,Process,High,Implemented,2024-12-16
+1402,244,97,CC-001402,Storage,Medium,Implemented,2024-02-16
+1403,10,1,CC-001403,Packaging,Low,Rejected,2025-08-06
+1404,13,32,CC-001404,Method,Medium,Implemented,2025-03-09
+1405,196,46,CC-001405,Method,High,Approved,2024-09-21
+1406,166,26,CC-001406,Process,Medium,Implemented,2024-06-15
+1407,92,76,CC-001407,Supplier Site,High,Implemented,2024-11-03
+1408,138,116,CC-001408,Specification,High,Approved,2025-01-25
+1409,85,115,CC-001409,Supplier Site,Low,Approved,2024-02-07
+1410,292,36,CC-001410,Supplier Site,Low,Implemented,2025-08-14
+1411,27,101,CC-001411,Method,Low,Approved,2025-07-13
+1412,126,54,CC-001412,Supplier Site,Low,Implemented,2025-09-25
+1413,231,59,CC-001413,Process,Medium,Implemented,2024-01-30
+1414,279,30,CC-001414,Supplier Site,Medium,Implemented,2024-12-24
+1415,211,107,CC-001415,Storage,Medium,Implemented,2026-02-14
+1416,242,119,CC-001416,Method,Medium,Implemented,2024-06-21
+1417,253,67,CC-001417,Storage,Low,Approved,2025-05-20
+1418,199,71,CC-001418,Process,Low,Implemented,2025-12-18
+1419,12,96,CC-001419,Process,High,Proposed,2025-09-13
+1420,292,54,CC-001420,Method,Medium,Implemented,2025-07-06
+1421,40,76,CC-001421,Specification,Medium,Implemented,2024-06-05
+1422,38,29,CC-001422,Packaging,Low,Implemented,2024-03-27
+1423,103,2,CC-001423,Process,Medium,Proposed,2024-01-14
+1424,116,103,CC-001424,Specification,High,Proposed,2024-05-29
+1425,11,37,CC-001425,Method,Low,Approved,2024-09-29
+1426,56,11,CC-001426,Supplier Site,Low,Implemented,2024-08-12
+1427,37,91,CC-001427,Method,Low,Implemented,2024-03-10
+1428,26,120,CC-001428,Storage,Low,Implemented,2024-12-02
+1429,252,84,CC-001429,Process,Low,Rejected,2025-08-06
+1430,38,40,CC-001430,Process,Low,Implemented,2025-05-05
+1431,68,109,CC-001431,Supplier Site,Medium,Implemented,2024-02-05
+1432,241,83,CC-001432,Storage,Medium,Approved,2025-09-11
+1433,23,118,CC-001433,Method,Medium,Implemented,2024-04-17
+1434,18,43,CC-001434,Specification,Medium,Implemented,2024-05-16
+1435,44,19,CC-001435,Storage,Low,Implemented,2024-05-03
+1436,53,87,CC-001436,Supplier Site,Low,Implemented,2024-01-04
+1437,121,8,CC-001437,Method,Low,Implemented,2025-09-05
+1438,3,101,CC-001438,Specification,Low,Implemented,2025-08-03
+1439,8,38,CC-001439,Process,Low,Proposed,2026-01-14
+1440,36,115,CC-001440,Supplier Site,Low,Implemented,2025-01-16
+1441,74,69,CC-001441,Packaging,Low,Proposed,2025-03-03
+1442,167,84,CC-001442,Supplier Site,Medium,Approved,2025-06-22
+1443,277,63,CC-001443,Specification,Low,Implemented,2025-05-08
+1444,284,16,CC-001444,Specification,Low,Proposed,2025-06-10
+1445,295,34,CC-001445,Packaging,Low,Implemented,2025-04-24
+1446,112,97,CC-001446,Method,Low,Implemented,2024-04-01
+1447,198,101,CC-001447,Storage,Medium,Approved,2025-03-31
+1448,283,23,CC-001448,Supplier Site,Low,Implemented,2026-03-03
+1449,82,27,CC-001449,Supplier Site,Low,Proposed,2024-04-17
+1450,28,107,CC-001450,Storage,Low,Implemented,2026-03-08
+1451,51,104,CC-001451,Storage,Medium,Implemented,2025-10-21
+1452,135,46,CC-001452,Packaging,Low,Implemented,2026-01-14
+1453,6,23,CC-001453,Specification,Medium,Implemented,2024-08-10
+1454,117,58,CC-001454,Process,Medium,Implemented,2026-02-09
+1455,278,5,CC-001455,Process,High,Implemented,2025-11-12
+1456,195,91,CC-001456,Supplier Site,Low,Implemented,2025-02-17
+1457,264,87,CC-001457,Storage,Medium,Approved,2025-05-13
+1458,20,46,CC-001458,Storage,Medium,Implemented,2025-03-02
+1459,237,95,CC-001459,Supplier Site,Medium,Implemented,2024-06-27
+1460,237,106,CC-001460,Process,Low,Proposed,2024-10-07
+1461,102,20,CC-001461,Process,High,Approved,2024-05-15
+1462,141,35,CC-001462,Process,Low,Implemented,2024-01-28
+1463,70,13,CC-001463,Process,Low,Implemented,2024-05-22
+1464,283,48,CC-001464,Supplier Site,Low,Implemented,2024-02-03
+1465,268,41,CC-001465,Process,Medium,Implemented,2024-08-30
+1466,108,90,CC-001466,Process,Medium,Implemented,2025-04-27
+1467,172,117,CC-001467,Method,Medium,Approved,2024-06-18
+1468,109,13,CC-001468,Specification,Medium,Implemented,2025-10-16
+1469,58,64,CC-001469,Supplier Site,Low,Approved,2025-02-12
+1470,69,5,CC-001470,Method,Medium,Rejected,2026-04-26
+1471,298,35,CC-001471,Method,Low,Implemented,2026-04-21
+1472,40,36,CC-001472,Storage,Medium,Implemented,2024-10-28
+1473,118,14,CC-001473,Supplier Site,Low,Implemented,2024-05-12
+1474,269,63,CC-001474,Storage,Medium,Approved,2026-01-31
+1475,226,86,CC-001475,Supplier Site,Low,Implemented,2025-11-29
+1476,166,80,CC-001476,Packaging,Low,Approved,2025-05-12
+1477,241,33,CC-001477,Process,Low,Implemented,2025-05-23
+1478,8,99,CC-001478,Specification,Medium,Implemented,2024-08-29
+1479,182,93,CC-001479,Process,Medium,Implemented,2024-11-20
+1480,211,84,CC-001480,Method,High,Implemented,2025-12-02
+1481,286,112,CC-001481,Supplier Site,Low,Implemented,2024-05-04
+1482,263,60,CC-001482,Process,Low,Implemented,2024-04-20
+1483,76,81,CC-001483,Supplier Site,Low,Approved,2024-10-02
+1484,126,115,CC-001484,Specification,Low,Rejected,2025-01-15
+1485,147,103,CC-001485,Method,Low,Proposed,2025-12-09
+1486,266,120,CC-001486,Method,High,Implemented,2024-02-20
+1487,79,1,CC-001487,Packaging,Medium,Implemented,2024-11-06
+1488,189,27,CC-001488,Packaging,Low,Approved,2024-06-14
+1489,81,114,CC-001489,Storage,Medium,Implemented,2024-09-16
+1490,255,79,CC-001490,Specification,Low,Implemented,2025-06-26
+1491,221,40,CC-001491,Supplier Site,Medium,Implemented,2026-04-27
+1492,94,22,CC-001492,Process,Low,Implemented,2025-12-12
+1493,138,2,CC-001493,Storage,Medium,Proposed,2025-12-06
+1494,297,99,CC-001494,Specification,Medium,Implemented,2025-11-07
+1495,256,111,CC-001495,Storage,High,Implemented,2024-04-13
+1496,74,117,CC-001496,Method,Medium,Implemented,2024-03-02
+1497,133,63,CC-001497,Supplier Site,Medium,Implemented,2024-10-30
+1498,8,20,CC-001498,Storage,Medium,Implemented,2025-11-27
+1499,106,28,CC-001499,Supplier Site,High,Implemented,2024-08-28
+1500,20,115,CC-001500,Supplier Site,Medium,Approved,2025-11-10
+1501,187,51,CC-001501,Packaging,Medium,Approved,2024-02-14
+1502,5,116,CC-001502,Packaging,Low,Implemented,2024-01-15
+1503,248,16,CC-001503,Process,Medium,Approved,2024-06-14
+1504,190,75,CC-001504,Supplier Site,Medium,Implemented,2024-05-10
+1505,290,84,CC-001505,Process,High,Approved,2025-12-23
+1506,141,13,CC-001506,Process,Medium,Implemented,2025-08-09
+1507,130,6,CC-001507,Process,Low,Implemented,2025-01-08
+1508,244,21,CC-001508,Specification,Low,Proposed,2025-01-08
+1509,239,89,CC-001509,Storage,Medium,Approved,2024-04-19
+1510,132,102,CC-001510,Process,Low,Approved,2025-01-12
+1511,273,7,CC-001511,Specification,Medium,Implemented,2025-08-24
+1512,116,13,CC-001512,Method,Medium,Implemented,2025-04-05
+1513,243,1,CC-001513,Specification,Medium,Implemented,2025-01-05
+1514,155,63,CC-001514,Specification,Medium,Implemented,2024-08-06
+1515,140,117,CC-001515,Method,Low,Implemented,2025-03-31
+1516,227,50,CC-001516,Specification,High,Approved,2025-03-21
+1517,199,53,CC-001517,Method,High,Approved,2025-07-04
+1518,104,119,CC-001518,Supplier Site,Low,Implemented,2025-08-06
+1519,29,64,CC-001519,Method,Medium,Implemented,2026-01-05
+1520,1,54,CC-001520,Supplier Site,Low,Implemented,2024-03-26
+1521,103,39,CC-001521,Supplier Site,Medium,Implemented,2025-06-17
+1522,78,75,CC-001522,Storage,High,Proposed,2025-04-07
+1523,58,53,CC-001523,Supplier Site,Low,Implemented,2024-02-29
+1524,203,111,CC-001524,Supplier Site,Low,Implemented,2025-05-21
+1525,288,120,CC-001525,Method,Medium,Proposed,2025-05-17
+1526,229,108,CC-001526,Process,Medium,Proposed,2026-04-15
+1527,243,53,CC-001527,Process,Low,Proposed,2026-03-08
+1528,4,115,CC-001528,Process,Low,Implemented,2026-03-07
+1529,275,22,CC-001529,Storage,Medium,Implemented,2024-01-23
+1530,223,80,CC-001530,Method,Low,Rejected,2024-08-24
+1531,288,53,CC-001531,Packaging,Medium,Implemented,2025-07-06
+1532,280,46,CC-001532,Process,Low,Implemented,2025-03-26
+1533,242,72,CC-001533,Supplier Site,Low,Rejected,2024-05-04
+1534,139,14,CC-001534,Packaging,Medium,Proposed,2025-03-23
+1535,3,105,CC-001535,Packaging,Medium,Proposed,2025-05-22
+1536,279,58,CC-001536,Specification,Low,Implemented,2024-04-17
+1537,39,33,CC-001537,Storage,High,Approved,2025-11-04
+1538,299,40,CC-001538,Supplier Site,Medium,Implemented,2024-08-04
+1539,211,2,CC-001539,Packaging,High,Implemented,2026-02-01
+1540,145,18,CC-001540,Process,High,Implemented,2024-04-07
+1541,71,109,CC-001541,Packaging,High,Implemented,2024-01-01
+1542,98,50,CC-001542,Storage,Low,Approved,2025-01-30
+1543,269,15,CC-001543,Packaging,Medium,Implemented,2026-04-10
+1544,172,96,CC-001544,Process,Medium,Implemented,2024-04-17
+1545,283,65,CC-001545,Packaging,High,Implemented,2026-02-26
+1546,191,90,CC-001546,Supplier Site,Medium,Proposed,2024-08-25
+1547,240,27,CC-001547,Process,Low,Implemented,2025-05-12
+1548,149,2,CC-001548,Supplier Site,Medium,Implemented,2026-02-16
+1549,98,94,CC-001549,Packaging,Low,Approved,2025-07-23
+1550,110,91,CC-001550,Supplier Site,Low,Implemented,2025-09-17
+1551,33,82,CC-001551,Process,Low,Implemented,2025-07-14
+1552,15,93,CC-001552,Storage,Medium,Implemented,2025-08-20
+1553,46,79,CC-001553,Storage,Low,Implemented,2024-02-17
+1554,73,4,CC-001554,Supplier Site,Medium,Implemented,2024-05-07
+1555,216,88,CC-001555,Storage,Medium,Proposed,2025-08-09
+1556,26,95,CC-001556,Packaging,Low,Approved,2024-09-25
+1557,222,63,CC-001557,Method,Medium,Implemented,2024-05-04
+1558,44,30,CC-001558,Packaging,Medium,Implemented,2024-08-06
+1559,71,100,CC-001559,Packaging,Low,Implemented,2026-03-07
+1560,138,92,CC-001560,Method,High,Implemented,2024-02-23
+1561,238,40,CC-001561,Specification,Low,Implemented,2026-03-15
+1562,88,70,CC-001562,Supplier Site,Medium,Implemented,2025-09-02
+1563,276,21,CC-001563,Method,Low,Proposed,2024-10-04
+1564,126,27,CC-001564,Process,Medium,Implemented,2026-01-05
+1565,250,93,CC-001565,Method,Low,Approved,2025-01-18
+1566,259,87,CC-001566,Supplier Site,Medium,Implemented,2024-01-27
+1567,197,109,CC-001567,Packaging,Low,Proposed,2024-12-13
+1568,26,93,CC-001568,Specification,High,Approved,2025-08-21
+1569,261,29,CC-001569,Process,Medium,Implemented,2024-06-19
+1570,131,52,CC-001570,Specification,Low,Implemented,2025-07-18
+1571,199,36,CC-001571,Method,Low,Approved,2025-03-13
+1572,155,18,CC-001572,Packaging,Low,Approved,2024-11-27
+1573,207,65,CC-001573,Storage,High,Implemented,2024-05-22
+1574,143,117,CC-001574,Supplier Site,High,Implemented,2025-11-29
+1575,141,9,CC-001575,Storage,Medium,Approved,2025-03-19
+1576,54,117,CC-001576,Method,High,Implemented,2025-07-21
+1577,95,59,CC-001577,Packaging,Medium,Approved,2026-03-23
+1578,139,67,CC-001578,Process,Medium,Approved,2025-12-29
+1579,288,7,CC-001579,Process,Medium,Implemented,2025-03-04
+1580,39,18,CC-001580,Storage,Low,Implemented,2024-10-02
+1581,13,33,CC-001581,Specification,Medium,Rejected,2025-08-10
+1582,32,28,CC-001582,Storage,Low,Approved,2024-08-15
+1583,157,34,CC-001583,Packaging,Low,Implemented,2024-06-13
+1584,286,96,CC-001584,Supplier Site,High,Proposed,2024-03-05
+1585,48,3,CC-001585,Storage,Low,Approved,2026-02-26
+1586,183,5,CC-001586,Process,Low,Implemented,2025-02-11
+1587,71,55,CC-001587,Supplier Site,Medium,Implemented,2025-03-22
+1588,79,60,CC-001588,Method,Medium,Rejected,2025-08-20
+1589,151,104,CC-001589,Supplier Site,High,Implemented,2024-04-28
+1590,44,31,CC-001590,Packaging,High,Rejected,2024-03-24
+1591,135,95,CC-001591,Method,Medium,Rejected,2025-03-18
+1592,252,40,CC-001592,Storage,Low,Implemented,2026-03-17
+1593,36,108,CC-001593,Method,Low,Implemented,2025-07-10
+1594,295,82,CC-001594,Supplier Site,Medium,Implemented,2024-01-11
+1595,164,21,CC-001595,Method,Low,Implemented,2025-03-03
+1596,213,53,CC-001596,Storage,Low,Implemented,2024-01-04
+1597,214,113,CC-001597,Storage,Low,Implemented,2025-05-28
+1598,231,75,CC-001598,Storage,Medium,Approved,2024-02-04
+1599,48,108,CC-001599,Process,Low,Implemented,2024-04-05
+1600,178,42,CC-001600,Specification,Medium,Implemented,2025-07-04
+1601,78,90,CC-001601,Process,Medium,Implemented,2024-12-27
+1602,236,20,CC-001602,Method,Low,Proposed,2025-03-15
+1603,68,40,CC-001603,Packaging,High,Implemented,2024-03-14
+1604,27,105,CC-001604,Packaging,Low,Implemented,2024-11-16
+1605,159,89,CC-001605,Supplier Site,Low,Proposed,2025-06-26
+1606,165,61,CC-001606,Process,High,Approved,2024-02-26
+1607,108,106,CC-001607,Specification,Low,Implemented,2024-05-09
+1608,119,83,CC-001608,Storage,High,Proposed,2024-01-23
+1609,259,22,CC-001609,Packaging,Low,Implemented,2025-06-02
+1610,184,105,CC-001610,Packaging,Low,Implemented,2024-01-04
+1611,167,83,CC-001611,Specification,High,Proposed,2024-06-10
+1612,145,112,CC-001612,Supplier Site,Medium,Approved,2024-01-29
+1613,231,65,CC-001613,Supplier Site,Medium,Implemented,2025-12-10
+1614,257,4,CC-001614,Specification,Low,Proposed,2024-03-22
+1615,78,24,CC-001615,Packaging,Low,Approved,2025-07-02
+1616,105,107,CC-001616,Process,Low,Approved,2025-06-21
+1617,202,101,CC-001617,Specification,Medium,Approved,2024-06-22
+1618,296,67,CC-001618,Storage,Low,Approved,2025-09-19
+1619,207,22,CC-001619,Specification,Medium,Approved,2026-02-27
+1620,202,23,CC-001620,Supplier Site,Low,Approved,2026-04-19
+1621,87,5,CC-001621,Method,Medium,Implemented,2025-02-01
+1622,95,69,CC-001622,Specification,Medium,Approved,2025-06-02
+1623,141,80,CC-001623,Storage,High,Proposed,2025-10-19
+1624,232,48,CC-001624,Specification,Medium,Implemented,2024-01-12
+1625,131,11,CC-001625,Packaging,Medium,Approved,2024-06-10
+1626,148,119,CC-001626,Method,High,Implemented,2026-03-26
+1627,165,72,CC-001627,Specification,Medium,Implemented,2026-01-05
+1628,131,81,CC-001628,Supplier Site,Medium,Approved,2025-10-29
+1629,227,10,CC-001629,Storage,Medium,Proposed,2025-10-07
+1630,260,18,CC-001630,Packaging,Medium,Implemented,2026-04-27
+1631,162,4,CC-001631,Packaging,Low,Implemented,2024-10-15
+1632,276,70,CC-001632,Method,Low,Implemented,2024-01-08
+1633,156,70,CC-001633,Packaging,Medium,Implemented,2026-02-09
+1634,34,20,CC-001634,Specification,High,Proposed,2024-07-30
+1635,294,86,CC-001635,Storage,Low,Implemented,2025-05-27
+1636,23,108,CC-001636,Specification,Medium,Implemented,2024-02-16
+1637,240,96,CC-001637,Specification,Medium,Implemented,2025-04-11
+1638,104,81,CC-001638,Process,Medium,Implemented,2025-12-17
+1639,240,13,CC-001639,Specification,Low,Rejected,2025-11-27
+1640,200,82,CC-001640,Supplier Site,Low,Implemented,2024-12-07
+1641,7,69,CC-001641,Method,Medium,Implemented,2025-02-20
+1642,83,33,CC-001642,Process,Low,Implemented,2024-11-11
+1643,35,34,CC-001643,Packaging,High,Implemented,2024-10-03
+1644,67,19,CC-001644,Packaging,Medium,Proposed,2024-11-12
+1645,262,82,CC-001645,Supplier Site,Low,Implemented,2024-05-30
+1646,247,26,CC-001646,Storage,Medium,Rejected,2025-06-09
+1647,73,73,CC-001647,Storage,Medium,Approved,2025-04-16
+1648,212,78,CC-001648,Specification,Medium,Implemented,2024-11-13
+1649,292,62,CC-001649,Supplier Site,Medium,Proposed,2025-05-31
+1650,34,23,CC-001650,Storage,Low,Approved,2025-02-04
+1651,181,115,CC-001651,Packaging,High,Implemented,2024-12-07
+1652,58,6,CC-001652,Storage,High,Implemented,2024-10-14
+1653,5,113,CC-001653,Supplier Site,High,Implemented,2024-05-28
+1654,199,69,CC-001654,Storage,Medium,Approved,2024-06-30
+1655,166,105,CC-001655,Process,Medium,Rejected,2025-07-30
+1656,21,61,CC-001656,Method,Low,Proposed,2025-09-05
+1657,70,108,CC-001657,Packaging,Medium,Proposed,2025-11-30
+1658,207,71,CC-001658,Method,Low,Implemented,2026-01-11
+1659,201,82,CC-001659,Supplier Site,Medium,Proposed,2024-12-19
+1660,246,106,CC-001660,Supplier Site,Medium,Implemented,2025-11-08
+1661,188,8,CC-001661,Process,Medium,Approved,2024-01-26
+1662,269,96,CC-001662,Supplier Site,Low,Implemented,2024-01-19
+1663,101,40,CC-001663,Packaging,High,Implemented,2024-05-01
+1664,83,32,CC-001664,Packaging,High,Implemented,2024-08-04
+1665,188,55,CC-001665,Packaging,Medium,Implemented,2026-03-30
+1666,197,98,CC-001666,Process,Medium,Implemented,2026-04-20
+1667,84,13,CC-001667,Supplier Site,Medium,Implemented,2025-06-09
+1668,198,69,CC-001668,Process,Medium,Proposed,2024-09-09
+1669,115,46,CC-001669,Supplier Site,Low,Implemented,2025-09-24
+1670,32,89,CC-001670,Process,Low,Implemented,2024-06-11
+1671,133,120,CC-001671,Method,Low,Approved,2025-05-25
+1672,3,75,CC-001672,Storage,Low,Implemented,2025-11-25
+1673,282,115,CC-001673,Packaging,Medium,Approved,2024-01-01
+1674,170,94,CC-001674,Process,Medium,Implemented,2025-03-26
+1675,270,38,CC-001675,Storage,Medium,Implemented,2025-06-23
+1676,131,106,CC-001676,Method,Low,Implemented,2024-01-23
+1677,66,76,CC-001677,Storage,High,Proposed,2026-04-09
+1678,298,19,CC-001678,Specification,Medium,Implemented,2024-07-24
+1679,73,102,CC-001679,Process,Low,Implemented,2025-11-10
+1680,102,5,CC-001680,Method,High,Implemented,2024-05-16
+1681,288,35,CC-001681,Packaging,Low,Approved,2025-08-30
+1682,224,76,CC-001682,Method,Low,Implemented,2025-12-13
+1683,49,71,CC-001683,Packaging,Low,Rejected,2024-10-23
+1684,264,14,CC-001684,Supplier Site,Low,Implemented,2025-02-28
+1685,208,45,CC-001685,Storage,Medium,Rejected,2026-01-03
+1686,240,5,CC-001686,Supplier Site,Low,Rejected,2024-06-15
+1687,297,84,CC-001687,Storage,Low,Implemented,2025-08-27
+1688,190,115,CC-001688,Specification,Medium,Proposed,2024-04-22
+1689,9,6,CC-001689,Packaging,Low,Implemented,2024-09-27
+1690,219,2,CC-001690,Packaging,High,Approved,2025-03-10
+1691,54,44,CC-001691,Method,Low,Proposed,2026-01-18
+1692,116,86,CC-001692,Packaging,Medium,Rejected,2024-07-11
+1693,262,68,CC-001693,Specification,Medium,Approved,2025-11-09
+1694,11,6,CC-001694,Method,High,Implemented,2025-11-19
+1695,118,37,CC-001695,Specification,Medium,Proposed,2024-12-05
+1696,35,97,CC-001696,Storage,Medium,Implemented,2025-05-26
+1697,178,30,CC-001697,Method,Low,Implemented,2024-05-20
+1698,59,41,CC-001698,Process,Low,Rejected,2024-11-08
+1699,221,26,CC-001699,Process,Medium,Implemented,2026-03-09
+1700,228,38,CC-001700,Packaging,Low,Proposed,2026-02-22
+1701,110,72,CC-001701,Packaging,Low,Implemented,2025-01-16
+1702,49,12,CC-001702,Method,Medium,Proposed,2024-12-20
+1703,19,1,CC-001703,Specification,Low,Approved,2026-01-06
+1704,21,7,CC-001704,Specification,Medium,Proposed,2025-11-07
+1705,23,27,CC-001705,Supplier Site,Low,Implemented,2024-04-28
+1706,172,73,CC-001706,Method,High,Implemented,2025-09-01
+1707,17,37,CC-001707,Specification,Medium,Implemented,2024-08-27
+1708,98,74,CC-001708,Supplier Site,High,Implemented,2025-10-14
+1709,59,90,CC-001709,Process,Low,Proposed,2024-09-05
+1710,287,119,CC-001710,Storage,High,Implemented,2024-05-29
+1711,226,37,CC-001711,Packaging,Low,Rejected,2025-08-27
+1712,55,90,CC-001712,Storage,Medium,Rejected,2025-02-28
+1713,192,93,CC-001713,Storage,Low,Approved,2026-03-12
+1714,132,116,CC-001714,Method,Medium,Approved,2024-02-27
+1715,12,23,CC-001715,Storage,Medium,Proposed,2024-05-15
+1716,44,48,CC-001716,Process,High,Implemented,2024-02-17
+1717,23,8,CC-001717,Packaging,Medium,Approved,2024-01-28
+1718,140,64,CC-001718,Method,Medium,Approved,2024-08-09
+1719,81,26,CC-001719,Storage,Medium,Implemented,2024-11-26
+1720,89,16,CC-001720,Packaging,Low,Implemented,2024-10-20
+1721,89,95,CC-001721,Packaging,High,Implemented,2025-02-08
+1722,189,41,CC-001722,Method,Low,Implemented,2024-05-14
+1723,277,11,CC-001723,Packaging,High,Proposed,2024-12-15
+1724,200,93,CC-001724,Supplier Site,Low,Implemented,2025-07-21
+1725,19,81,CC-001725,Specification,Low,Approved,2026-04-06
+1726,68,28,CC-001726,Storage,Medium,Implemented,2026-01-10
+1727,111,88,CC-001727,Method,Low,Implemented,2026-03-21
+1728,14,56,CC-001728,Supplier Site,High,Approved,2024-11-05
+1729,81,29,CC-001729,Method,Low,Proposed,2026-04-27
+1730,223,94,CC-001730,Packaging,Low,Proposed,2025-11-20
+1731,48,37,CC-001731,Packaging,Low,Implemented,2026-01-14
+1732,105,62,CC-001732,Process,Medium,Implemented,2024-08-04
+1733,121,119,CC-001733,Supplier Site,Low,Proposed,2025-06-10
+1734,269,75,CC-001734,Specification,Medium,Implemented,2025-03-26
+1735,169,67,CC-001735,Packaging,Medium,Implemented,2024-08-11
+1736,125,52,CC-001736,Packaging,High,Approved,2026-03-07
+1737,249,19,CC-001737,Packaging,High,Proposed,2024-10-07
+1738,166,106,CC-001738,Specification,Medium,Implemented,2024-08-06
+1739,210,43,CC-001739,Supplier Site,Low,Implemented,2024-10-12
+1740,149,38,CC-001740,Packaging,Medium,Implemented,2025-02-03
+1741,215,39,CC-001741,Process,High,Implemented,2024-11-08
+1742,209,98,CC-001742,Specification,Low,Implemented,2025-02-09
+1743,64,42,CC-001743,Method,Medium,Approved,2024-04-26
+1744,284,108,CC-001744,Supplier Site,Low,Proposed,2025-12-02
+1745,16,6,CC-001745,Supplier Site,Medium,Implemented,2024-08-16
+1746,74,72,CC-001746,Method,Medium,Implemented,2024-12-16
+1747,172,60,CC-001747,Supplier Site,Low,Implemented,2025-08-09
+1748,65,9,CC-001748,Method,Low,Implemented,2025-11-22
+1749,297,72,CC-001749,Packaging,Medium,Implemented,2025-03-06
+1750,98,77,CC-001750,Packaging,Medium,Implemented,2024-01-03
+1751,220,84,CC-001751,Method,Medium,Implemented,2026-01-15
+1752,237,92,CC-001752,Packaging,Low,Implemented,2025-11-29
+1753,280,3,CC-001753,Supplier Site,Medium,Approved,2024-01-08
+1754,184,76,CC-001754,Supplier Site,Medium,Implemented,2025-11-03
+1755,222,70,CC-001755,Process,Medium,Proposed,2024-12-04
+1756,38,18,CC-001756,Method,Low,Implemented,2024-12-08
+1757,129,69,CC-001757,Process,Low,Implemented,2024-06-17
+1758,64,4,CC-001758,Process,Medium,Approved,2024-05-22
+1759,293,41,CC-001759,Supplier Site,Low,Approved,2025-04-10
+1760,200,52,CC-001760,Method,Medium,Proposed,2024-03-12
+1761,148,116,CC-001761,Specification,Low,Implemented,2025-06-01
+1762,269,80,CC-001762,Process,Low,Rejected,2024-03-19
+1763,119,66,CC-001763,Supplier Site,Low,Implemented,2024-04-16
+1764,221,26,CC-001764,Specification,Low,Implemented,2025-08-24
+1765,49,113,CC-001765,Specification,Medium,Approved,2024-10-29
+1766,98,64,CC-001766,Specification,Low,Implemented,2025-10-14
+1767,261,70,CC-001767,Method,Low,Implemented,2024-07-23
+1768,286,109,CC-001768,Specification,Medium,Implemented,2025-06-01
+1769,154,14,CC-001769,Process,Medium,Approved,2024-02-03
+1770,132,16,CC-001770,Packaging,High,Approved,2026-04-01
+1771,159,91,CC-001771,Storage,Medium,Approved,2024-01-19
+1772,107,58,CC-001772,Storage,Medium,Implemented,2024-03-06
+1773,21,42,CC-001773,Process,Medium,Implemented,2026-04-16
+1774,288,71,CC-001774,Storage,Low,Implemented,2026-01-20
+1775,217,69,CC-001775,Storage,Medium,Proposed,2024-09-02
+1776,120,38,CC-001776,Method,Low,Implemented,2024-06-19
+1777,249,66,CC-001777,Storage,Low,Proposed,2025-06-17
+1778,126,103,CC-001778,Process,Low,Implemented,2025-03-25
+1779,41,79,CC-001779,Storage,Low,Implemented,2025-01-19
+1780,132,16,CC-001780,Storage,Medium,Implemented,2025-06-24
+1781,49,51,CC-001781,Process,Low,Approved,2025-05-27
+1782,252,1,CC-001782,Process,High,Implemented,2024-01-06
+1783,102,92,CC-001783,Method,Low,Approved,2025-12-06
+1784,171,45,CC-001784,Specification,Medium,Implemented,2025-08-30
+1785,214,73,CC-001785,Process,Low,Implemented,2025-03-10
+1786,82,56,CC-001786,Method,Low,Implemented,2026-01-04
+1787,237,53,CC-001787,Process,High,Rejected,2024-10-16
+1788,37,44,CC-001788,Method,Low,Proposed,2024-05-01
+1789,172,115,CC-001789,Process,Low,Implemented,2025-03-26
+1790,201,42,CC-001790,Process,High,Implemented,2025-10-03
+1791,111,56,CC-001791,Packaging,Medium,Approved,2025-02-17
+1792,115,69,CC-001792,Packaging,Low,Implemented,2024-08-29
+1793,44,29,CC-001793,Method,Medium,Proposed,2026-04-03
+1794,82,97,CC-001794,Specification,Low,Implemented,2024-02-11
+1795,294,47,CC-001795,Packaging,Medium,Approved,2024-05-15
+1796,292,107,CC-001796,Method,High,Implemented,2025-12-30
+1797,95,61,CC-001797,Packaging,Low,Proposed,2024-04-13
+1798,240,4,CC-001798,Specification,Low,Implemented,2024-09-03
+1799,133,115,CC-001799,Supplier Site,High,Implemented,2025-12-25
+1800,275,27,CC-001800,Method,High,Implemented,2024-03-25
+1801,230,10,CC-001801,Method,Low,Approved,2024-12-16
+1802,43,32,CC-001802,Supplier Site,Low,Implemented,2025-08-29
+1803,243,61,CC-001803,Method,High,Implemented,2024-03-20
+1804,143,112,CC-001804,Process,Medium,Approved,2024-06-17
+1805,121,82,CC-001805,Packaging,High,Implemented,2025-09-21
+1806,38,86,CC-001806,Storage,Low,Approved,2025-07-21
+1807,123,16,CC-001807,Specification,High,Approved,2025-04-15
+1808,16,111,CC-001808,Specification,Medium,Implemented,2024-06-08
+1809,270,67,CC-001809,Specification,High,Rejected,2024-07-23
+1810,64,4,CC-001810,Packaging,Medium,Approved,2025-07-20
+1811,247,111,CC-001811,Process,High,Implemented,2024-09-14
+1812,201,24,CC-001812,Storage,Medium,Implemented,2026-04-13
+1813,169,41,CC-001813,Process,Low,Approved,2025-02-01
+1814,12,58,CC-001814,Storage,Medium,Implemented,2024-03-17
+1815,27,35,CC-001815,Specification,Medium,Proposed,2024-10-03
+1816,139,76,CC-001816,Storage,Low,Implemented,2026-01-23
+1817,7,36,CC-001817,Storage,Medium,Implemented,2025-08-10
+1818,90,38,CC-001818,Supplier Site,Low,Implemented,2025-11-01
+1819,217,74,CC-001819,Packaging,Medium,Implemented,2024-02-17
+1820,46,48,CC-001820,Packaging,Low,Approved,2025-04-25
+1821,3,64,CC-001821,Supplier Site,Medium,Implemented,2025-08-10
+1822,286,103,CC-001822,Packaging,Medium,Implemented,2025-03-02
+1823,106,35,CC-001823,Storage,Low,Implemented,2025-08-15
+1824,199,11,CC-001824,Specification,Medium,Proposed,2024-10-21
+1825,284,113,CC-001825,Method,Medium,Implemented,2025-06-21
+1826,145,8,CC-001826,Packaging,High,Approved,2024-04-26
+1827,221,86,CC-001827,Process,Medium,Implemented,2024-08-22
+1828,197,48,CC-001828,Packaging,Low,Approved,2025-09-23
+1829,96,64,CC-001829,Packaging,Medium,Implemented,2025-09-29
+1830,214,75,CC-001830,Storage,Medium,Approved,2025-09-03
+1831,261,90,CC-001831,Specification,Low,Implemented,2024-01-22
+1832,115,101,CC-001832,Packaging,High,Implemented,2025-12-15
+1833,116,62,CC-001833,Packaging,Medium,Implemented,2024-03-22
+1834,166,97,CC-001834,Specification,Medium,Approved,2024-10-29
+1835,138,78,CC-001835,Supplier Site,Low,Implemented,2024-06-05
+1836,258,94,CC-001836,Storage,Low,Implemented,2025-05-26
+1837,249,47,CC-001837,Packaging,Low,Implemented,2024-01-16
+1838,121,56,CC-001838,Packaging,Medium,Approved,2024-12-25
+1839,143,78,CC-001839,Storage,Low,Approved,2025-09-24
+1840,256,69,CC-001840,Storage,Low,Implemented,2024-10-30
+1841,158,37,CC-001841,Packaging,Medium,Implemented,2024-04-18
+1842,137,94,CC-001842,Process,Medium,Proposed,2026-04-29
+1843,18,42,CC-001843,Process,Medium,Implemented,2025-05-19
+1844,119,54,CC-001844,Specification,Low,Implemented,2024-12-28
+1845,133,45,CC-001845,Method,Low,Implemented,2024-05-20
+1846,223,46,CC-001846,Storage,Medium,Implemented,2025-04-15
+1847,39,14,CC-001847,Method,High,Rejected,2026-01-16
+1848,117,15,CC-001848,Packaging,Medium,Implemented,2024-05-04
+1849,49,104,CC-001849,Specification,Low,Implemented,2025-05-05
+1850,238,9,CC-001850,Process,Medium,Implemented,2025-09-02
+1851,114,89,CC-001851,Process,Medium,Approved,2024-08-27
+1852,77,17,CC-001852,Storage,Medium,Implemented,2025-02-18
+1853,67,11,CC-001853,Process,Low,Implemented,2024-10-19
+1854,218,46,CC-001854,Storage,High,Implemented,2024-06-19
+1855,292,40,CC-001855,Packaging,Low,Implemented,2024-07-20
+1856,121,52,CC-001856,Process,Medium,Implemented,2026-02-25
+1857,56,3,CC-001857,Supplier Site,Medium,Implemented,2026-03-25
+1858,40,60,CC-001858,Packaging,Low,Implemented,2025-12-08
+1859,263,30,CC-001859,Specification,High,Implemented,2025-10-21
+1860,58,69,CC-001860,Storage,Medium,Implemented,2026-01-29
+1861,199,15,CC-001861,Supplier Site,Low,Approved,2024-03-05
+1862,241,116,CC-001862,Method,High,Implemented,2024-03-08
+1863,180,88,CC-001863,Method,Low,Implemented,2025-12-07
+1864,171,11,CC-001864,Storage,Low,Implemented,2025-03-08
+1865,63,7,CC-001865,Method,Medium,Approved,2026-03-15
+1866,161,77,CC-001866,Storage,Medium,Approved,2024-06-17
+1867,247,108,CC-001867,Method,Medium,Approved,2024-06-13
+1868,103,52,CC-001868,Supplier Site,Low,Approved,2025-09-13
+1869,208,57,CC-001869,Storage,High,Implemented,2024-03-21
+1870,206,8,CC-001870,Specification,Medium,Proposed,2025-03-05
+1871,187,68,CC-001871,Supplier Site,Medium,Implemented,2024-08-06
+1872,74,23,CC-001872,Specification,Low,Implemented,2025-10-21
+1873,266,13,CC-001873,Supplier Site,Low,Rejected,2026-04-13
+1874,26,74,CC-001874,Specification,Low,Approved,2024-07-01
+1875,137,43,CC-001875,Storage,Low,Proposed,2026-01-06
+1876,208,14,CC-001876,Packaging,Low,Proposed,2025-04-27
+1877,69,33,CC-001877,Specification,High,Approved,2025-12-20
+1878,103,120,CC-001878,Storage,Medium,Proposed,2025-01-01
+1879,27,11,CC-001879,Process,Low,Proposed,2025-01-05
+1880,275,83,CC-001880,Storage,Low,Implemented,2025-10-31
+1881,90,97,CC-001881,Packaging,Medium,Implemented,2025-05-10
+1882,149,100,CC-001882,Method,Medium,Implemented,2025-05-26
+1883,196,62,CC-001883,Method,High,Implemented,2025-02-03
+1884,255,73,CC-001884,Specification,Medium,Implemented,2025-06-15
+1885,279,18,CC-001885,Packaging,High,Approved,2026-03-25
+1886,233,64,CC-001886,Specification,Medium,Proposed,2024-07-12
+1887,113,106,CC-001887,Method,Low,Implemented,2024-08-03
+1888,63,31,CC-001888,Process,Low,Implemented,2025-01-20
+1889,160,35,CC-001889,Process,Low,Implemented,2025-02-23
+1890,103,76,CC-001890,Method,Medium,Implemented,2024-07-08
+1891,57,101,CC-001891,Supplier Site,Medium,Implemented,2025-10-11
+1892,251,51,CC-001892,Packaging,Low,Approved,2024-10-10
+1893,240,99,CC-001893,Supplier Site,Medium,Implemented,2025-05-26
+1894,73,13,CC-001894,Supplier Site,Medium,Implemented,2025-02-10
+1895,300,31,CC-001895,Supplier Site,Medium,Implemented,2024-07-07
+1896,97,108,CC-001896,Supplier Site,Low,Implemented,2026-01-08
+1897,282,109,CC-001897,Packaging,Low,Proposed,2026-04-10
+1898,14,53,CC-001898,Specification,Low,Proposed,2024-08-16
+1899,280,98,CC-001899,Supplier Site,Low,Approved,2024-05-13
+1900,249,77,CC-001900,Specification,High,Implemented,2025-05-14
+1901,170,4,CC-001901,Method,Low,Approved,2025-08-16
+1902,289,64,CC-001902,Specification,Low,Implemented,2026-03-08
+1903,38,52,CC-001903,Supplier Site,Low,Implemented,2026-03-13
+1904,90,118,CC-001904,Process,Medium,Proposed,2026-01-04
+1905,259,47,CC-001905,Specification,High,Approved,2026-03-27
+1906,242,101,CC-001906,Specification,Low,Approved,2026-01-09
+1907,252,46,CC-001907,Process,Low,Implemented,2024-04-29
+1908,10,5,CC-001908,Method,High,Implemented,2025-02-28
+1909,285,4,CC-001909,Method,Medium,Approved,2026-04-26
+1910,266,92,CC-001910,Method,Medium,Approved,2025-01-15
+1911,134,20,CC-001911,Packaging,Medium,Rejected,2025-01-23
+1912,88,51,CC-001912,Packaging,Low,Approved,2025-01-08
+1913,37,86,CC-001913,Method,Medium,Approved,2024-05-14
+1914,118,41,CC-001914,Process,Low,Rejected,2024-06-10
+1915,231,28,CC-001915,Specification,Low,Approved,2024-03-24
+1916,56,54,CC-001916,Storage,Low,Approved,2024-09-29
+1917,240,30,CC-001917,Method,Low,Proposed,2024-12-01
+1918,162,37,CC-001918,Method,Low,Implemented,2025-09-07
+1919,289,35,CC-001919,Process,Medium,Implemented,2024-03-07
+1920,231,42,CC-001920,Method,Low,Approved,2024-08-01
+1921,184,24,CC-001921,Supplier Site,Medium,Implemented,2026-03-13
+1922,278,97,CC-001922,Packaging,High,Approved,2024-03-04
+1923,198,78,CC-001923,Storage,Low,Implemented,2024-11-26
+1924,107,114,CC-001924,Storage,Medium,Proposed,2025-06-28
+1925,268,60,CC-001925,Process,High,Implemented,2025-11-01
+1926,149,18,CC-001926,Process,High,Proposed,2024-12-24
+1927,195,2,CC-001927,Supplier Site,Low,Implemented,2025-03-21
+1928,39,55,CC-001928,Specification,Low,Implemented,2026-01-15
+1929,34,66,CC-001929,Process,Medium,Implemented,2025-01-19
+1930,124,108,CC-001930,Packaging,Medium,Implemented,2024-08-22
+1931,279,3,CC-001931,Storage,Low,Approved,2025-11-30
+1932,31,72,CC-001932,Supplier Site,Low,Implemented,2024-02-06
+1933,193,104,CC-001933,Method,Medium,Implemented,2025-02-05
+1934,36,101,CC-001934,Process,Low,Implemented,2024-08-20
+1935,211,55,CC-001935,Supplier Site,Low,Implemented,2024-12-09
+1936,191,85,CC-001936,Specification,High,Approved,2025-06-30
+1937,142,55,CC-001937,Packaging,High,Implemented,2024-07-02
+1938,155,56,CC-001938,Process,Low,Implemented,2025-03-05
+1939,189,86,CC-001939,Specification,Low,Approved,2025-10-23
+1940,141,32,CC-001940,Storage,Medium,Implemented,2024-03-17
+1941,90,37,CC-001941,Packaging,Medium,Approved,2026-04-13
+1942,216,61,CC-001942,Specification,Low,Implemented,2025-08-21
+1943,34,26,CC-001943,Storage,Low,Implemented,2025-02-16
+1944,176,56,CC-001944,Packaging,Medium,Implemented,2024-03-22
+1945,158,64,CC-001945,Packaging,Medium,Implemented,2025-08-22
+1946,16,77,CC-001946,Storage,Low,Implemented,2025-07-11
+1947,171,79,CC-001947,Specification,Medium,Approved,2026-03-10
+1948,172,80,CC-001948,Supplier Site,Medium,Approved,2025-01-01
+1949,44,23,CC-001949,Process,Low,Implemented,2025-06-12
+1950,290,103,CC-001950,Specification,Medium,Approved,2025-05-06
+1951,127,5,CC-001951,Supplier Site,High,Rejected,2025-04-17
+1952,288,22,CC-001952,Storage,Low,Proposed,2024-08-19
+1953,215,83,CC-001953,Process,High,Implemented,2025-06-30
+1954,234,101,CC-001954,Storage,Medium,Implemented,2025-07-13
+1955,69,53,CC-001955,Packaging,High,Approved,2024-11-17
+1956,102,61,CC-001956,Packaging,Low,Approved,2025-09-01
+1957,14,28,CC-001957,Supplier Site,Low,Approved,2024-02-07
+1958,234,21,CC-001958,Specification,Medium,Implemented,2026-04-05
+1959,183,19,CC-001959,Specification,Medium,Implemented,2024-04-13
+1960,29,50,CC-001960,Supplier Site,Medium,Implemented,2024-09-23
+1961,211,61,CC-001961,Supplier Site,Low,Implemented,2024-08-26
+1962,218,120,CC-001962,Packaging,Medium,Approved,2024-04-14
+1963,247,95,CC-001963,Method,Low,Implemented,2024-10-29
+1964,96,95,CC-001964,Specification,Low,Implemented,2025-02-10
+1965,10,88,CC-001965,Storage,Medium,Implemented,2024-01-29
+1966,102,58,CC-001966,Specification,Medium,Approved,2025-11-28
+1967,188,9,CC-001967,Process,Low,Implemented,2024-04-15
+1968,84,84,CC-001968,Process,Low,Implemented,2025-05-14
+1969,128,14,CC-001969,Specification,Medium,Approved,2025-08-30
+1970,247,31,CC-001970,Method,Low,Implemented,2025-07-12
+1971,119,40,CC-001971,Supplier Site,Medium,Approved,2025-12-21
+1972,251,117,CC-001972,Specification,Low,Proposed,2024-05-29
+1973,52,67,CC-001973,Specification,Medium,Implemented,2025-06-15
+1974,228,118,CC-001974,Storage,Low,Implemented,2024-05-21
+1975,240,105,CC-001975,Storage,High,Implemented,2025-11-06
+1976,94,13,CC-001976,Storage,Low,Approved,2025-03-23
+1977,296,102,CC-001977,Method,Medium,Implemented,2026-01-04
+1978,216,64,CC-001978,Method,Medium,Implemented,2025-05-08
+1979,150,10,CC-001979,Supplier Site,Low,Implemented,2024-12-10
+1980,74,119,CC-001980,Method,Low,Implemented,2026-04-07
+1981,166,22,CC-001981,Storage,Medium,Implemented,2025-02-03
+1982,41,95,CC-001982,Method,Low,Implemented,2026-04-19
+1983,3,88,CC-001983,Specification,Medium,Approved,2025-10-04
+1984,15,59,CC-001984,Packaging,Low,Implemented,2025-09-18
+1985,297,104,CC-001985,Storage,Medium,Implemented,2024-08-23
+1986,55,37,CC-001986,Packaging,Medium,Approved,2024-09-27
+1987,127,1,CC-001987,Packaging,Medium,Approved,2025-07-18
+1988,121,97,CC-001988,Supplier Site,Low,Implemented,2025-09-02
+1989,89,83,CC-001989,Storage,Medium,Implemented,2024-05-05
+1990,9,23,CC-001990,Packaging,Medium,Implemented,2025-10-04
+1991,135,108,CC-001991,Process,Medium,Implemented,2024-03-07
+1992,128,72,CC-001992,Storage,Low,Implemented,2025-03-12
+1993,14,44,CC-001993,Method,Medium,Proposed,2024-07-10
+1994,98,61,CC-001994,Method,Low,Implemented,2024-12-27
+1995,246,48,CC-001995,Specification,High,Implemented,2025-12-01
+1996,69,109,CC-001996,Method,Medium,Implemented,2025-05-27
+1997,297,117,CC-001997,Supplier Site,Medium,Implemented,2025-12-09
+1998,298,12,CC-001998,Method,Low,Proposed,2024-06-09
+1999,83,74,CC-001999,Specification,Low,Implemented,2026-01-15
+2000,262,30,CC-002000,Packaging,Medium,Rejected,2025-07-10
+2001,97,85,CC-002001,Method,Low,Implemented,2024-12-22
+2002,42,62,CC-002002,Specification,Low,Implemented,2024-07-22
+2003,298,52,CC-002003,Storage,Medium,Proposed,2025-12-08
+2004,195,37,CC-002004,Process,Medium,Proposed,2025-11-26
+2005,201,2,CC-002005,Packaging,Medium,Implemented,2025-09-26
+2006,233,59,CC-002006,Storage,Medium,Implemented,2026-01-04
+2007,166,107,CC-002007,Process,Medium,Implemented,2025-06-03
+2008,231,87,CC-002008,Supplier Site,Low,Implemented,2024-12-14
+2009,30,106,CC-002009,Packaging,Medium,Implemented,2025-06-25
+2010,222,93,CC-002010,Packaging,Low,Implemented,2026-03-03
+2011,147,18,CC-002011,Method,Low,Approved,2025-06-22
+2012,148,69,CC-002012,Specification,Medium,Implemented,2026-02-08
+2013,33,54,CC-002013,Supplier Site,Low,Implemented,2025-09-24
+2014,25,81,CC-002014,Method,Medium,Approved,2024-02-06
+2015,14,17,CC-002015,Method,Low,Implemented,2025-10-07
+2016,15,86,CC-002016,Process,Low,Approved,2026-01-20
+2017,277,2,CC-002017,Method,Low,Implemented,2024-01-13
+2018,145,106,CC-002018,Supplier Site,Low,Proposed,2025-05-06
+2019,267,19,CC-002019,Specification,Low,Implemented,2024-01-09
+2020,86,25,CC-002020,Method,Medium,Implemented,2024-12-14
+2021,135,18,CC-002021,Specification,Low,Implemented,2024-06-08
+2022,94,4,CC-002022,Process,Medium,Approved,2025-04-29
+2023,244,89,CC-002023,Packaging,High,Approved,2025-12-12
+2024,89,90,CC-002024,Method,Medium,Implemented,2024-04-08
+2025,226,73,CC-002025,Storage,High,Implemented,2025-08-15
+2026,189,29,CC-002026,Process,Low,Implemented,2026-01-22
+2027,297,45,CC-002027,Process,Low,Proposed,2025-08-01
+2028,46,26,CC-002028,Method,High,Approved,2024-05-27
+2029,205,36,CC-002029,Process,Medium,Implemented,2025-08-15
+2030,19,100,CC-002030,Supplier Site,Low,Proposed,2024-04-17
+2031,293,33,CC-002031,Storage,Low,Implemented,2025-08-29
+2032,169,32,CC-002032,Storage,Low,Approved,2024-06-05
+2033,250,96,CC-002033,Supplier Site,Medium,Approved,2025-02-16
+2034,144,94,CC-002034,Storage,Low,Implemented,2024-10-25
+2035,291,109,CC-002035,Method,Low,Approved,2026-01-22
+2036,35,40,CC-002036,Specification,Low,Implemented,2024-02-20
+2037,265,29,CC-002037,Specification,Medium,Approved,2024-02-23
+2038,145,9,CC-002038,Storage,Medium,Implemented,2025-10-26
+2039,207,50,CC-002039,Specification,Low,Implemented,2025-09-11
+2040,23,97,CC-002040,Packaging,Medium,Implemented,2026-04-08
+2041,180,53,CC-002041,Packaging,Low,Implemented,2025-12-26
+2042,254,84,CC-002042,Packaging,High,Implemented,2025-01-14
+2043,30,28,CC-002043,Process,Low,Implemented,2025-01-06
+2044,75,30,CC-002044,Supplier Site,Medium,Approved,2024-07-25
+2045,59,6,CC-002045,Process,High,Implemented,2025-07-09
+2046,265,72,CC-002046,Supplier Site,Low,Implemented,2025-09-27
+2047,51,83,CC-002047,Specification,Medium,Implemented,2025-10-20
+2048,229,112,CC-002048,Process,Low,Proposed,2024-02-02
+2049,254,118,CC-002049,Process,Low,Implemented,2024-03-10
+2050,272,51,CC-002050,Method,Medium,Implemented,2024-12-11
+2051,215,15,CC-002051,Packaging,Low,Proposed,2026-04-25
+2052,96,85,CC-002052,Supplier Site,High,Implemented,2025-04-26
+2053,230,40,CC-002053,Supplier Site,Medium,Implemented,2024-03-26
+2054,283,77,CC-002054,Process,Low,Implemented,2025-07-22
+2055,204,26,CC-002055,Supplier Site,Medium,Implemented,2025-06-24
+2056,181,24,CC-002056,Process,Medium,Implemented,2024-11-27
+2057,279,8,CC-002057,Process,Low,Implemented,2026-04-20
+2058,288,111,CC-002058,Packaging,Low,Implemented,2026-03-28
+2059,54,110,CC-002059,Method,Low,Implemented,2025-04-18
+2060,45,99,CC-002060,Storage,Medium,Proposed,2025-02-20
+2061,41,18,CC-002061,Method,Medium,Implemented,2026-03-01
+2062,217,40,CC-002062,Supplier Site,Low,Proposed,2024-12-04
+2063,281,115,CC-002063,Storage,Low,Implemented,2025-02-01
+2064,242,72,CC-002064,Process,Low,Approved,2024-10-03
+2065,108,7,CC-002065,Process,Medium,Implemented,2025-10-31
+2066,255,97,CC-002066,Storage,Low,Implemented,2024-06-09
+2067,206,72,CC-002067,Process,Medium,Approved,2025-01-01
+2068,293,30,CC-002068,Storage,Low,Implemented,2025-08-08
+2069,297,63,CC-002069,Process,Medium,Approved,2026-03-10
+2070,46,10,CC-002070,Storage,Low,Implemented,2025-11-18
+2071,273,4,CC-002071,Specification,Low,Implemented,2024-10-18
+2072,78,3,CC-002072,Process,Medium,Approved,2025-05-05
+2073,65,57,CC-002073,Specification,High,Implemented,2025-11-26
+2074,233,48,CC-002074,Method,Medium,Proposed,2025-07-21
+2075,116,3,CC-002075,Specification,High,Implemented,2025-07-04
+2076,151,29,CC-002076,Storage,Medium,Implemented,2024-06-24
+2077,198,9,CC-002077,Supplier Site,Low,Implemented,2024-06-02
+2078,235,70,CC-002078,Specification,Medium,Proposed,2025-09-15
+2079,275,49,CC-002079,Packaging,High,Approved,2024-04-11
+2080,279,66,CC-002080,Packaging,Low,Proposed,2024-08-20
+2081,295,19,CC-002081,Specification,Low,Implemented,2026-02-20
+2082,35,93,CC-002082,Specification,Medium,Implemented,2025-05-04
+2083,118,112,CC-002083,Specification,Low,Proposed,2025-08-15
+2084,151,111,CC-002084,Storage,Medium,Implemented,2024-03-27
+2085,107,90,CC-002085,Specification,Medium,Implemented,2025-06-08
+2086,218,83,CC-002086,Method,Medium,Implemented,2024-10-30
+2087,177,82,CC-002087,Storage,Low,Approved,2024-10-20
+2088,207,86,CC-002088,Process,Low,Approved,2024-10-12
+2089,235,81,CC-002089,Method,Medium,Implemented,2025-08-02
+2090,275,68,CC-002090,Storage,Medium,Implemented,2026-03-10
+2091,242,49,CC-002091,Process,Medium,Implemented,2024-12-11
+2092,242,39,CC-002092,Storage,Low,Implemented,2025-07-17
+2093,230,44,CC-002093,Specification,Low,Implemented,2024-01-24
+2094,82,35,CC-002094,Packaging,Low,Implemented,2026-01-01
+2095,11,9,CC-002095,Specification,Medium,Implemented,2025-03-25
+2096,168,76,CC-002096,Supplier Site,High,Implemented,2026-01-07
+2097,67,88,CC-002097,Method,Medium,Implemented,2025-07-16
+2098,2,91,CC-002098,Supplier Site,Medium,Rejected,2026-02-28
+2099,14,61,CC-002099,Storage,Low,Approved,2025-11-01
+2100,183,115,CC-002100,Specification,Low,Implemented,2026-02-02
+2101,175,55,CC-002101,Method,Low,Implemented,2026-03-24
+2102,13,72,CC-002102,Specification,High,Implemented,2026-02-02
+2103,242,59,CC-002103,Process,Low,Implemented,2024-12-14
+2104,245,98,CC-002104,Specification,Low,Rejected,2024-12-27
+2105,80,23,CC-002105,Specification,High,Implemented,2025-08-16
+2106,230,54,CC-002106,Storage,Medium,Implemented,2025-01-30
+2107,117,117,CC-002107,Packaging,Low,Implemented,2024-06-08
+2108,31,50,CC-002108,Process,Low,Implemented,2025-09-30
+2109,10,120,CC-002109,Method,High,Implemented,2025-07-25
+2110,222,51,CC-002110,Storage,Low,Implemented,2025-08-13
+2111,248,10,CC-002111,Packaging,Medium,Approved,2026-01-21
+2112,53,109,CC-002112,Process,Low,Rejected,2025-12-15
+2113,106,28,CC-002113,Supplier Site,Low,Approved,2025-03-14
+2114,40,18,CC-002114,Specification,Medium,Implemented,2024-07-02
+2115,230,79,CC-002115,Specification,Low,Implemented,2025-02-22
+2116,57,81,CC-002116,Storage,Medium,Implemented,2025-03-12
+2117,264,9,CC-002117,Method,Low,Implemented,2026-03-20
+2118,57,106,CC-002118,Specification,Low,Proposed,2025-10-01
+2119,250,115,CC-002119,Process,Medium,Approved,2024-05-28
+2120,142,98,CC-002120,Storage,Medium,Implemented,2024-10-09
+2121,281,59,CC-002121,Packaging,High,Approved,2024-07-04
+2122,25,14,CC-002122,Specification,Low,Implemented,2026-03-28
+2123,168,82,CC-002123,Process,Medium,Implemented,2025-03-29
+2124,129,36,CC-002124,Method,Low,Implemented,2024-01-18
+2125,183,16,CC-002125,Process,Low,Proposed,2025-04-24
+2126,274,37,CC-002126,Storage,Low,Approved,2025-08-31
+2127,231,10,CC-002127,Method,Low,Approved,2024-06-07
+2128,60,64,CC-002128,Specification,Low,Implemented,2025-04-30
+2129,222,56,CC-002129,Specification,Medium,Implemented,2024-03-19
+2130,150,70,CC-002130,Method,Low,Implemented,2025-11-05
+2131,215,114,CC-002131,Process,Low,Implemented,2024-07-10
+2132,48,100,CC-002132,Process,High,Implemented,2025-10-05
+2133,32,82,CC-002133,Specification,High,Approved,2024-11-17
+2134,189,42,CC-002134,Method,Low,Implemented,2024-02-16
+2135,205,113,CC-002135,Packaging,High,Proposed,2024-02-19
+2136,75,84,CC-002136,Method,High,Implemented,2025-04-19
+2137,99,49,CC-002137,Supplier Site,Medium,Implemented,2024-10-01
+2138,257,107,CC-002138,Packaging,Medium,Implemented,2025-02-21
+2139,243,20,CC-002139,Method,Medium,Proposed,2025-05-28
+2140,241,31,CC-002140,Process,Medium,Implemented,2025-06-23
+2141,97,15,CC-002141,Packaging,Low,Implemented,2025-05-21
+2142,221,53,CC-002142,Storage,Low,Approved,2026-04-25
+2143,50,14,CC-002143,Specification,Medium,Implemented,2025-09-02
+2144,171,91,CC-002144,Specification,Low,Implemented,2026-01-24
+2145,82,104,CC-002145,Process,Low,Implemented,2024-03-04
+2146,45,80,CC-002146,Specification,Medium,Implemented,2025-01-06
+2147,184,79,CC-002147,Supplier Site,Medium,Implemented,2025-05-02
+2148,173,69,CC-002148,Storage,Medium,Proposed,2025-09-02
+2149,275,54,CC-002149,Specification,Low,Implemented,2025-08-14
+2150,46,10,CC-002150,Storage,Low,Implemented,2024-05-19
+2151,154,84,CC-002151,Packaging,Low,Implemented,2025-06-09
+2152,24,117,CC-002152,Method,Medium,Proposed,2024-09-18
+2153,272,117,CC-002153,Specification,Low,Approved,2024-09-01
+2154,44,83,CC-002154,Method,Low,Approved,2024-08-07
+2155,65,51,CC-002155,Storage,Medium,Approved,2025-01-31
+2156,187,87,CC-002156,Packaging,Medium,Rejected,2024-12-02
+2157,91,45,CC-002157,Method,Low,Proposed,2025-12-09
+2158,185,23,CC-002158,Specification,High,Rejected,2024-08-30
+2159,286,36,CC-002159,Storage,Low,Approved,2024-12-16
+2160,287,66,CC-002160,Packaging,Medium,Proposed,2024-12-30
+2161,267,53,CC-002161,Supplier Site,Low,Implemented,2025-07-09
+2162,29,113,CC-002162,Specification,Low,Implemented,2024-09-16
+2163,83,9,CC-002163,Method,Low,Proposed,2025-07-29
+2164,280,63,CC-002164,Method,Medium,Implemented,2024-10-18
+2165,235,79,CC-002165,Packaging,Low,Rejected,2024-12-13
+2166,16,30,CC-002166,Specification,Low,Approved,2024-08-06
+2167,143,37,CC-002167,Method,Low,Implemented,2024-10-20
+2168,217,101,CC-002168,Supplier Site,Low,Implemented,2024-08-26
+2169,43,53,CC-002169,Process,Low,Implemented,2025-02-22
+2170,230,87,CC-002170,Packaging,Medium,Implemented,2025-01-10
+2171,73,10,CC-002171,Storage,High,Implemented,2025-03-02
+2172,18,57,CC-002172,Process,Low,Implemented,2026-01-19
+2173,221,10,CC-002173,Process,Medium,Approved,2025-04-07
+2174,212,24,CC-002174,Packaging,High,Implemented,2025-02-20
+2175,143,81,CC-002175,Supplier Site,Low,Implemented,2024-12-10
+2176,204,84,CC-002176,Packaging,Low,Implemented,2025-06-22
+2177,101,109,CC-002177,Process,Medium,Implemented,2024-11-04
+2178,130,35,CC-002178,Process,Low,Proposed,2026-02-21
+2179,272,109,CC-002179,Method,Medium,Implemented,2024-10-02
+2180,114,53,CC-002180,Specification,High,Approved,2024-05-14
+2181,53,31,CC-002181,Supplier Site,High,Implemented,2024-05-15
+2182,154,43,CC-002182,Storage,Medium,Implemented,2024-12-31
+2183,13,52,CC-002183,Specification,Low,Implemented,2025-06-13
+2184,161,17,CC-002184,Process,Medium,Approved,2025-01-13
+2185,261,29,CC-002185,Specification,Medium,Rejected,2024-12-21
+2186,230,48,CC-002186,Packaging,High,Rejected,2025-03-29
+2187,27,93,CC-002187,Method,Low,Proposed,2025-11-10
+2188,262,28,CC-002188,Process,Low,Proposed,2026-02-05
+2189,84,38,CC-002189,Packaging,Medium,Implemented,2024-09-13
+2190,27,18,CC-002190,Storage,Low,Implemented,2024-05-24
+2191,26,26,CC-002191,Packaging,Medium,Implemented,2026-02-15
+2192,31,80,CC-002192,Packaging,Medium,Implemented,2025-02-07
+2193,283,40,CC-002193,Process,Low,Implemented,2025-08-04
+2194,59,49,CC-002194,Supplier Site,Medium,Proposed,2024-04-03
+2195,101,68,CC-002195,Storage,Medium,Implemented,2024-11-18
+2196,18,29,CC-002196,Packaging,Low,Proposed,2026-03-23
+2197,176,60,CC-002197,Process,Low,Implemented,2025-11-10
+2198,89,20,CC-002198,Method,Low,Rejected,2026-04-04
+2199,180,79,CC-002199,Process,Medium,Implemented,2026-01-21
+2200,296,47,CC-002200,Method,High,Approved,2024-08-15
+2201,261,61,CC-002201,Storage,Low,Implemented,2025-06-06
+2202,41,117,CC-002202,Specification,High,Implemented,2025-04-17
+2203,109,37,CC-002203,Storage,Low,Implemented,2024-01-07
+2204,141,94,CC-002204,Specification,Low,Rejected,2026-03-13
+2205,41,97,CC-002205,Supplier Site,Medium,Implemented,2026-03-27
+2206,151,120,CC-002206,Packaging,Low,Implemented,2025-08-29
+2207,294,118,CC-002207,Packaging,Low,Implemented,2024-11-01
+2208,4,113,CC-002208,Process,Low,Implemented,2024-01-03
+2209,263,99,CC-002209,Storage,Low,Proposed,2024-10-07
+2210,12,87,CC-002210,Supplier Site,Medium,Implemented,2024-08-18
+2211,178,85,CC-002211,Method,Medium,Implemented,2024-06-23
+2212,106,75,CC-002212,Method,Medium,Implemented,2024-10-15
+2213,12,9,CC-002213,Process,High,Implemented,2025-02-04
+2214,279,10,CC-002214,Supplier Site,Low,Proposed,2024-05-12
+2215,169,32,CC-002215,Storage,High,Approved,2024-03-10
+2216,138,45,CC-002216,Packaging,Medium,Implemented,2024-01-26
+2217,95,34,CC-002217,Method,Low,Approved,2026-03-08
+2218,85,37,CC-002218,Packaging,Low,Proposed,2026-02-24
+2219,241,101,CC-002219,Storage,Medium,Implemented,2025-08-27
+2220,16,52,CC-002220,Packaging,Low,Proposed,2024-09-03
+2221,217,21,CC-002221,Supplier Site,Low,Implemented,2026-02-19
+2222,187,109,CC-002222,Method,Low,Implemented,2025-01-09
+2223,166,94,CC-002223,Storage,Low,Implemented,2026-03-17
+2224,298,114,CC-002224,Specification,Medium,Implemented,2026-02-09
+2225,274,22,CC-002225,Process,Medium,Implemented,2025-12-30
+2226,65,81,CC-002226,Supplier Site,High,Approved,2025-09-04
+2227,235,19,CC-002227,Method,Medium,Approved,2026-01-22
+2228,123,70,CC-002228,Method,Low,Implemented,2024-10-11
+2229,57,16,CC-002229,Process,Low,Implemented,2024-03-05
+2230,114,3,CC-002230,Method,Low,Implemented,2026-04-16
+2231,31,83,CC-002231,Process,Low,Implemented,2026-03-11
+2232,3,5,CC-002232,Process,Medium,Approved,2025-04-25
+2233,101,50,CC-002233,Specification,Medium,Implemented,2024-06-09
+2234,235,109,CC-002234,Storage,High,Approved,2025-03-14
+2235,123,79,CC-002235,Packaging,Low,Implemented,2024-10-06
+2236,272,100,CC-002236,Method,Medium,Implemented,2026-03-29
+2237,218,94,CC-002237,Process,Low,Implemented,2024-07-02
+2238,140,13,CC-002238,Method,Low,Implemented,2025-10-27
+2239,192,68,CC-002239,Packaging,Low,Implemented,2025-02-03
+2240,233,54,CC-002240,Process,Medium,Approved,2025-04-16
+2241,136,25,CC-002241,Packaging,Medium,Implemented,2026-02-03
+2242,241,30,CC-002242,Storage,Low,Proposed,2024-02-15
+2243,232,45,CC-002243,Specification,Medium,Implemented,2025-12-03
+2244,196,7,CC-002244,Specification,Medium,Implemented,2024-01-13
+2245,262,46,CC-002245,Packaging,Medium,Approved,2024-02-16
+2246,182,73,CC-002246,Method,Medium,Implemented,2024-12-07
+2247,110,43,CC-002247,Storage,Medium,Implemented,2025-06-04
+2248,30,26,CC-002248,Process,Low,Implemented,2024-11-07
+2249,254,113,CC-002249,Method,Medium,Implemented,2024-10-20
+2250,237,6,CC-002250,Supplier Site,Medium,Implemented,2025-02-21
+2251,58,88,CC-002251,Supplier Site,Medium,Implemented,2024-09-24
+2252,290,34,CC-002252,Packaging,Low,Implemented,2026-02-26
+2253,104,102,CC-002253,Packaging,Low,Implemented,2025-05-20
+2254,154,62,CC-002254,Supplier Site,Medium,Implemented,2024-09-27
+2255,200,52,CC-002255,Packaging,Low,Approved,2025-03-19
+2256,27,9,CC-002256,Packaging,Low,Implemented,2025-04-26
+2257,230,107,CC-002257,Supplier Site,High,Approved,2026-01-14
+2258,260,107,CC-002258,Packaging,Low,Implemented,2025-09-01
+2259,79,13,CC-002259,Packaging,Medium,Proposed,2025-01-03
+2260,120,82,CC-002260,Method,Low,Implemented,2025-04-14
+2261,169,94,CC-002261,Specification,Medium,Implemented,2024-08-08
+2262,60,83,CC-002262,Packaging,Low,Implemented,2025-09-03
+2263,293,70,CC-002263,Supplier Site,Medium,Implemented,2024-01-26
+2264,136,81,CC-002264,Process,Low,Implemented,2026-02-05
+2265,276,69,CC-002265,Specification,High,Approved,2025-07-13
+2266,260,42,CC-002266,Supplier Site,Low,Implemented,2025-12-27
+2267,73,75,CC-002267,Storage,Low,Implemented,2024-03-27
+2268,124,60,CC-002268,Specification,High,Implemented,2025-04-21
+2269,92,102,CC-002269,Specification,Medium,Implemented,2026-04-19
+2270,239,67,CC-002270,Supplier Site,Low,Proposed,2026-03-08
+2271,21,70,CC-002271,Specification,Low,Implemented,2026-04-07
+2272,155,25,CC-002272,Packaging,Medium,Implemented,2024-11-09
+2273,159,52,CC-002273,Packaging,Medium,Implemented,2026-04-02
+2274,256,102,CC-002274,Specification,Low,Implemented,2025-06-01
+2275,266,39,CC-002275,Specification,Medium,Implemented,2024-05-16
+2276,275,90,CC-002276,Specification,Low,Proposed,2024-11-28
+2277,276,2,CC-002277,Supplier Site,Low,Proposed,2025-12-05
+2278,93,87,CC-002278,Specification,Medium,Implemented,2024-06-28
+2279,17,91,CC-002279,Process,Medium,Implemented,2025-10-21
+2280,76,1,CC-002280,Specification,Medium,Approved,2025-11-01
+2281,216,68,CC-002281,Storage,Medium,Proposed,2026-04-26
+2282,196,66,CC-002282,Supplier Site,Low,Rejected,2024-06-15
+2283,225,93,CC-002283,Packaging,Medium,Approved,2025-05-11
+2284,105,106,CC-002284,Packaging,Medium,Implemented,2024-09-20
+2285,297,61,CC-002285,Process,Low,Implemented,2024-10-20
+2286,68,87,CC-002286,Storage,Medium,Implemented,2024-07-17
+2287,293,50,CC-002287,Storage,Low,Rejected,2024-06-03
+2288,229,39,CC-002288,Storage,Low,Approved,2024-12-01
+2289,77,58,CC-002289,Storage,Low,Implemented,2025-08-28
+2290,117,115,CC-002290,Supplier Site,Medium,Implemented,2024-01-22
+2291,131,48,CC-002291,Storage,Low,Implemented,2025-10-16
+2292,35,99,CC-002292,Process,High,Implemented,2025-11-25
+2293,186,4,CC-002293,Specification,Low,Proposed,2024-05-21
+2294,46,52,CC-002294,Packaging,Low,Implemented,2025-07-24
+2295,211,74,CC-002295,Supplier Site,Medium,Implemented,2024-01-10
+2296,257,41,CC-002296,Storage,Low,Implemented,2026-04-23
+2297,234,84,CC-002297,Specification,Low,Rejected,2025-06-24
+2298,151,95,CC-002298,Method,Low,Implemented,2024-06-02
+2299,229,91,CC-002299,Storage,Low,Proposed,2024-05-18
+2300,42,58,CC-002300,Storage,Medium,Proposed,2024-10-01
+2301,102,97,CC-002301,Storage,Medium,Implemented,2026-02-07
+2302,175,15,CC-002302,Method,Low,Implemented,2024-09-26
+2303,107,63,CC-002303,Storage,Low,Implemented,2025-07-03
+2304,220,5,CC-002304,Process,Medium,Approved,2024-03-24
+2305,290,8,CC-002305,Specification,Low,Implemented,2026-01-07
+2306,19,66,CC-002306,Specification,Medium,Implemented,2026-03-11
+2307,195,64,CC-002307,Specification,Low,Proposed,2025-11-08
+2308,38,76,CC-002308,Supplier Site,Medium,Implemented,2025-10-05
+2309,243,101,CC-002309,Storage,Low,Implemented,2025-09-07
+2310,125,100,CC-002310,Storage,Medium,Approved,2025-06-19
+2311,117,113,CC-002311,Method,Medium,Implemented,2024-09-25
+2312,145,119,CC-002312,Storage,High,Implemented,2025-05-17
+2313,278,63,CC-002313,Method,High,Implemented,2024-10-06
+2314,259,1,CC-002314,Specification,Low,Implemented,2025-05-30
+2315,79,92,CC-002315,Supplier Site,Medium,Implemented,2024-05-29
+2316,130,102,CC-002316,Process,Low,Approved,2025-02-02
+2317,40,100,CC-002317,Method,Low,Implemented,2026-03-23
+2318,241,17,CC-002318,Method,Medium,Approved,2025-08-30
+2319,216,106,CC-002319,Process,Medium,Approved,2025-09-29
+2320,184,34,CC-002320,Method,High,Implemented,2025-06-26
+2321,297,88,CC-002321,Specification,Low,Approved,2024-04-18
+2322,175,73,CC-002322,Supplier Site,Medium,Implemented,2026-01-09
+2323,300,16,CC-002323,Storage,Medium,Approved,2026-01-28
+2324,24,70,CC-002324,Storage,Low,Implemented,2024-01-01
+2325,290,115,CC-002325,Packaging,Low,Implemented,2026-01-04
+2326,112,85,CC-002326,Storage,Medium,Approved,2025-10-14
+2327,261,119,CC-002327,Packaging,Low,Proposed,2025-03-22
+2328,133,71,CC-002328,Method,Medium,Proposed,2025-10-16
+2329,279,44,CC-002329,Supplier Site,Medium,Approved,2025-01-18
+2330,231,14,CC-002330,Supplier Site,Low,Proposed,2024-01-31
+2331,136,58,CC-002331,Method,Medium,Implemented,2026-02-25
+2332,38,84,CC-002332,Specification,Low,Implemented,2024-12-05
+2333,43,82,CC-002333,Process,Medium,Implemented,2025-06-16
+2334,72,59,CC-002334,Process,Low,Implemented,2025-12-23
+2335,222,109,CC-002335,Process,Low,Rejected,2025-06-16
+2336,121,12,CC-002336,Packaging,Low,Implemented,2024-05-03
+2337,121,93,CC-002337,Specification,High,Implemented,2025-11-01
+2338,14,116,CC-002338,Specification,Low,Implemented,2024-11-24
+2339,78,103,CC-002339,Process,Medium,Implemented,2025-09-27
+2340,219,70,CC-002340,Process,Medium,Implemented,2025-05-22
+2341,272,21,CC-002341,Packaging,Low,Implemented,2024-10-18
+2342,274,15,CC-002342,Method,Low,Implemented,2024-04-19
+2343,19,51,CC-002343,Specification,Low,Implemented,2025-12-26
+2344,31,112,CC-002344,Process,Medium,Proposed,2025-11-07
+2345,293,107,CC-002345,Method,Medium,Approved,2025-11-07
+2346,214,100,CC-002346,Specification,Low,Implemented,2025-09-30
+2347,156,7,CC-002347,Process,Medium,Proposed,2024-06-09
+2348,64,84,CC-002348,Storage,Low,Implemented,2025-12-18
+2349,112,91,CC-002349,Supplier Site,Medium,Implemented,2026-04-15
+2350,133,98,CC-002350,Process,Medium,Implemented,2026-04-29
+2351,188,100,CC-002351,Specification,Medium,Implemented,2024-10-04
+2352,147,102,CC-002352,Process,Medium,Proposed,2025-10-14
+2353,49,55,CC-002353,Specification,Medium,Implemented,2024-11-03
+2354,233,118,CC-002354,Process,Low,Implemented,2025-02-24
+2355,131,53,CC-002355,Storage,Medium,Approved,2024-02-28
+2356,152,3,CC-002356,Supplier Site,Medium,Proposed,2025-05-11
+2357,117,50,CC-002357,Specification,Medium,Implemented,2025-05-24
+2358,98,13,CC-002358,Process,Low,Implemented,2026-04-07
+2359,279,118,CC-002359,Specification,Low,Implemented,2025-09-11
+2360,69,27,CC-002360,Storage,Low,Implemented,2025-10-20
+2361,254,109,CC-002361,Process,Low,Proposed,2025-02-04
+2362,232,9,CC-002362,Supplier Site,Low,Implemented,2024-10-06
+2363,251,36,CC-002363,Method,Medium,Implemented,2025-01-13
+2364,15,49,CC-002364,Packaging,Low,Approved,2025-06-01
+2365,233,13,CC-002365,Packaging,Medium,Implemented,2025-06-17
+2366,239,20,CC-002366,Supplier Site,Medium,Approved,2026-04-29
+2367,68,6,CC-002367,Supplier Site,High,Proposed,2024-01-28
+2368,6,60,CC-002368,Specification,Low,Implemented,2026-01-18
+2369,235,3,CC-002369,Specification,Medium,Approved,2024-12-04
+2370,64,54,CC-002370,Packaging,Low,Implemented,2024-01-05
+2371,140,97,CC-002371,Packaging,Medium,Approved,2025-12-08
+2372,106,101,CC-002372,Supplier Site,Medium,Implemented,2024-03-23
+2373,207,112,CC-002373,Process,High,Proposed,2024-09-17
+2374,222,10,CC-002374,Packaging,Medium,Implemented,2026-04-19
+2375,163,85,CC-002375,Packaging,Medium,Implemented,2025-04-26
+2376,199,57,CC-002376,Process,Low,Implemented,2025-04-22
+2377,25,28,CC-002377,Method,Low,Implemented,2025-05-25
+2378,97,87,CC-002378,Storage,Low,Implemented,2024-04-06
+2379,296,21,CC-002379,Process,Low,Approved,2025-09-10
+2380,244,76,CC-002380,Storage,Low,Implemented,2024-02-11
+2381,210,105,CC-002381,Packaging,Medium,Proposed,2024-08-28
+2382,40,54,CC-002382,Packaging,Medium,Implemented,2025-06-27
+2383,53,38,CC-002383,Packaging,Low,Approved,2026-03-24
+2384,111,49,CC-002384,Supplier Site,Medium,Proposed,2024-07-29
+2385,272,102,CC-002385,Process,High,Implemented,2025-05-15
+2386,246,63,CC-002386,Storage,Low,Implemented,2024-08-17
+2387,31,56,CC-002387,Packaging,Medium,Implemented,2024-05-12
+2388,300,71,CC-002388,Method,Low,Implemented,2025-08-22
+2389,149,52,CC-002389,Specification,Low,Implemented,2024-09-15
+2390,192,84,CC-002390,Method,Low,Implemented,2025-08-19
+2391,256,109,CC-002391,Method,Low,Approved,2026-03-29
+2392,214,48,CC-002392,Process,Medium,Implemented,2025-06-26
+2393,186,91,CC-002393,Method,Low,Rejected,2025-02-18
+2394,265,2,CC-002394,Supplier Site,Low,Proposed,2025-04-12
+2395,203,49,CC-002395,Packaging,Low,Rejected,2026-04-26
+2396,227,63,CC-002396,Storage,Medium,Implemented,2025-06-14
+2397,19,85,CC-002397,Process,Low,Implemented,2026-02-17
+2398,94,60,CC-002398,Packaging,Low,Rejected,2024-08-17
+2399,284,100,CC-002399,Process,Medium,Implemented,2024-03-26
+2400,235,99,CC-002400,Method,Low,Approved,2025-02-20
+2401,22,56,CC-002401,Supplier Site,Low,Approved,2024-07-08
+2402,62,24,CC-002402,Process,Low,Rejected,2024-04-15
+2403,138,100,CC-002403,Supplier Site,Low,Implemented,2024-05-12
+2404,179,5,CC-002404,Supplier Site,Low,Implemented,2024-08-21
+2405,288,78,CC-002405,Method,High,Implemented,2025-08-10
+2406,138,91,CC-002406,Method,Medium,Rejected,2024-06-04
+2407,212,89,CC-002407,Storage,Medium,Proposed,2024-06-19
+2408,253,26,CC-002408,Process,Medium,Implemented,2024-05-05
+2409,44,95,CC-002409,Supplier Site,Low,Implemented,2025-09-18
+2410,117,76,CC-002410,Method,Low,Approved,2024-11-26
+2411,34,47,CC-002411,Storage,Low,Implemented,2026-01-03
+2412,215,41,CC-002412,Process,Medium,Implemented,2025-06-03
+2413,257,29,CC-002413,Packaging,Medium,Implemented,2024-05-21
+2414,275,3,CC-002414,Supplier Site,Medium,Implemented,2026-04-09
+2415,15,17,CC-002415,Supplier Site,Low,Approved,2025-11-08
+2416,115,101,CC-002416,Supplier Site,Medium,Implemented,2025-04-08
+2417,161,20,CC-002417,Packaging,Low,Implemented,2024-07-10
+2418,274,30,CC-002418,Specification,Medium,Implemented,2024-11-18
+2419,152,31,CC-002419,Supplier Site,Medium,Implemented,2024-07-08
+2420,25,1,CC-002420,Process,Low,Implemented,2024-10-14
+2421,21,13,CC-002421,Specification,Medium,Approved,2024-02-21
+2422,88,66,CC-002422,Method,Medium,Implemented,2024-12-29
+2423,223,65,CC-002423,Storage,Medium,Proposed,2025-02-28
+2424,158,53,CC-002424,Storage,High,Implemented,2024-08-17
+2425,258,9,CC-002425,Process,Medium,Implemented,2025-10-26
+2426,99,15,CC-002426,Supplier Site,Low,Implemented,2025-12-15
+2427,196,34,CC-002427,Specification,Low,Implemented,2025-11-26
+2428,199,103,CC-002428,Specification,Low,Implemented,2025-01-16
+2429,152,81,CC-002429,Supplier Site,Medium,Rejected,2024-08-03
+2430,11,92,CC-002430,Specification,Medium,Implemented,2025-11-08
+2431,6,26,CC-002431,Storage,Medium,Implemented,2025-01-16
+2432,270,114,CC-002432,Packaging,Low,Proposed,2024-04-08
+2433,254,17,CC-002433,Specification,High,Implemented,2025-05-04
+2434,254,112,CC-002434,Specification,High,Implemented,2025-08-04
+2435,157,108,CC-002435,Specification,Medium,Implemented,2024-01-02
+2436,84,93,CC-002436,Packaging,High,Approved,2024-06-26
+2437,23,77,CC-002437,Storage,Low,Implemented,2025-01-05
+2438,63,111,CC-002438,Packaging,Medium,Proposed,2025-03-23
+2439,287,99,CC-002439,Process,Low,Implemented,2025-02-24
+2440,146,49,CC-002440,Supplier Site,Medium,Implemented,2025-09-25
+2441,176,42,CC-002441,Method,Low,Approved,2024-02-21
+2442,37,12,CC-002442,Specification,Medium,Proposed,2026-02-04
+2443,249,76,CC-002443,Specification,Medium,Proposed,2025-03-14
+2444,38,27,CC-002444,Supplier Site,Medium,Approved,2026-04-23
+2445,121,17,CC-002445,Specification,High,Approved,2024-09-25
+2446,190,111,CC-002446,Process,High,Implemented,2024-11-30
+2447,25,20,CC-002447,Packaging,Low,Implemented,2026-04-15
+2448,157,67,CC-002448,Storage,Low,Approved,2024-01-24
+2449,137,73,CC-002449,Method,Medium,Implemented,2025-12-11
+2450,127,58,CC-002450,Storage,Medium,Proposed,2025-03-08
+2451,215,77,CC-002451,Method,High,Proposed,2024-10-11
+2452,274,120,CC-002452,Specification,Low,Proposed,2025-01-03
+2453,294,99,CC-002453,Packaging,Low,Approved,2025-10-04
+2454,88,25,CC-002454,Process,Low,Approved,2024-02-04
+2455,47,8,CC-002455,Method,Medium,Implemented,2024-11-02
+2456,57,95,CC-002456,Supplier Site,Medium,Approved,2026-03-05
+2457,66,106,CC-002457,Storage,Medium,Approved,2024-06-18
+2458,53,8,CC-002458,Storage,Medium,Implemented,2024-04-20
+2459,112,76,CC-002459,Process,Low,Implemented,2024-03-05
+2460,196,91,CC-002460,Method,Medium,Implemented,2025-08-24
+2461,101,97,CC-002461,Supplier Site,High,Approved,2025-05-16
+2462,188,105,CC-002462,Packaging,Medium,Approved,2026-02-22
+2463,298,116,CC-002463,Process,Medium,Approved,2026-01-21
+2464,214,117,CC-002464,Supplier Site,Low,Proposed,2024-12-10
+2465,57,9,CC-002465,Packaging,Medium,Implemented,2026-02-08
+2466,1,95,CC-002466,Packaging,Low,Implemented,2025-05-01
+2467,72,40,CC-002467,Packaging,Low,Implemented,2026-01-06
+2468,71,40,CC-002468,Specification,Low,Proposed,2024-08-11
+2469,105,116,CC-002469,Supplier Site,Low,Implemented,2024-09-23
+2470,204,25,CC-002470,Process,High,Implemented,2025-01-29
+2471,226,33,CC-002471,Supplier Site,Low,Proposed,2026-04-07
+2472,59,79,CC-002472,Process,Medium,Implemented,2026-04-03
+2473,164,65,CC-002473,Method,Medium,Approved,2024-02-15
+2474,244,56,CC-002474,Process,Low,Proposed,2024-03-03
+2475,47,41,CC-002475,Process,Low,Implemented,2024-12-05
+2476,208,15,CC-002476,Method,Medium,Implemented,2024-11-17
+2477,23,117,CC-002477,Method,Low,Implemented,2024-12-12
+2478,37,55,CC-002478,Packaging,Low,Approved,2025-09-04
+2479,6,24,CC-002479,Process,High,Implemented,2024-11-07
+2480,77,105,CC-002480,Storage,Medium,Approved,2024-02-19
+2481,50,84,CC-002481,Method,Medium,Implemented,2026-01-05
+2482,97,90,CC-002482,Storage,Low,Approved,2024-11-16
+2483,179,76,CC-002483,Supplier Site,High,Implemented,2024-11-10
+2484,187,107,CC-002484,Method,Low,Implemented,2025-12-27
+2485,64,83,CC-002485,Specification,Low,Approved,2024-11-26
+2486,108,97,CC-002486,Specification,Low,Approved,2024-12-26
+2487,141,33,CC-002487,Supplier Site,Low,Implemented,2025-05-17
+2488,277,110,CC-002488,Storage,Low,Approved,2026-04-26
+2489,61,47,CC-002489,Storage,Medium,Proposed,2024-08-17
+2490,53,31,CC-002490,Storage,High,Approved,2024-04-02
+2491,137,74,CC-002491,Method,Low,Proposed,2024-10-13
+2492,111,77,CC-002492,Process,Medium,Implemented,2024-09-19
+2493,225,42,CC-002493,Packaging,Medium,Approved,2024-09-10
+2494,140,34,CC-002494,Storage,Low,Proposed,2025-07-01
+2495,53,80,CC-002495,Supplier Site,Low,Implemented,2025-03-31
+2496,209,5,CC-002496,Supplier Site,Medium,Implemented,2025-02-26
+2497,192,2,CC-002497,Storage,Medium,Implemented,2025-02-13
+2498,90,20,CC-002498,Storage,Low,Implemented,2024-03-27
+2499,28,87,CC-002499,Method,Low,Implemented,2024-03-29
+2500,7,79,CC-002500,Specification,Low,Implemented,2024-03-31
